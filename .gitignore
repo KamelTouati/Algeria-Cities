@@ -1,0 +1,10 @@
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Intermediate shapefile unzipped parts (use .zip archives)
+shp/*.shp
+shp/*.shx
+shp/*.dbf
+shp/*.prj
+shp/*.cpg
