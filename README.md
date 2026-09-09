@@ -48,6 +48,9 @@ algeria-cities/
 │   └── algeria_cities.json        # JSON format
 ├── php/
 │   └── algeria_cities.php         # PHP associative array
+├── shp/
+│   ├── algeria_communes_shp.zip   # ESRI Shapefile of 1,541 communes (WGS84, UTF-8)
+│   └── algeria_wilayas_shp.zip    # ESRI Shapefile of 69 wilayas (WGS84, UTF-8)
 ├── sql/
 │   └── algeria_cities.sql         # SQL dump & table schema
 └── README.md
@@ -76,8 +79,8 @@ algeria-cities/
 
 ## 🗺️ GeoJSON Geometries Guide
 
-### 1. Communes Surfaces (`geojson/algeria_communes.geojson`)
-Contains vector boundaries (`Polygon` and `MultiPolygon`) for each of the 1,541 communes, allowing you to draw boundaries, compute intersections, and create thematic or choropleth maps.
+### 1. Communes Surfaces (`geojson/algeria_communes.geojson` & `shp/algeria_communes_shp.zip`)
+Contains vector boundaries (`MultiPolygon`) for each of the 1,541 communes, fully compliant with RFC 7946 and OGC CRS84, optimized for both web mapping and desktop GIS (QGIS, ArcGIS, MapInfo).
 
 ```javascript
 // Example: Leaflet GeoJSON layer for communes
