@@ -13,6 +13,7 @@ return [
         'code_commune' => 113,
         'Lat' => 27.021666,
         'Long' => 1.015,
+        'surface_km2' => 18302.44,
     ],
     [
         'id' => '2',
@@ -26,6 +27,7 @@ return [
         'code_commune' => 122,
         'Lat' => 28.0142,
         'Long' => -0.50254,
+        'surface_km2' => 4254.35,
     ],
     [
         'id' => '3',
@@ -39,6 +41,7 @@ return [
         'code_commune' => 121,
         'Lat' => 27.851111,
         'Long' => 0.2863,
+        'surface_km2' => 4805.07,
     ],
     [
         'id' => '4',
@@ -52,6 +55,7 @@ return [
         'code_commune' => 101,
         'Lat' => 27.87429,
         'Long' => -0.297222,
+        'surface_km2' => 691.28,
     ],
     [
         'id' => '5',
@@ -65,6 +69,7 @@ return [
         'code_commune' => 115,
         'Lat' => 27.602777,
         'Long' => 0.3,
+        'surface_km2' => 7580.35,
     ],
     [
         'id' => '6',
@@ -78,6 +83,7 @@ return [
         'code_commune' => 105,
         'Lat' => 27.09388889,
         'Long' => -0.121,
+        'surface_km2' => 5411.83,
     ],
     [
         'id' => '7',
@@ -91,6 +97,7 @@ return [
         'code_commune' => 104,
         'Lat' => 26.71576,
         'Long' => 0.1714,
+        'surface_km2' => 124692.14,
     ],
     [
         'id' => '8',
@@ -104,6 +111,7 @@ return [
         'code_commune' => 118,
         'Lat' => 26.983333,
         'Long' => -0.0275,
+        'surface_km2' => 17503.43,
     ],
     [
         'id' => '9',
@@ -117,6 +125,7 @@ return [
         'code_commune' => 126,
         'Lat' => 28.21194,
         'Long' => -0.175,
+        'surface_km2' => 4963.02,
     ],
     [
         'id' => '10',
@@ -130,6 +139,7 @@ return [
         'code_commune' => 108,
         'Lat' => 28.35049,
         'Long' => -0.216111,
+        'surface_km2' => 14560.7,
     ],
     [
         'id' => '11',
@@ -143,6 +153,7 @@ return [
         'code_commune' => 102,
         'Lat' => 27.416666,
         'Long' => 0.2667,
+        'surface_km2' => 6822.19,
     ],
     [
         'id' => '12',
@@ -156,6 +167,7 @@ return [
         'code_commune' => 114,
         'Lat' => 27.7605,
         'Long' => -0.266699,
+        'surface_km2' => 6996.77,
     ],
     [
         'id' => '13',
@@ -169,6 +181,7 @@ return [
         'code_commune' => 106,
         'Lat' => 26.95083333,
         'Long' => 1.015,
+        'surface_km2' => 1644.62,
     ],
     [
         'id' => '14',
@@ -182,6 +195,7 @@ return [
         'code_commune' => 111,
         'Lat' => 27.22269,
         'Long' => -0.19781,
+        'surface_km2' => 9056.39,
     ],
     [
         'id' => '15',
@@ -195,6 +209,7 @@ return [
         'code_commune' => 119,
         'Lat' => 26.70828,
         'Long' => 0.2833,
+        'surface_km2' => 1670.26,
     ],
     [
         'id' => '16',
@@ -208,6 +223,7 @@ return [
         'code_commune' => 112,
         'Lat' => 26.96667,
         'Long' => 1.08333,
+        'surface_km2' => 3057.61,
     ],
     [
         'id' => '17',
@@ -221,6 +237,7 @@ return [
         'code_commune' => 214,
         'Lat' => 36.4288223,
         'Long' => 1.05,
+        'surface_km2' => 69.72,
     ],
     [
         'id' => '18',
@@ -234,6 +251,7 @@ return [
         'code_commune' => 220,
         'Lat' => 36.350527,
         'Long' => 1.430283,
+        'surface_km2' => 135.23,
     ],
     [
         'id' => '19',
@@ -247,6 +265,7 @@ return [
         'code_commune' => 227,
         'Lat' => 36.0158333,
         'Long' => 1.3783333,
+        'surface_km2' => 99.29,
     ],
     [
         'id' => '20',
@@ -260,6 +279,7 @@ return [
         'code_commune' => 230,
         'Lat' => 36.0258,
         'Long' => 1.28,
+        'surface_km2' => 181.46,
     ],
     [
         'id' => '21',
@@ -273,6 +293,7 @@ return [
         'code_commune' => 232,
         'Lat' => 36.16277,
         'Long' => 0.97037,
+        'surface_km2' => 102.21,
     ],
     [
         'id' => '22',
@@ -286,6 +307,7 @@ return [
         'code_commune' => 234,
         'Lat' => 36.4488017,
         'Long' => 1.6482,
+        'surface_km2' => 73.15,
     ],
     [
         'id' => '23',
@@ -299,6 +321,7 @@ return [
         'code_commune' => 218,
         'Lat' => 36.21909,
         'Long' => 1.483333333,
+        'surface_km2' => 37.74,
     ],
     [
         'id' => '24',
@@ -312,6 +335,7 @@ return [
         'code_commune' => 229,
         'Lat' => 36.183333,
         'Long' => 1.5499211,
+        'surface_km2' => 76.63,
     ],
     [
         'id' => '25',
@@ -325,6 +349,7 @@ return [
         'code_commune' => 213,
         'Lat' => 36.280556,
         'Long' => 1.516111,
+        'surface_km2' => 104.39,
     ],
     [
         'id' => '26',
@@ -338,6 +363,7 @@ return [
         'code_commune' => 215,
         'Lat' => 36.245277,
         'Long' => 0.970516,
+        'surface_km2' => 142.07,
     ],
     [
         'id' => '27',
@@ -351,6 +377,7 @@ return [
         'code_commune' => 205,
         'Lat' => 36.3167,
         'Long' => 1.335167,
+        'surface_km2' => 116.29,
     ],
     [
         'id' => '28',
@@ -364,6 +391,7 @@ return [
         'code_commune' => 223,
         'Lat' => 36.401579,
         'Long' => 0.9161822,
+        'surface_km2' => 114.38,
     ],
     [
         'id' => '29',
@@ -377,6 +405,7 @@ return [
         'code_commune' => 201,
         'Lat' => 36.1647,
         'Long' => 1.3317,
+        'surface_km2' => 127.16,
     ],
     [
         'id' => '30',
@@ -390,6 +419,7 @@ return [
         'code_commune' => 233,
         'Lat' => 36.2,
         'Long' => 1.3833,
+        'surface_km2' => 59.62,
     ],
     [
         'id' => '31',
@@ -403,6 +433,7 @@ return [
         'code_commune' => 219,
         'Lat' => 36.0696,
         'Long' => 1.309028,
+        'surface_km2' => 218.58,
     ],
     [
         'id' => '32',
@@ -416,6 +447,7 @@ return [
         'code_commune' => 225,
         'Lat' => 36.4922766,
         'Long' => 1.0957418,
+        'surface_km2' => 67.99,
     ],
     [
         'id' => '33',
@@ -429,6 +461,7 @@ return [
         'code_commune' => 211,
         'Lat' => 36.46472,
         'Long' => 1.303,
+        'surface_km2' => 130.17,
     ],
     [
         'id' => '34',
@@ -442,6 +475,7 @@ return [
         'code_commune' => 202,
         'Lat' => 36.509722,
         'Long' => 1.30809,
+        'surface_km2' => 84.83,
     ],
     [
         'id' => '35',
@@ -455,6 +489,7 @@ return [
         'code_commune' => 235,
         'Lat' => 36.0019469,
         'Long' => 1.6469253,
+        'surface_km2' => 120.3,
     ],
     [
         'id' => '36',
@@ -468,6 +503,7 @@ return [
         'code_commune' => 204,
         'Lat' => 36.116111,
         'Long' => 1.55,
+        'surface_km2' => 96.4,
     ],
     [
         'id' => '37',
@@ -481,6 +517,7 @@ return [
         'code_commune' => 209,
         'Lat' => 36.11354,
         'Long' => 1.506,
+        'surface_km2' => 80.2,
     ],
     [
         'id' => '38',
@@ -494,6 +531,7 @@ return [
         'code_commune' => 231,
         'Lat' => 36.338889,
         'Long' => 1.0503,
+        'surface_km2' => 138.5,
     ],
     [
         'id' => '39',
@@ -507,6 +545,7 @@ return [
         'code_commune' => 206,
         'Lat' => 36.244723,
         'Long' => 0.922852,
+        'surface_km2' => 185.29,
     ],
     [
         'id' => '40',
@@ -520,6 +559,7 @@ return [
         'code_commune' => 207,
         'Lat' => 36.5311,
         'Long' => 1.56891,
+        'surface_km2' => 106.73,
     ],
     [
         'id' => '41',
@@ -533,6 +573,7 @@ return [
         'code_commune' => 222,
         'Lat' => 36.4,
         'Long' => 1.1929114,
+        'surface_km2' => 81.34,
     ],
     [
         'id' => '42',
@@ -546,6 +587,7 @@ return [
         'code_commune' => 216,
         'Lat' => 36.525556,
         'Long' => 1.4967,
+        'surface_km2' => 75.1,
     ],
     [
         'id' => '43',
@@ -559,6 +601,7 @@ return [
         'code_commune' => 224,
         'Lat' => 36.1589988,
         'Long' => 1.2409799,
+        'surface_km2' => 39.0,
     ],
     [
         'id' => '44',
@@ -572,6 +615,7 @@ return [
         'code_commune' => 226,
         'Lat' => 36.3333333,
         'Long' => 0.7303,
+        'surface_km2' => 63.19,
     ],
     [
         'id' => '45',
@@ -585,6 +629,7 @@ return [
         'code_commune' => 210,
         'Lat' => 36.2316052,
         'Long' => 1.236999,
+        'surface_km2' => 244.81,
     ],
     [
         'id' => '46',
@@ -598,6 +643,7 @@ return [
         'code_commune' => 212,
         'Lat' => 36.066944,
         'Long' => 1.126,
+        'surface_km2' => 220.45,
     ],
     [
         'id' => '47',
@@ -611,6 +657,7 @@ return [
         'code_commune' => 221,
         'Lat' => 36.1,
         'Long' => 1.2,
+        'surface_km2' => 101.46,
     ],
     [
         'id' => '48',
@@ -624,6 +671,7 @@ return [
         'code_commune' => 208,
         'Lat' => 36.1100346,
         'Long' => 1.110123,
+        'surface_km2' => 183.92,
     ],
     [
         'id' => '49',
@@ -637,6 +685,7 @@ return [
         'code_commune' => 203,
         'Lat' => 36.3539,
         'Long' => 1.37403,
+        'surface_km2' => 59.47,
     ],
     [
         'id' => '50',
@@ -650,6 +699,7 @@ return [
         'code_commune' => 228,
         'Lat' => 36.2767832,
         'Long' => 1.3855161,
+        'surface_km2' => 106.17,
     ],
     [
         'id' => '51',
@@ -663,6 +713,7 @@ return [
         'code_commune' => 217,
         'Lat' => 36.255278,
         'Long' => 0.85174,
+        'surface_km2' => 203.37,
     ],
     [
         'id' => '52',
@@ -676,6 +727,7 @@ return [
         'code_commune' => 312,
         'Lat' => 34.47475,
         'Long' => 2.17408,
+        'surface_km2' => 722.83,
     ],
     [
         'id' => '53',
@@ -689,6 +741,7 @@ return [
         'code_commune' => 310,
         'Lat' => 34.2961,
         'Long' => 1.94667,
+        'surface_km2' => 1184.32,
     ],
     [
         'id' => '54',
@@ -702,6 +755,7 @@ return [
         'code_commune' => 311,
         'Lat' => 34.156872,
         'Long' => 1.542386,
+        'surface_km2' => 448.19,
     ],
     [
         'id' => '55',
@@ -715,6 +769,7 @@ return [
         'code_commune' => 308,
         'Lat' => 33.87729,
         'Long' => 2.52113,
+        'surface_km2' => 1287.28,
     ],
     [
         'id' => '56',
@@ -728,6 +783,7 @@ return [
         'code_commune' => 318,
         'Lat' => 33.503632,
         'Long' => 2.101217,
+        'surface_km2' => 1253.92,
     ],
     [
         'id' => '57',
@@ -741,6 +797,7 @@ return [
         'code_commune' => 301,
         'Lat' => 33.8,
         'Long' => 2.875,
+        'surface_km2' => 488.86,
     ],
     [
         'id' => '58',
@@ -754,6 +811,7 @@ return [
         'code_commune' => 302,
         'Lat' => 33.788564,
         'Long' => 3.140717,
+        'surface_km2' => 508.35,
     ],
     [
         'id' => '59',
@@ -767,6 +825,7 @@ return [
         'code_commune' => 320,
         'Lat' => 33.8264,
         'Long' => 2.9899,
+        'surface_km2' => 266.47,
     ],
     [
         'id' => '60',
@@ -780,6 +839,7 @@ return [
         'code_commune' => 304,
         'Lat' => 34.12942,
         'Long' => 3.01436,
+        'surface_km2' => 1311.12,
     ],
     [
         'id' => '61',
@@ -793,6 +853,7 @@ return [
         'code_commune' => 305,
         'Lat' => 33.41742,
         'Long' => 3.55021,
+        'surface_km2' => 4675.68,
     ],
     [
         'id' => '62',
@@ -806,6 +867,7 @@ return [
         'code_commune' => 306,
         'Lat' => 32.928,
         'Long' => 3.271,
+        'surface_km2' => 3090.23,
     ],
     [
         'id' => '63',
@@ -819,6 +881,7 @@ return [
         'code_commune' => 307,
         'Lat' => 33.7956,
         'Long' => 2.3052,
+        'surface_km2' => 4248.75,
     ],
     [
         'id' => '64',
@@ -832,6 +895,7 @@ return [
         'code_commune' => 323,
         'Lat' => 33.645394,
         'Long' => 2.444713,
+        'surface_km2' => 853.54,
     ],
     [
         'id' => '65',
@@ -845,6 +909,7 @@ return [
         'code_commune' => 309,
         'Lat' => 33.744444,
         'Long' => 2.794,
+        'surface_km2' => 1714.6,
     ],
     [
         'id' => '66',
@@ -858,6 +923,7 @@ return [
         'code_commune' => 303,
         'Lat' => 33.751463,
         'Long' => 3.002939,
+        'surface_km2' => 1263.85,
     ],
     [
         'id' => '67',
@@ -871,6 +937,7 @@ return [
         'code_commune' => 416,
         'Lat' => 35.663889,
         'Long' => 7.2989,
+        'surface_km2' => 344.04,
     ],
     [
         'id' => '68',
@@ -884,6 +951,7 @@ return [
         'code_commune' => 419,
         'Lat' => 35.70805,
         'Long' => 6.816944,
+        'surface_km2' => 313.38,
     ],
     [
         'id' => '69',
@@ -897,6 +965,7 @@ return [
         'code_commune' => 425,
         'Lat' => 35.9711,
         'Long' => 6.8737,
+        'surface_km2' => 262.15,
     ],
     [
         'id' => '70',
@@ -910,6 +979,7 @@ return [
         'code_commune' => 426,
         'Lat' => 35.716667,
         'Long' => 6.933333,
+        'surface_km2' => 160.74,
     ],
     [
         'id' => '71',
@@ -923,6 +993,7 @@ return [
         'code_commune' => 424,
         'Lat' => 35.631,
         'Long' => 7.6669,
+        'surface_km2' => 183.8,
     ],
     [
         'id' => '72',
@@ -936,6 +1007,7 @@ return [
         'code_commune' => 407,
         'Lat' => 35.665278,
         'Long' => 7.788333,
+        'surface_km2' => 180.08,
     ],
     [
         'id' => '73',
@@ -949,6 +1021,7 @@ return [
         'code_commune' => 404,
         'Lat' => 35.790804,
         'Long' => 7.6833,
+        'surface_km2' => 115.09,
     ],
     [
         'id' => '74',
@@ -962,6 +1035,7 @@ return [
         'code_commune' => 422,
         'Lat' => 36.0833,
         'Long' => 7.25,
+        'surface_km2' => 177.0,
     ],
     [
         'id' => '75',
@@ -975,6 +1049,7 @@ return [
         'code_commune' => 417,
         'Lat' => 35.895833,
         'Long' => 6.389444,
+        'surface_km2' => 227.24,
     ],
     [
         'id' => '76',
@@ -988,6 +1063,7 @@ return [
         'code_commune' => 420,
         'Lat' => 35.836111,
         'Long' => 6.506667,
+        'surface_km2' => 139.2,
     ],
     [
         'id' => '77',
@@ -1001,6 +1077,7 @@ return [
         'code_commune' => 401,
         'Lat' => 35.8706,
         'Long' => 7.117,
+        'surface_km2' => 428.37,
     ],
     [
         'id' => '78',
@@ -1014,6 +1091,7 @@ return [
         'code_commune' => 408,
         'Lat' => 35.941111,
         'Long' => 7.1875,
+        'surface_km2' => 198.94,
     ],
     [
         'id' => '79',
@@ -1027,6 +1105,7 @@ return [
         'code_commune' => 427,
         'Lat' => 35.684444,
         'Long' => 6.9403,
+        'surface_km2' => 737.88,
     ],
     [
         'id' => '80',
@@ -1040,6 +1119,7 @@ return [
         'code_commune' => 421,
         'Lat' => 35.894444,
         'Long' => 6.29,
+        'surface_km2' => 167.86,
     ],
     [
         'id' => '81',
@@ -1053,6 +1133,7 @@ return [
         'code_commune' => 402,
         'Lat' => 35.7981327,
         'Long' => 7.3921734,
+        'surface_km2' => 53.67,
     ],
     [
         'id' => '82',
@@ -1066,6 +1147,7 @@ return [
         'code_commune' => 409,
         'Lat' => 35.795833,
         'Long' => 7.37667,
+        'surface_km2' => 347.26,
     ],
     [
         'id' => '83',
@@ -1079,6 +1161,7 @@ return [
         'code_commune' => 418,
         'Lat' => 35.78777778,
         'Long' => 7.468055,
+        'surface_km2' => 196.24,
     ],
     [
         'id' => '84',
@@ -1092,6 +1175,7 @@ return [
         'code_commune' => 403,
         'Lat' => 36.03823,
         'Long' => 6.57318,
+        'surface_km2' => 236.37,
     ],
     [
         'id' => '85',
@@ -1105,6 +1189,7 @@ return [
         'code_commune' => 428,
         'Lat' => 36.034166,
         'Long' => 6.6658,
+        'surface_km2' => 138.2,
     ],
     [
         'id' => '86',
@@ -1118,6 +1203,7 @@ return [
         'code_commune' => 410,
         'Lat' => 36.09042,
         'Long' => 6.46483,
+        'surface_km2' => 158.38,
     ],
     [
         'id' => '87',
@@ -1131,6 +1217,7 @@ return [
         'code_commune' => 405,
         'Lat' => 36.111944,
         'Long' => 6.8822,
+        'surface_km2' => 164.67,
     ],
     [
         'id' => '88',
@@ -1144,6 +1231,7 @@ return [
         'code_commune' => 406,
         'Lat' => 36.12361,
         'Long' => 6.7708138,
+        'surface_km2' => 207.45,
     ],
     [
         'id' => '89',
@@ -1157,6 +1245,7 @@ return [
         'code_commune' => 423,
         'Lat' => 35.5722,
         'Long' => 7.298855,
+        'surface_km2' => 195.6,
     ],
     [
         'id' => '90',
@@ -1170,6 +1259,7 @@ return [
         'code_commune' => 415,
         'Lat' => 36.03,
         'Long' => 7.8,
+        'surface_km2' => 123.11,
     ],
     [
         'id' => '91',
@@ -1183,6 +1273,7 @@ return [
         'code_commune' => 411,
         'Lat' => 35.461111,
         'Long' => 7.547222,
+        'surface_km2' => 205.25,
     ],
     [
         'id' => '92',
@@ -1196,6 +1287,7 @@ return [
         'code_commune' => 414,
         'Lat' => 35.663154,
         'Long' => 7.5071271,
+        'surface_km2' => 196.63,
     ],
     [
         'id' => '93',
@@ -1209,6 +1301,7 @@ return [
         'code_commune' => 412,
         'Lat' => 35.916667,
         'Long' => 6.68333,
+        'surface_km2' => 162.84,
     ],
     [
         'id' => '94',
@@ -1222,6 +1315,7 @@ return [
         'code_commune' => 429,
         'Lat' => 35.923532,
         'Long' => 6.619263,
+        'surface_km2' => 131.56,
     ],
     [
         'id' => '95',
@@ -1235,6 +1329,7 @@ return [
         'code_commune' => 413,
         'Lat' => 35.934722,
         'Long' => 6.7808,
+        'surface_km2' => 107.73,
     ],
     [
         'id' => '96',
@@ -1248,6 +1343,7 @@ return [
         'code_commune' => 503,
         'Lat' => 35.266667,
         'Long' => 5.9198387,
+        'surface_km2' => 153.45,
     ],
     [
         'id' => '97',
@@ -1261,6 +1357,7 @@ return [
         'code_commune' => 539,
         'Lat' => 35.6667,
         'Long' => 5.517,
+        'surface_km2' => 276.21,
     ],
     [
         'id' => '98',
@@ -1274,6 +1371,7 @@ return [
         'code_commune' => 550,
         'Lat' => 35.485165,
         'Long' => 6.4686,
+        'surface_km2' => 223.69,
     ],
     [
         'id' => '99',
@@ -1287,6 +1385,7 @@ return [
         'code_commune' => 538,
         'Lat' => 35.5333,
         'Long' => 5.81667,
+        'surface_km2' => 146.44,
     ],
     [
         'id' => '100',
@@ -1300,6 +1399,7 @@ return [
         'code_commune' => 553,
         'Lat' => 35.610833,
         'Long' => 5.632777,
+        'surface_km2' => 157.39,
     ],
     [
         'id' => '101',
@@ -1313,6 +1413,7 @@ return [
         'code_commune' => 527,
         'Lat' => 35.7981327,
         'Long' => 5.8679,
+        'surface_km2' => 68.01,
     ],
     [
         'id' => '102',
@@ -1326,6 +1427,7 @@ return [
         'code_commune' => 534,
         'Lat' => 35.665278,
         'Long' => 5.8667,
+        'surface_km2' => 180.42,
     ],
     [
         'id' => '103',
@@ -1339,6 +1441,7 @@ return [
         'code_commune' => 551,
         'Lat' => 35.675,
         'Long' => 5.65,
+        'surface_km2' => 116.43,
     ],
     [
         'id' => '104',
@@ -1352,6 +1455,7 @@ return [
         'code_commune' => 525,
         'Lat' => 35.5333,
         'Long' => 5.65,
+        'surface_km2' => 54.74,
     ],
     [
         'id' => '105',
@@ -1365,6 +1469,7 @@ return [
         'code_commune' => 520,
         'Lat' => 35.8411857,
         'Long' => 5.8822,
+        'surface_km2' => 221.29,
     ],
     [
         'id' => '106',
@@ -1378,6 +1483,7 @@ return [
         'code_commune' => 510,
         'Lat' => 35.807778,
         'Long' => 6.0,
+        'surface_km2' => 63.49,
     ],
     [
         'id' => '107',
@@ -1391,6 +1497,7 @@ return [
         'code_commune' => 547,
         'Lat' => 35.24695,
         'Long' => 6.19062,
+        'surface_km2' => 108.09,
     ],
     [
         'id' => '108',
@@ -1404,6 +1511,7 @@ return [
         'code_commune' => 501,
         'Lat' => 35.55597,
         'Long' => 6.1741447,
+        'surface_km2' => 117.17,
     ],
     [
         'id' => '109',
@@ -1417,6 +1525,7 @@ return [
         'code_commune' => 523,
         'Lat' => 35.62,
         'Long' => 6.27476,
+        'surface_km2' => 86.01,
     ],
     [
         'id' => '110',
@@ -1430,6 +1539,7 @@ return [
         'code_commune' => 537,
         'Lat' => 35.504722,
         'Long' => 6.07784,
+        'surface_km2' => 247.39,
     ],
     [
         'id' => '111',
@@ -1443,6 +1553,7 @@ return [
         'code_commune' => 546,
         'Lat' => 35.6375,
         'Long' => 5.9375,
+        'surface_km2' => 151.44,
     ],
     [
         'id' => '112',
@@ -1456,6 +1567,7 @@ return [
         'code_commune' => 528,
         'Lat' => 35.67649,
         'Long' => 5.9033,
+        'surface_km2' => 90.08,
     ],
     [
         'id' => '113',
@@ -1469,6 +1581,7 @@ return [
         'code_commune' => 504,
         'Lat' => 35.63106,
         'Long' => 5.91186,
+        'surface_km2' => 76.59,
     ],
     [
         'id' => '114',
@@ -1482,6 +1595,7 @@ return [
         'code_commune' => 533,
         'Lat' => 35.64527778,
         'Long' => 5.994722222,
+        'surface_km2' => 196.14,
     ],
     [
         'id' => '115',
@@ -1495,6 +1609,7 @@ return [
         'code_commune' => 558,
         'Lat' => 35.7,
         'Long' => 6.2167,
+        'surface_km2' => 162.25,
     ],
     [
         'id' => '116',
@@ -1508,6 +1623,7 @@ return [
         'code_commune' => 505,
         'Lat' => 35.691666,
         'Long' => 6.18639,
+        'surface_km2' => 176.31,
     ],
     [
         'id' => '117',
@@ -1521,6 +1637,7 @@ return [
         'code_commune' => 554,
         'Lat' => 35.809722,
         'Long' => 6.08512,
+        'surface_km2' => 218.54,
     ],
     [
         'id' => '118',
@@ -1534,6 +1651,7 @@ return [
         'code_commune' => 506,
         'Lat' => 35.1777,
         'Long' => 6.006775,
+        'surface_km2' => 191.22,
     ],
     [
         'id' => '119',
@@ -1547,6 +1665,7 @@ return [
         'code_commune' => 521,
         'Lat' => 35.160278,
         'Long' => 6.0347,
+        'surface_km2' => 228.62,
     ],
     [
         'id' => '120',
@@ -1560,6 +1679,7 @@ return [
         'code_commune' => 522,
         'Lat' => 35.7746,
         'Long' => 6.41644,
+        'surface_km2' => 154.74,
     ],
     [
         'id' => '121',
@@ -1573,6 +1693,7 @@ return [
         'code_commune' => 559,
         'Lat' => 35.677222,
         'Long' => 6.480833,
+        'surface_km2' => 152.35,
     ],
     [
         'id' => '122',
@@ -1586,6 +1707,7 @@ return [
         'code_commune' => 513,
         'Lat' => 35.6851412,
         'Long' => 6.3013432,
+        'surface_km2' => 99.75,
     ],
     [
         'id' => '123',
@@ -1599,6 +1721,7 @@ return [
         'code_commune' => 507,
         'Lat' => 35.63121,
         'Long' => 6.369152,
+        'surface_km2' => 101.82,
     ],
     [
         'id' => '124',
@@ -1612,6 +1735,7 @@ return [
         'code_commune' => 512,
         'Lat' => 35.552203,
         'Long' => 6.3438785,
+        'surface_km2' => 164.23,
     ],
     [
         'id' => '125',
@@ -1625,6 +1749,7 @@ return [
         'code_commune' => 508,
         'Lat' => 35.489188,
         'Long' => 6.254311,
+        'surface_km2' => 103.38,
     ],
     [
         'id' => '126',
@@ -1638,6 +1763,7 @@ return [
         'code_commune' => 541,
         'Lat' => 35.5052,
         'Long' => 5.5525,
+        'surface_km2' => 113.92,
     ],
     [
         'id' => '127',
@@ -1651,6 +1777,7 @@ return [
         'code_commune' => 509,
         'Lat' => 35.561836,
         'Long' => 5.610924,
+        'surface_km2' => 81.74,
     ],
     [
         'id' => '128',
@@ -1664,6 +1791,7 @@ return [
         'code_commune' => 524,
         'Lat' => 35.4414,
         'Long' => 5.5581,
+        'surface_km2' => 184.23,
     ],
     [
         'id' => '129',
@@ -1677,6 +1805,7 @@ return [
         'code_commune' => 516,
         'Lat' => 35.25881,
         'Long' => 6.34706,
+        'surface_km2' => 152.25,
     ],
     [
         'id' => '130',
@@ -1690,6 +1819,7 @@ return [
         'code_commune' => 526,
         'Lat' => 35.1955527,
         'Long' => 6.25,
+        'surface_km2' => 128.75,
     ],
     [
         'id' => '131',
@@ -1703,6 +1833,7 @@ return [
         'code_commune' => 519,
         'Lat' => 35.8308281,
         'Long' => 6.0044121,
+        'surface_km2' => 128.79,
     ],
     [
         'id' => '132',
@@ -1716,6 +1847,7 @@ return [
         'code_commune' => 557,
         'Lat' => 35.7227778,
         'Long' => 5.906111,
+        'surface_km2' => 59.82,
     ],
     [
         'id' => '133',
@@ -1729,6 +1861,7 @@ return [
         'code_commune' => 531,
         'Lat' => 35.405,
         'Long' => 6.549721,
+        'surface_km2' => 109.31,
     ],
     [
         'id' => '134',
@@ -1742,6 +1875,7 @@ return [
         'code_commune' => 530,
         'Lat' => 35.310694,
         'Long' => 6.50382,
+        'surface_km2' => 124.6,
     ],
     [
         'id' => '135',
@@ -1755,6 +1889,7 @@ return [
         'code_commune' => 511,
         'Lat' => 35.286388,
         'Long' => 6.55,
+        'surface_km2' => 72.51,
     ],
     [
         'id' => '136',
@@ -1768,6 +1903,7 @@ return [
         'code_commune' => 535,
         'Lat' => 35.2698953,
         'Long' => 6.0996978,
+        'surface_km2' => 197.14,
     ],
     [
         'id' => '137',
@@ -1781,6 +1917,7 @@ return [
         'code_commune' => 561,
         'Lat' => 35.403889,
         'Long' => 6.11124,
+        'surface_km2' => 101.23,
     ],
     [
         'id' => '138',
@@ -1794,6 +1931,7 @@ return [
         'code_commune' => 560,
         'Lat' => 35.6752,
         'Long' => 6.6625,
+        'surface_km2' => 161.91,
     ],
     [
         'id' => '139',
@@ -1807,6 +1945,7 @@ return [
         'code_commune' => 536,
         'Lat' => 35.66528,
         'Long' => 6.5011,
+        'surface_km2' => 262.72,
     ],
     [
         'id' => '140',
@@ -1820,6 +1959,7 @@ return [
         'code_commune' => 502,
         'Lat' => 35.2576,
         'Long' => 6.20608,
+        'surface_km2' => 238.98,
     ],
     [
         'id' => '141',
@@ -1833,6 +1973,7 @@ return [
         'code_commune' => 517,
         'Lat' => 35.3442,
         'Long' => 6.471658,
+        'surface_km2' => 555.3,
     ],
     [
         'id' => '142',
@@ -1846,6 +1987,7 @@ return [
         'code_commune' => 544,
         'Lat' => 35.3339,
         'Long' => 6.30861,
+        'surface_km2' => 187.22,
     ],
     [
         'id' => '143',
@@ -1859,6 +2001,7 @@ return [
         'code_commune' => 545,
         'Lat' => 35.3991089,
         'Long' => 5.9198387,
+        'surface_km2' => 173.1,
     ],
     [
         'id' => '144',
@@ -1872,6 +2015,7 @@ return [
         'code_commune' => 532,
         'Lat' => 35.3525,
         'Long' => 5.8667,
+        'surface_km2' => 301.36,
     ],
     [
         'id' => '145',
@@ -1885,6 +2029,7 @@ return [
         'code_commune' => 549,
         'Lat' => 35.4843,
         'Long' => 6.6247,
+        'surface_km2' => 207.11,
     ],
     [
         'id' => '146',
@@ -1898,6 +2043,7 @@ return [
         'code_commune' => 540,
         'Lat' => 35.45555556,
         'Long' => 5.756944,
+        'surface_km2' => 150.99,
     ],
     [
         'id' => '147',
@@ -1911,6 +2057,7 @@ return [
         'code_commune' => 552,
         'Lat' => 35.2135627,
         'Long' => 6.0,
+        'surface_km2' => 78.87,
     ],
     [
         'id' => '148',
@@ -1924,6 +2071,7 @@ return [
         'code_commune' => 548,
         'Lat' => 35.4205,
         'Long' => 6.23,
+        'surface_km2' => 263.98,
     ],
     [
         'id' => '149',
@@ -1937,6 +2085,7 @@ return [
         'code_commune' => 621,
         'Lat' => 36.61667,
         'Long' => 4.75,
+        'surface_km2' => 8.67,
     ],
     [
         'id' => '150',
@@ -1950,6 +2099,7 @@ return [
         'code_commune' => 634,
         'Lat' => 36.5667,
         'Long' => 4.96667,
+        'surface_km2' => 83.75,
     ],
     [
         'id' => '151',
@@ -1963,6 +2113,7 @@ return [
         'code_commune' => 643,
         'Lat' => 36.60916667,
         'Long' => 4.8814,
+        'surface_km2' => 9.6,
     ],
     [
         'id' => '152',
@@ -1976,6 +2127,7 @@ return [
         'code_commune' => 613,
         'Lat' => 36.653,
         'Long' => 5.0173,
+        'surface_km2' => 46.09,
     ],
     [
         'id' => '153',
@@ -1989,6 +2141,7 @@ return [
         'code_commune' => 639,
         'Lat' => 36.612944,
         'Long' => 4.688298,
+        'surface_km2' => 7.81,
     ],
     [
         'id' => '154',
@@ -2002,6 +2155,7 @@ return [
         'code_commune' => 614,
         'Lat' => 36.6667365,
         'Long' => 4.6963496,
+        'surface_km2' => 39.85,
     ],
     [
         'id' => '155',
@@ -2015,6 +2169,7 @@ return [
         'code_commune' => 610,
         'Lat' => 36.6253,
         'Long' => 4.681,
+        'surface_km2' => 16.82,
     ],
     [
         'id' => '156',
@@ -2028,6 +2183,7 @@ return [
         'code_commune' => 640,
         'Lat' => 36.684389,
         'Long' => 4.852222,
+        'surface_km2' => 93.97,
     ],
     [
         'id' => '157',
@@ -2041,6 +2197,7 @@ return [
         'code_commune' => 618,
         'Lat' => 36.671667,
         'Long' => 4.790555,
+        'surface_km2' => 45.56,
     ],
     [
         'id' => '158',
@@ -2054,6 +2211,7 @@ return [
         'code_commune' => 619,
         'Lat' => 36.75,
         'Long' => 4.8922277,
+        'surface_km2' => 162.77,
     ],
     [
         'id' => '159',
@@ -2067,6 +2225,7 @@ return [
         'code_commune' => 645,
         'Lat' => 36.4295337,
         'Long' => 5.2475518,
+        'surface_km2' => 120.47,
     ],
     [
         'id' => '160',
@@ -2080,6 +2239,7 @@ return [
         'code_commune' => 644,
         'Lat' => 36.492724,
         'Long' => 5.278,
+        'surface_km2' => 97.21,
     ],
     [
         'id' => '161',
@@ -2093,6 +2253,7 @@ return [
         'code_commune' => 601,
         'Lat' => 36.7508896,
         'Long' => 5.0567333,
+        'surface_km2' => 111.97,
     ],
     [
         'id' => '162',
@@ -2106,6 +2267,7 @@ return [
         'code_commune' => 651,
         'Lat' => 36.710277,
         'Long' => 4.983333,
+        'surface_km2' => 47.97,
     ],
     [
         'id' => '163',
@@ -2119,6 +2281,7 @@ return [
         'code_commune' => 650,
         'Lat' => 36.478051,
         'Long' => 4.638441,
+        'surface_km2' => 94.19,
     ],
     [
         'id' => '164',
@@ -2132,6 +2295,7 @@ return [
         'code_commune' => 623,
         'Lat' => 36.5729271,
         'Long' => 4.8108,
+        'surface_km2' => 28.62,
     ],
     [
         'id' => '165',
@@ -2145,6 +2309,7 @@ return [
         'code_commune' => 603,
         'Lat' => 36.5569444,
         'Long' => 4.85454,
+        'surface_km2' => 43.17,
     ],
     [
         'id' => '166',
@@ -2158,6 +2323,7 @@ return [
         'code_commune' => 612,
         'Lat' => 36.6389,
         'Long' => 4.8,
+        'surface_km2' => 32.97,
     ],
     [
         'id' => '167',
@@ -2171,6 +2337,7 @@ return [
         'code_commune' => 607,
         'Lat' => 36.615556,
         'Long' => 4.7667,
+        'surface_km2' => 38.39,
     ],
     [
         'id' => '168',
@@ -2184,6 +2351,7 @@ return [
         'code_commune' => 641,
         'Lat' => 36.671389,
         'Long' => 5.360759,
+        'surface_km2' => 46.12,
     ],
     [
         'id' => '169',
@@ -2197,6 +2365,7 @@ return [
         'code_commune' => 608,
         'Lat' => 36.6256524,
         'Long' => 5.3360215,
+        'surface_km2' => 25.26,
     ],
     [
         'id' => '170',
@@ -2210,6 +2379,7 @@ return [
         'code_commune' => 646,
         'Lat' => 36.5833119,
         'Long' => 5.4253757,
+        'surface_km2' => 48.15,
     ],
     [
         'id' => '171',
@@ -2223,6 +2393,7 @@ return [
         'code_commune' => 648,
         'Lat' => 36.5831,
         'Long' => 4.9667,
+        'surface_km2' => 113.88,
     ],
     [
         'id' => '172',
@@ -2236,6 +2407,7 @@ return [
         'code_commune' => 633,
         'Lat' => 36.6876795,
         'Long' => 5.0078451,
+        'surface_km2' => 37.64,
     ],
     [
         'id' => '173',
@@ -2249,6 +2421,7 @@ return [
         'code_commune' => 611,
         'Lat' => 36.6961,
         'Long' => 5.1550882,
+        'surface_km2' => 53.8,
     ],
     [
         'id' => '174',
@@ -2262,6 +2435,7 @@ return [
         'code_commune' => 628,
         'Lat' => 36.37034683,
         'Long' => 4.4868,
+        'surface_km2' => 74.89,
     ],
     [
         'id' => '175',
@@ -2275,6 +2449,7 @@ return [
         'code_commune' => 617,
         'Lat' => 36.3379865,
         'Long' => 4.4702131,
+        'surface_km2' => 196.18,
     ],
     [
         'id' => '176',
@@ -2288,6 +2463,7 @@ return [
         'code_commune' => 647,
         'Lat' => 36.7333,
         'Long' => 4.85,
+        'surface_km2' => 27.49,
     ],
     [
         'id' => '177',
@@ -2301,6 +2477,7 @@ return [
         'code_commune' => 620,
         'Lat' => 36.6344,
         'Long' => 5.375595,
+        'surface_km2' => 83.48,
     ],
     [
         'id' => '178',
@@ -2314,6 +2491,7 @@ return [
         'code_commune' => 631,
         'Lat' => 36.56667,
         'Long' => 5.2733,
+        'surface_km2' => 31.38,
     ],
     [
         'id' => '179',
@@ -2327,6 +2505,7 @@ return [
         'code_commune' => 622,
         'Lat' => 36.6333,
         'Long' => 5.25,
+        'surface_km2' => 25.23,
     ],
     [
         'id' => '180',
@@ -2340,6 +2519,7 @@ return [
         'code_commune' => 649,
         'Lat' => 36.6134619,
         'Long' => 5.2176317,
+        'surface_km2' => 52.77,
     ],
     [
         'id' => '181',
@@ -2353,6 +2533,7 @@ return [
         'code_commune' => 624,
         'Lat' => 36.683333,
         'Long' => 4.6667,
+        'surface_km2' => 110.19,
     ],
     [
         'id' => '182',
@@ -2366,6 +2547,7 @@ return [
         'code_commune' => 635,
         'Lat' => 36.839681,
         'Long' => 4.7070616,
+        'surface_km2' => 177.77,
     ],
     [
         'id' => '183',
@@ -2379,6 +2561,7 @@ return [
         'code_commune' => 604,
         'Lat' => 36.7202155,
         'Long' => 4.7381,
+        'surface_km2' => 73.77,
     ],
     [
         'id' => '184',
@@ -2392,6 +2575,7 @@ return [
         'code_commune' => 625,
         'Lat' => 36.4575,
         'Long' => 4.53494,
+        'surface_km2' => 52.0,
     ],
     [
         'id' => '185',
@@ -2405,6 +2589,7 @@ return [
         'code_commune' => 605,
         'Lat' => 36.5135502,
         'Long' => 4.5108862,
+        'surface_km2' => 41.89,
     ],
     [
         'id' => '186',
@@ -2418,6 +2603,7 @@ return [
         'code_commune' => 615,
         'Lat' => 36.46295,
         'Long' => 4.505,
+        'surface_km2' => 51.75,
     ],
     [
         'id' => '187',
@@ -2431,6 +2617,7 @@ return [
         'code_commune' => 606,
         'Lat' => 36.3932,
         'Long' => 4.6645,
+        'surface_km2' => 68.48,
     ],
     [
         'id' => '188',
@@ -2444,6 +2631,7 @@ return [
         'code_commune' => 616,
         'Lat' => 36.477777,
         'Long' => 4.633333,
+        'surface_km2' => 58.68,
     ],
     [
         'id' => '189',
@@ -2457,6 +2645,7 @@ return [
         'code_commune' => 637,
         'Lat' => 36.489722,
         'Long' => 4.6064,
+        'surface_km2' => 75.17,
     ],
     [
         'id' => '190',
@@ -2470,6 +2659,7 @@ return [
         'code_commune' => 609,
         'Lat' => 36.563407,
         'Long' => 4.710368,
+        'surface_km2' => 39.28,
     ],
     [
         'id' => '191',
@@ -2483,6 +2673,7 @@ return [
         'code_commune' => 626,
         'Lat' => 36.547,
         'Long' => 4.70778,
+        'surface_km2' => 60.7,
     ],
     [
         'id' => '192',
@@ -2496,6 +2687,7 @@ return [
         'code_commune' => 638,
         'Lat' => 36.43333333,
         'Long' => 4.671389,
+        'surface_km2' => 43.18,
     ],
     [
         'id' => '193',
@@ -2509,6 +2701,7 @@ return [
         'code_commune' => 652,
         'Lat' => 36.334,
         'Long' => 4.414167,
+        'surface_km2' => 102.63,
     ],
     [
         'id' => '194',
@@ -2522,6 +2715,7 @@ return [
         'code_commune' => 627,
         'Lat' => 36.3878041,
         'Long' => 4.4079213,
+        'surface_km2' => 33.45,
     ],
     [
         'id' => '195',
@@ -2535,6 +2729,7 @@ return [
         'code_commune' => 642,
         'Lat' => 36.6333333,
         'Long' => 4.5895,
+        'surface_km2' => 39.86,
     ],
     [
         'id' => '196',
@@ -2548,6 +2743,7 @@ return [
         'code_commune' => 629,
         'Lat' => 36.5944017,
         'Long' => 4.6210411,
+        'surface_km2' => 38.05,
     ],
     [
         'id' => '197',
@@ -2561,6 +2757,7 @@ return [
         'code_commune' => 630,
         'Lat' => 36.606111,
         'Long' => 4.6389,
+        'surface_km2' => 14.0,
     ],
     [
         'id' => '198',
@@ -2574,6 +2771,7 @@ return [
         'code_commune' => 632,
         'Lat' => 36.613585,
         'Long' => 4.651185,
+        'surface_km2' => 5.6,
     ],
     [
         'id' => '199',
@@ -2587,6 +2785,7 @@ return [
         'code_commune' => 636,
         'Lat' => 36.54203,
         'Long' => 4.6127777,
+        'surface_km2' => 61.54,
     ],
     [
         'id' => '200',
@@ -2600,6 +2799,7 @@ return [
         'code_commune' => 602,
         'Lat' => 36.64022,
         'Long' => 4.9013,
+        'surface_km2' => 109.62,
     ],
     [
         'id' => '201',
@@ -2613,6 +2813,7 @@ return [
         'code_commune' => 716,
         'Lat' => 34.4668996,
         'Long' => 6.5356449,
+        'surface_km2' => 1372.75,
     ],
     [
         'id' => '202',
@@ -2626,6 +2827,7 @@ return [
         'code_commune' => 723,
         'Lat' => 34.71753,
         'Long' => 5.4289853,
+        'surface_km2' => 39.43,
     ],
     [
         'id' => '203',
@@ -2639,6 +2841,7 @@ return [
         'code_commune' => 729,
         'Lat' => 34.8091667,
         'Long' => 5.341111,
+        'surface_km2' => 57.97,
     ],
     [
         'id' => '204',
@@ -2652,6 +2855,7 @@ return [
         'code_commune' => 730,
         'Lat' => 34.64779,
         'Long' => 5.867778,
+        'surface_km2' => 151.76,
     ],
     [
         'id' => '205',
@@ -2665,6 +2869,7 @@ return [
         'code_commune' => 733,
         'Lat' => 34.821721,
         'Long' => 6.6958939,
+        'surface_km2' => 79.72,
     ],
     [
         'id' => '206',
@@ -2678,6 +2883,7 @@ return [
         'code_commune' => 715,
         'Lat' => 34.683,
         'Long' => 6.511,
+        'surface_km2' => 500.26,
     ],
     [
         'id' => '207',
@@ -2691,6 +2897,7 @@ return [
         'code_commune' => 728,
         'Lat' => 34.6953,
         'Long' => 5.6667,
+        'surface_km2' => 959.58,
     ],
     [
         'id' => '208',
@@ -2704,6 +2911,7 @@ return [
         'code_commune' => 701,
         'Lat' => 34.8,
         'Long' => 5.7510475,
+        'surface_km2' => 127.58,
     ],
     [
         'id' => '209',
@@ -2717,6 +2925,7 @@ return [
         'code_commune' => 732,
         'Lat' => 34.79027,
         'Long' => 5.596944,
+        'surface_km2' => 208.02,
     ],
     [
         'id' => '210',
@@ -2730,6 +2939,7 @@ return [
         'code_commune' => 725,
         'Lat' => 34.805833,
         'Long' => 5.554247,
+        'surface_km2' => 371.42,
     ],
     [
         'id' => '211',
@@ -2743,6 +2953,7 @@ return [
         'code_commune' => 726,
         'Lat' => 34.7326063,
         'Long' => 5.31666667,
+        'surface_km2' => 80.41,
     ],
     [
         'id' => '212',
@@ -2756,6 +2967,7 @@ return [
         'code_commune' => 731,
         'Lat' => 34.7233926,
         'Long' => 5.285277,
+        'surface_km2' => 237.61,
     ],
     [
         'id' => '213',
@@ -2769,6 +2981,7 @@ return [
         'code_commune' => 727,
         'Lat' => 34.697222,
         'Long' => 5.362777,
+        'surface_km2' => 23.21,
     ],
     [
         'id' => '214',
@@ -2782,6 +2995,7 @@ return [
         'code_commune' => 724,
         'Lat' => 34.655556,
         'Long' => 5.525895,
+        'surface_km2' => 189.8,
     ],
     [
         'id' => '215',
@@ -2795,6 +3009,7 @@ return [
         'code_commune' => 702,
         'Lat' => 34.69292,
         'Long' => 5.6883,
+        'surface_km2' => 816.18,
     ],
     [
         'id' => '216',
@@ -2808,6 +3023,7 @@ return [
         'code_commune' => 714,
         'Lat' => 34.68762,
         'Long' => 6.09419,
+        'surface_km2' => 507.08,
     ],
     [
         'id' => '217',
@@ -2821,6 +3037,7 @@ return [
         'code_commune' => 704,
         'Lat' => 34.801667,
         'Long' => 5.6597222,
+        'surface_km2' => 110.32,
     ],
     [
         'id' => '218',
@@ -2834,6 +3051,7 @@ return [
         'code_commune' => 713,
         'Lat' => 34.8667,
         'Long' => 6.0255738,
+        'surface_km2' => 754.38,
     ],
     [
         'id' => '219',
@@ -2847,6 +3065,7 @@ return [
         'code_commune' => 711,
         'Lat' => 34.74512,
         'Long' => 5.9,
+        'surface_km2' => 253.87,
     ],
     [
         'id' => '220',
@@ -2860,6 +3079,7 @@ return [
         'code_commune' => 712,
         'Lat' => 34.9497,
         'Long' => 6.0039,
+        'surface_km2' => 503.96,
     ],
     [
         'id' => '221',
@@ -2873,6 +3093,7 @@ return [
         'code_commune' => 722,
         'Lat' => 34.63099,
         'Long' => 5.4,
+        'surface_km2' => 242.05,
     ],
     [
         'id' => '222',
@@ -2886,6 +3107,7 @@ return [
         'code_commune' => 721,
         'Lat' => 34.7214,
         'Long' => 5.3802134,
+        'surface_km2' => 1214.92,
     ],
     [
         'id' => '223',
@@ -2899,6 +3121,7 @@ return [
         'code_commune' => 801,
         'Lat' => 31.61667,
         'Long' => -2.21667,
+        'surface_km2' => 5025.16,
     ],
     [
         'id' => '224',
@@ -2912,6 +3135,7 @@ return [
         'code_commune' => 815,
         'Lat' => 31.923333,
         'Long' => -2.46361,
+        'surface_km2' => 1742.5,
     ],
     [
         'id' => '225',
@@ -2925,6 +3149,7 @@ return [
         'code_commune' => 806,
         'Lat' => 31.931388,
         'Long' => -2.2597,
+        'surface_km2' => 818.06,
     ],
     [
         'id' => '226',
@@ -2938,6 +3163,7 @@ return [
         'code_commune' => 816,
         'Lat' => 32.0225,
         'Long' => -2.2227252,
+        'surface_km2' => 689.39,
     ],
     [
         'id' => '227',
@@ -2951,6 +3177,7 @@ return [
         'code_commune' => 804,
         'Lat' => 31.55,
         'Long' => -2.95,
+        'surface_km2' => 2464.83,
     ],
     [
         'id' => '228',
@@ -2964,6 +3191,7 @@ return [
         'code_commune' => 813,
         'Lat' => 30.9201058,
         'Long' => -2.0322172,
+        'surface_km2' => 8312.73,
     ],
     [
         'id' => '229',
@@ -2977,6 +3205,7 @@ return [
         'code_commune' => 817,
         'Lat' => 31.019,
         'Long' => -2.72387,
+        'surface_km2' => 2712.71,
     ],
     [
         'id' => '230',
@@ -2990,6 +3219,7 @@ return [
         'code_commune' => 802,
         'Lat' => 31.0347,
         'Long' => -2.791389,
+        'surface_km2' => 5467.25,
     ],
     [
         'id' => '231',
@@ -3003,6 +3233,7 @@ return [
         'code_commune' => 809,
         'Lat' => 30.9322468,
         'Long' => -2.7375454,
+        'surface_km2' => 3220.14,
     ],
     [
         'id' => '232',
@@ -3016,6 +3247,7 @@ return [
         'code_commune' => 821,
         'Lat' => 32.0492426,
         'Long' => -1.2514,
+        'surface_km2' => 16090.6,
     ],
     [
         'id' => '233',
@@ -3029,6 +3261,7 @@ return [
         'code_commune' => 812,
         'Lat' => 29.41005,
         'Long' => -3.25261,
+        'surface_km2' => 60156.39,
     ],
     [
         'id' => '234',
@@ -3042,6 +3275,7 @@ return [
         'code_commune' => 810,
         'Lat' => 31.5544,
         'Long' => -2.4327,
+        'surface_km2' => 2790.86,
     ],
     [
         'id' => '235',
@@ -3055,6 +3289,7 @@ return [
         'code_commune' => 921,
         'Lat' => 36.52389,
         'Long' => 2.86131,
+        'surface_km2' => 15.59,
     ],
     [
         'id' => '236',
@@ -3068,6 +3303,7 @@ return [
         'code_commune' => 915,
         'Lat' => 36.548333,
         'Long' => 3.11,
+        'surface_km2' => 71.15,
     ],
     [
         'id' => '237',
@@ -3081,6 +3317,7 @@ return [
         'code_commune' => 912,
         'Lat' => 36.4669,
         'Long' => 2.6899,
+        'surface_km2' => 81.95,
     ],
     [
         'id' => '238',
@@ -3094,6 +3331,7 @@ return [
         'code_commune' => 909,
         'Lat' => 36.486667,
         'Long' => 3.045,
+        'surface_km2' => 151.66,
     ],
     [
         'id' => '239',
@@ -3107,6 +3345,7 @@ return [
         'code_commune' => 922,
         'Lat' => 36.54,
         'Long' => 3.081,
+        'surface_km2' => 86.4,
     ],
     [
         'id' => '240',
@@ -3120,6 +3359,7 @@ return [
         'code_commune' => 913,
         'Lat' => 36.5329164,
         'Long' => 3.2483058,
+        'surface_km2' => 71.01,
     ],
     [
         'id' => '241',
@@ -3133,6 +3373,7 @@ return [
         'code_commune' => 917,
         'Lat' => 36.56527778,
         'Long' => 3.153933,
+        'surface_km2' => 84.69,
     ],
     [
         'id' => '242',
@@ -3146,6 +3387,7 @@ return [
         'code_commune' => 911,
         'Lat' => 36.51833,
         'Long' => 2.905278,
+        'surface_km2' => 27.88,
     ],
     [
         'id' => '243',
@@ -3159,6 +3401,7 @@ return [
         'code_commune' => 923,
         'Lat' => 36.516667,
         'Long' => 2.8844,
+        'surface_km2' => 18.11,
     ],
     [
         'id' => '244',
@@ -3172,6 +3415,7 @@ return [
         'code_commune' => 916,
         'Lat' => 36.57413,
         'Long' => 2.9108333,
+        'surface_km2' => 51.07,
     ],
     [
         'id' => '245',
@@ -3185,6 +3429,7 @@ return [
         'code_commune' => 914,
         'Lat' => 36.6204,
         'Long' => 3.22248,
+        'surface_km2' => 52.09,
     ],
     [
         'id' => '246',
@@ -3198,6 +3443,7 @@ return [
         'code_commune' => 908,
         'Lat' => 36.4669,
         'Long' => 2.75,
+        'surface_km2' => 47.31,
     ],
     [
         'id' => '247',
@@ -3211,6 +3457,7 @@ return [
         'code_commune' => 924,
         'Lat' => 36.3963569,
         'Long' => 2.6487087,
+        'surface_km2' => 100.51,
     ],
     [
         'id' => '248',
@@ -3224,6 +3471,7 @@ return [
         'code_commune' => 918,
         'Lat' => 36.4201457,
         'Long' => 2.5495112,
+        'surface_km2' => 62.16,
     ],
     [
         'id' => '249',
@@ -3237,6 +3485,7 @@ return [
         'code_commune' => 907,
         'Lat' => 36.4701,
         'Long' => 2.625,
+        'surface_km2' => 56.84,
     ],
     [
         'id' => '250',
@@ -3250,6 +3499,7 @@ return [
         'code_commune' => 905,
         'Lat' => 36.50393,
         'Long' => 2.8619,
+        'surface_km2' => 13.71,
     ],
     [
         'id' => '251',
@@ -3263,6 +3513,7 @@ return [
         'code_commune' => 906,
         'Lat' => 36.425556,
         'Long' => 2.876667,
+        'surface_km2' => 80.2,
     ],
     [
         'id' => '252',
@@ -3276,6 +3527,7 @@ return [
         'code_commune' => 925,
         'Lat' => 36.58416667,
         'Long' => 3.268903,
+        'surface_km2' => 28.94,
     ],
     [
         'id' => '253',
@@ -3289,6 +3541,7 @@ return [
         'code_commune' => 904,
         'Lat' => 36.55528,
         'Long' => 2.79028,
+        'surface_km2' => 55.69,
     ],
     [
         'id' => '254',
@@ -3302,6 +3555,7 @@ return [
         'code_commune' => 910,
         'Lat' => 36.6202778,
         'Long' => 2.876389,
+        'surface_km2' => 43.62,
     ],
     [
         'id' => '255',
@@ -3315,6 +3569,7 @@ return [
         'code_commune' => 919,
         'Lat' => 36.536389,
         'Long' => 2.8161,
+        'surface_km2' => 24.72,
     ],
     [
         'id' => '256',
@@ -3328,6 +3583,7 @@ return [
         'code_commune' => 902,
         'Lat' => 36.567222,
         'Long' => 3.0085182,
+        'surface_km2' => 61.87,
     ],
     [
         'id' => '257',
@@ -3341,6 +3597,7 @@ return [
         'code_commune' => 903,
         'Lat' => 36.53167,
         'Long' => 2.99194,
+        'surface_km2' => 73.08,
     ],
     [
         'id' => '258',
@@ -3354,6 +3611,7 @@ return [
         'code_commune' => 920,
         'Lat' => 36.466944,
         'Long' => 2.816389,
+        'surface_km2' => 68.27,
     ],
     [
         'id' => '259',
@@ -3367,6 +3625,7 @@ return [
         'code_commune' => 901,
         'Lat' => 36.47004,
         'Long' => 2.8319,
+        'surface_km2' => 53.31,
     ],
     [
         'id' => '260',
@@ -3380,6 +3639,7 @@ return [
         'code_commune' => 1041,
         'Lat' => 36.316667,
         'Long' => 3.75,
+        'surface_km2' => 58.29,
     ],
     [
         'id' => '261',
@@ -3393,6 +3653,7 @@ return [
         'code_commune' => 1042,
         'Lat' => 35.957778,
         'Long' => 3.849444,
+        'surface_km2' => 148.26,
     ],
     [
         'id' => '262',
@@ -3406,6 +3667,7 @@ return [
         'code_commune' => 1011,
         'Lat' => 36.376111,
         'Long' => 4.07056,
+        'surface_km2' => 146.42,
     ],
     [
         'id' => '263',
@@ -3419,6 +3681,7 @@ return [
         'code_commune' => 1028,
         'Lat' => 36.0175,
         'Long' => 3.99472221,
+        'surface_km2' => 262.38,
     ],
     [
         'id' => '264',
@@ -3432,6 +3695,7 @@ return [
         'code_commune' => 1032,
         'Lat' => 36.073888,
         'Long' => 3.46166,
+        'surface_km2' => 77.66,
     ],
     [
         'id' => '265',
@@ -3445,6 +3709,7 @@ return [
         'code_commune' => 1039,
         'Lat' => 36.033056,
         'Long' => 3.62017,
+        'surface_km2' => 117.16,
     ],
     [
         'id' => '266',
@@ -3458,6 +3723,7 @@ return [
         'code_commune' => 1020,
         'Lat' => 36.0914921,
         'Long' => 3.7806,
+        'surface_km2' => 68.54,
     ],
     [
         'id' => '267',
@@ -3471,6 +3737,7 @@ return [
         'code_commune' => 1022,
         'Lat' => 36.2549,
         'Long' => 4.03944,
+        'surface_km2' => 104.41,
     ],
     [
         'id' => '268',
@@ -3484,6 +3751,7 @@ return [
         'code_commune' => 1007,
         'Lat' => 36.0003,
         'Long' => 3.65992,
+        'surface_km2' => 235.41,
     ],
     [
         'id' => '269',
@@ -3497,6 +3765,7 @@ return [
         'code_commune' => 1031,
         'Lat' => 36.13,
         'Long' => 3.5767,
+        'surface_km2' => 150.45,
     ],
     [
         'id' => '270',
@@ -3510,6 +3779,7 @@ return [
         'code_commune' => 1033,
         'Lat' => 36.316667,
         'Long' => 4.075,
+        'surface_km2' => 88.71,
     ],
     [
         'id' => '271',
@@ -3523,6 +3793,7 @@ return [
         'code_commune' => 1043,
         'Lat' => 36.330823,
         'Long' => 4.301147,
+        'surface_km2' => 89.44,
     ],
     [
         'id' => '272',
@@ -3536,6 +3807,7 @@ return [
         'code_commune' => 1030,
         'Lat' => 36.396944,
         'Long' => 3.8619,
+        'surface_km2' => 93.91,
     ],
     [
         'id' => '273',
@@ -3549,6 +3821,7 @@ return [
         'code_commune' => 1019,
         'Lat' => 36.3749965,
         'Long' => 4.1616143,
+        'surface_km2' => 82.16,
     ],
     [
         'id' => '274',
@@ -3562,6 +3835,7 @@ return [
         'code_commune' => 1002,
         'Lat' => 36.3206,
         'Long' => 4.013889,
+        'surface_km2' => 115.16,
     ],
     [
         'id' => '275',
@@ -3575,6 +3849,7 @@ return [
         'code_commune' => 1037,
         'Lat' => 36.3713916,
         'Long' => 4.264103,
+        'surface_km2' => 56.57,
     ],
     [
         'id' => '276',
@@ -3588,6 +3863,7 @@ return [
         'code_commune' => 1018,
         'Lat' => 36.083333,
         'Long' => 3.974444,
+        'surface_km2' => 155.32,
     ],
     [
         'id' => '277',
@@ -3601,6 +3877,7 @@ return [
         'code_commune' => 1038,
         'Lat' => 36.14766,
         'Long' => 3.69123,
+        'surface_km2' => 176.68,
     ],
     [
         'id' => '278',
@@ -3614,6 +3891,7 @@ return [
         'code_commune' => 1006,
         'Lat' => 36.335801,
         'Long' => 4.34149,
+        'surface_km2' => 159.57,
     ],
     [
         'id' => '279',
@@ -3627,6 +3905,7 @@ return [
         'code_commune' => 1017,
         'Lat' => 36.36505,
         'Long' => 4.323611,
+        'surface_km2' => 30.74,
     ],
     [
         'id' => '280',
@@ -3640,6 +3919,7 @@ return [
         'code_commune' => 1040,
         'Lat' => 36.21525,
         'Long' => 4.1106,
+        'surface_km2' => 147.7,
     ],
     [
         'id' => '281',
@@ -3653,6 +3933,7 @@ return [
         'code_commune' => 1025,
         'Lat' => 36.33889,
         'Long' => 3.806389,
+        'surface_km2' => 73.74,
     ],
     [
         'id' => '282',
@@ -3666,6 +3947,7 @@ return [
         'code_commune' => 1027,
         'Lat' => 36.3713916,
         'Long' => 4.225,
+        'surface_km2' => 61.09,
     ],
     [
         'id' => '283',
@@ -3679,6 +3961,7 @@ return [
         'code_commune' => 1010,
         'Lat' => 36.55528,
         'Long' => 3.7375,
+        'surface_km2' => 70.18,
     ],
     [
         'id' => '284',
@@ -3692,6 +3975,7 @@ return [
         'code_commune' => 1021,
         'Lat' => 36.3159,
         'Long' => 3.6008333,
+        'surface_km2' => 50.46,
     ],
     [
         'id' => '285',
@@ -3705,6 +3989,7 @@ return [
         'code_commune' => 1036,
         'Lat' => 36.26416667,
         'Long' => 3.7224,
+        'surface_km2' => 50.18,
     ],
     [
         'id' => '286',
@@ -3718,6 +4003,7 @@ return [
         'code_commune' => 1001,
         'Lat' => 36.37763,
         'Long' => 3.8962348,
+        'surface_km2' => 96.52,
     ],
     [
         'id' => '287',
@@ -3731,6 +4017,7 @@ return [
         'code_commune' => 1029,
         'Lat' => 36.3932,
         'Long' => 3.8246,
+        'surface_km2' => 41.47,
     ],
     [
         'id' => '288',
@@ -3744,6 +4031,7 @@ return [
         'code_commune' => 1008,
         'Lat' => 36.4428933,
         'Long' => 3.90864,
+        'surface_km2' => 37.03,
     ],
     [
         'id' => '289',
@@ -3757,6 +4045,7 @@ return [
         'code_commune' => 1035,
         'Lat' => 36.296667,
         'Long' => 3.67,
+        'surface_km2' => 127.34,
     ],
     [
         'id' => '290',
@@ -3770,6 +4059,7 @@ return [
         'code_commune' => 1044,
         'Lat' => 36.42889,
         'Long' => 3.60375,
+        'surface_km2' => 55.63,
     ],
     [
         'id' => '291',
@@ -3783,6 +4073,7 @@ return [
         'code_commune' => 1004,
         'Lat' => 36.388056,
         'Long' => 3.635,
+        'surface_km2' => 65.2,
     ],
     [
         'id' => '292',
@@ -3796,6 +4087,7 @@ return [
         'code_commune' => 1016,
         'Lat' => 36.4925,
         'Long' => 3.794,
+        'surface_km2' => 70.94,
     ],
     [
         'id' => '293',
@@ -3809,6 +4101,7 @@ return [
         'code_commune' => 1026,
         'Lat' => 36.4764,
         'Long' => 3.7588,
+        'surface_km2' => 71.91,
     ],
     [
         'id' => '294',
@@ -3822,6 +4115,7 @@ return [
         'code_commune' => 1015,
         'Lat' => 36.24071,
         'Long' => 3.8161,
+        'surface_km2' => 248.47,
     ],
     [
         'id' => '295',
@@ -3835,6 +4129,7 @@ return [
         'code_commune' => 1012,
         'Lat' => 36.39702,
         'Long' => 3.99917,
+        'surface_km2' => 88.87,
     ],
     [
         'id' => '296',
@@ -3848,6 +4143,7 @@ return [
         'code_commune' => 1009,
         'Lat' => 36.3167,
         'Long' => 3.9667,
+        'surface_km2' => 46.12,
     ],
     [
         'id' => '297',
@@ -3861,6 +4157,7 @@ return [
         'code_commune' => 1023,
         'Lat' => 36.58,
         'Long' => 3.5089,
+        'surface_km2' => 46.69,
     ],
     [
         'id' => '298',
@@ -3874,6 +4171,7 @@ return [
         'code_commune' => 1034,
         'Lat' => 36.5261,
         'Long' => 3.36604,
+        'surface_km2' => 93.92,
     ],
     [
         'id' => '299',
@@ -3887,6 +4185,7 @@ return [
         'code_commune' => 1003,
         'Lat' => 36.4630499,
         'Long' => 3.4296446,
+        'surface_km2' => 96.28,
     ],
     [
         'id' => '300',
@@ -3900,6 +4199,7 @@ return [
         'code_commune' => 1013,
         'Lat' => 36.56448,
         'Long' => 3.59675,
+        'surface_km2' => 92.41,
     ],
     [
         'id' => '301',
@@ -3913,6 +4213,7 @@ return [
         'code_commune' => 1014,
         'Lat' => 36.492778,
         'Long' => 3.573611,
+        'surface_km2' => 55.33,
     ],
     [
         'id' => '302',
@@ -3926,6 +4227,7 @@ return [
         'code_commune' => 1005,
         'Lat' => 36.5200245,
         'Long' => 3.6927531,
+        'surface_km2' => 93.4,
     ],
     [
         'id' => '303',
@@ -3939,6 +4241,7 @@ return [
         'code_commune' => 1024,
         'Lat' => 36.567222,
         'Long' => 3.863333,
+        'surface_km2' => 58.41,
     ],
     [
         'id' => '304',
@@ -3952,6 +4255,7 @@ return [
         'code_commune' => 1045,
         'Lat' => 36.2638925,
         'Long' => 3.9266502,
+        'surface_km2' => 112.91,
     ],
     [
         'id' => '305',
@@ -3965,6 +4269,7 @@ return [
         'code_commune' => 1106,
         'Lat' => 23.4133,
         'Long' => 6.265556,
+        'surface_km2' => 87350.15,
     ],
     [
         'id' => '306',
@@ -3978,6 +4283,7 @@ return [
         'code_commune' => 1102,
         'Lat' => 22.6589167,
         'Long' => 4.85,
+        'surface_km2' => 80401.68,
     ],
     [
         'id' => '307',
@@ -3991,6 +4297,7 @@ return [
         'code_commune' => 1101,
         'Lat' => 22.7888209,
         'Long' => 5.52278,
+        'surface_km2' => 39013.97,
     ],
     [
         'id' => '308',
@@ -4004,6 +4311,7 @@ return [
         'code_commune' => 1109,
         'Lat' => 23.6987,
         'Long' => 5.1619,
+        'surface_km2' => 101349.39,
     ],
     [
         'id' => '309',
@@ -4017,6 +4325,7 @@ return [
         'code_commune' => 1105,
         'Lat' => 23.8173973,
         'Long' => 5.9343664,
+        'surface_km2' => 58353.44,
     ],
     [
         'id' => '310',
@@ -4030,6 +4339,7 @@ return [
         'code_commune' => 1206,
         'Lat' => 35.29331683,
         'Long' => 8.278941075,
+        'surface_km2' => 274.9,
     ],
     [
         'id' => '311',
@@ -4043,6 +4353,7 @@ return [
         'code_commune' => 1205,
         'Lat' => 35.867,
         'Long' => 7.887778,
+        'surface_km2' => 467.44,
     ],
     [
         'id' => '312',
@@ -4056,6 +4367,7 @@ return [
         'code_commune' => 1210,
         'Lat' => 35.3725,
         'Long' => 7.8096037,
+        'surface_km2' => 396.19,
     ],
     [
         'id' => '313',
@@ -4069,6 +4381,7 @@ return [
         'code_commune' => 1214,
         'Lat' => 34.908056,
         'Long' => 7.938333,
+        'surface_km2' => 286.03,
     ],
     [
         'id' => '314',
@@ -4082,6 +4395,7 @@ return [
         'code_commune' => 1207,
         'Lat' => 34.9565856,
         'Long' => 8.2076282,
+        'surface_km2' => 551.51,
     ],
     [
         'id' => '315',
@@ -4095,6 +4409,7 @@ return [
         'code_commune' => 1216,
         'Lat' => 35.422777,
         'Long' => 7.593333,
+        'surface_km2' => 304.89,
     ],
     [
         'id' => '316',
@@ -4108,6 +4423,7 @@ return [
         'code_commune' => 1217,
         'Lat' => 35.366667,
         'Long' => 8.2422222,
+        'surface_km2' => 124.57,
     ],
     [
         'id' => '317',
@@ -4121,6 +4437,7 @@ return [
         'code_commune' => 1225,
         'Lat' => 35.52052,
         'Long' => 8.10581,
+        'surface_km2' => 170.39,
     ],
     [
         'id' => '318',
@@ -4134,6 +4451,7 @@ return [
         'code_commune' => 1221,
         'Lat' => 35.3333,
         'Long' => 8.3009,
+        'surface_km2' => 247.7,
     ],
     [
         'id' => '319',
@@ -4147,6 +4465,7 @@ return [
         'code_commune' => 1218,
         'Lat' => 35.744444,
         'Long' => 8.0325,
+        'surface_km2' => 222.21,
     ],
     [
         'id' => '320',
@@ -4160,6 +4479,7 @@ return [
         'code_commune' => 1220,
         'Lat' => 35.2056,
         'Long' => 8.170556,
+        'surface_km2' => 295.68,
     ],
     [
         'id' => '321',
@@ -4173,6 +4493,7 @@ return [
         'code_commune' => 1219,
         'Lat' => 35.9533,
         'Long' => 8.12917,
+        'surface_km2' => 151.24,
     ],
     [
         'id' => '322',
@@ -4186,6 +4507,7 @@ return [
         'code_commune' => 1224,
         'Lat' => 35.79308,
         'Long' => 8.22951,
+        'surface_km2' => 275.76,
     ],
     [
         'id' => '323',
@@ -4199,6 +4521,7 @@ return [
         'code_commune' => 1223,
         'Lat' => 35.648611,
         'Long' => 8.261111,
+        'surface_km2' => 365.77,
     ],
     [
         'id' => '324',
@@ -4212,6 +4535,7 @@ return [
         'code_commune' => 1204,
         'Lat' => 34.9984,
         'Long' => 7.30829,
+        'surface_km2' => 1274.16,
     ],
     [
         'id' => '325',
@@ -4225,6 +4549,7 @@ return [
         'code_commune' => 1213,
         'Lat' => 35.183333,
         'Long' => 7.46762,
+        'surface_km2' => 130.7,
     ],
     [
         'id' => '326',
@@ -4238,6 +4563,7 @@ return [
         'code_commune' => 1227,
         'Lat' => 35.266667,
         'Long' => 7.58,
+        'surface_km2' => 525.94,
     ],
     [
         'id' => '327',
@@ -4251,6 +4577,7 @@ return [
         'code_commune' => 1226,
         'Lat' => 35.40417,
         'Long' => 7.4746519,
+        'surface_km2' => 142.44,
     ],
     [
         'id' => '328',
@@ -4264,6 +4591,7 @@ return [
         'code_commune' => 1212,
         'Lat' => 35.66944,
         'Long' => 8.01667,
+        'surface_km2' => 358.61,
     ],
     [
         'id' => '329',
@@ -4277,6 +4605,7 @@ return [
         'code_commune' => 1222,
         'Lat' => 35.21525,
         'Long' => 7.767222,
+        'surface_km2' => 1668.0,
     ],
     [
         'id' => '330',
@@ -4290,6 +4619,7 @@ return [
         'code_commune' => 1203,
         'Lat' => 35.2684831,
         'Long' => 7.7471025,
+        'surface_km2' => 306.27,
     ],
     [
         'id' => '331',
@@ -4303,6 +4633,7 @@ return [
         'code_commune' => 1201,
         'Lat' => 35.405556,
         'Long' => 8.12417,
+        'surface_km2' => 200.49,
     ],
     [
         'id' => '332',
@@ -4316,6 +4647,7 @@ return [
         'code_commune' => 1208,
         'Lat' => 35.590833,
         'Long' => 7.953,
+        'surface_km2' => 103.51,
     ],
     [
         'id' => '333',
@@ -4329,6 +4661,7 @@ return [
         'code_commune' => 1211,
         'Lat' => 35.498333,
         'Long' => 8.321944,
+        'surface_km2' => 231.75,
     ],
     [
         'id' => '334',
@@ -4342,6 +4675,7 @@ return [
         'code_commune' => 1318,
         'Lat' => 34.960317,
         'Long' => -2.0318,
+        'surface_km2' => 73.87,
     ],
     [
         'id' => '335',
@@ -4355,6 +4689,7 @@ return [
         'code_commune' => 1323,
         'Lat' => 34.79583,
         'Long' => -1.35812,
+        'surface_km2' => 196.32,
     ],
     [
         'id' => '336',
@@ -4368,6 +4703,7 @@ return [
         'code_commune' => 1351,
         'Lat' => 34.871111,
         'Long' => -1.3379985,
+        'surface_km2' => 25.39,
     ],
     [
         'id' => '337',
@@ -4381,6 +4717,7 @@ return [
         'code_commune' => 1302,
         'Lat' => 34.87045,
         'Long' => -1.42319,
+        'surface_km2' => 86.57,
     ],
     [
         'id' => '338',
@@ -4394,6 +4731,7 @@ return [
         'code_commune' => 1349,
         'Lat' => 34.713889,
         'Long' => -1.389167,
+        'surface_km2' => 96.07,
     ],
     [
         'id' => '339',
@@ -4407,6 +4745,7 @@ return [
         'code_commune' => 1350,
         'Lat' => 34.9203342,
         'Long' => -1.2975309,
+        'surface_km2' => 49.07,
     ],
     [
         'id' => '340',
@@ -4420,6 +4759,7 @@ return [
         'code_commune' => 1314,
         'Lat' => 35.035277,
         'Long' => -1.24,
+        'surface_km2' => 201.77,
     ],
     [
         'id' => '341',
@@ -4433,6 +4773,7 @@ return [
         'code_commune' => 1312,
         'Lat' => 34.87,
         'Long' => -1.1868,
+        'surface_km2' => 128.12,
     ],
     [
         'id' => '342',
@@ -4446,6 +4787,7 @@ return [
         'code_commune' => 1344,
         'Lat' => 35.1789336,
         'Long' => -1.6493532,
+        'surface_km2' => 57.75,
     ],
     [
         'id' => '343',
@@ -4459,6 +4801,7 @@ return [
         'code_commune' => 1348,
         'Lat' => 35.1725,
         'Long' => -1.5572,
+        'surface_km2' => 70.18,
     ],
     [
         'id' => '344',
@@ -4472,6 +4815,7 @@ return [
         'code_commune' => 1340,
         'Lat' => 35.01361,
         'Long' => -1.748,
+        'surface_km2' => 85.58,
     ],
     [
         'id' => '345',
@@ -4485,6 +4829,7 @@ return [
         'code_commune' => 1330,
         'Lat' => 35.019722,
         'Long' => -2.065,
+        'surface_km2' => 84.77,
     ],
     [
         'id' => '346',
@@ -4498,6 +4843,7 @@ return [
         'code_commune' => 1339,
         'Lat' => 35.08669,
         'Long' => -2.19771,
+        'surface_km2' => 59.13,
     ],
     [
         'id' => '347',
@@ -4511,6 +4857,7 @@ return [
         'code_commune' => 1337,
         'Lat' => 34.775277,
         'Long' => -1.6367,
+        'surface_km2' => 112.7,
     ],
     [
         'id' => '348',
@@ -4524,6 +4871,7 @@ return [
         'code_commune' => 1338,
         'Lat' => 34.65,
         'Long' => -1.75306,
+        'surface_km2' => 336.59,
     ],
     [
         'id' => '349',
@@ -4537,6 +4885,7 @@ return [
         'code_commune' => 1347,
         'Lat' => 34.773889,
         'Long' => -1.5731,
+        'surface_km2' => 128.43,
     ],
     [
         'id' => '350',
@@ -4550,6 +4899,7 @@ return [
         'code_commune' => 1327,
         'Lat' => 34.8534497,
         'Long' => -1.730556,
+        'surface_km2' => 237.68,
     ],
     [
         'id' => '351',
@@ -4563,6 +4913,7 @@ return [
         'code_commune' => 1328,
         'Lat' => 34.8935,
         'Long' => -1.6386,
+        'surface_km2' => 160.39,
     ],
     [
         'id' => '352',
@@ -4576,6 +4927,7 @@ return [
         'code_commune' => 1316,
         'Lat' => 35.0167,
         'Long' => -1.4583,
+        'surface_km2' => 53.64,
     ],
     [
         'id' => '353',
@@ -4589,6 +4941,7 @@ return [
         'code_commune' => 1346,
         'Lat' => 34.9625,
         'Long' => -1.49722221,
+        'surface_km2' => 91.15,
     ],
     [
         'id' => '354',
@@ -4602,6 +4955,7 @@ return [
         'code_commune' => 1326,
         'Lat' => 34.9513889,
         'Long' => -1.3710402,
+        'surface_km2' => 99.28,
     ],
     [
         'id' => '355',
@@ -4615,6 +4969,7 @@ return [
         'code_commune' => 1334,
         'Lat' => 35.069,
         'Long' => -1.1371,
+        'surface_km2' => 231.3,
     ],
     [
         'id' => '356',
@@ -4628,6 +4983,7 @@ return [
         'code_commune' => 1333,
         'Lat' => 35.023889,
         'Long' => -1.927222,
+        'surface_km2' => 79.1,
     ],
     [
         'id' => '357',
@@ -4641,6 +4997,7 @@ return [
         'code_commune' => 1324,
         'Lat' => 35.0739077,
         'Long' => -1.22747,
+        'surface_km2' => 87.48,
     ],
     [
         'id' => '358',
@@ -4654,6 +5011,7 @@ return [
         'code_commune' => 1320,
         'Lat' => 35.035,
         'Long' => -1.605833,
+        'surface_km2' => 74.37,
     ],
     [
         'id' => '359',
@@ -4667,6 +5025,7 @@ return [
         'code_commune' => 1353,
         'Lat' => 35.032777,
         'Long' => -1.665278,
+        'surface_km2' => 67.83,
     ],
     [
         'id' => '360',
@@ -4680,6 +5039,7 @@ return [
         'code_commune' => 1331,
         'Lat' => 34.965556,
         'Long' => -1.638611,
+        'surface_km2' => 77.7,
     ],
     [
         'id' => '361',
@@ -4693,6 +5053,7 @@ return [
         'code_commune' => 1301,
         'Lat' => 34.882777,
         'Long' => -1.316667,
+        'surface_km2' => 42.17,
     ],
     [
         'id' => '362',
@@ -4706,6 +5067,7 @@ return [
         'code_commune' => 1325,
         'Lat' => 35.027326,
         'Long' => -0.932222,
+        'surface_km2' => 126.03,
     ],
     [
         'id' => '363',
@@ -4719,6 +5081,7 @@ return [
         'code_commune' => 1303,
         'Lat' => 34.805556,
         'Long' => -0.9544444,
+        'surface_km2' => 500.08,
     ],
     [
         'id' => '364',
@@ -4732,6 +5095,7 @@ return [
         'code_commune' => 1315,
         'Lat' => 35.047222,
         'Long' => -1.3739,
+        'surface_km2' => 63.5,
     ],
     [
         'id' => '365',
@@ -4745,6 +5109,7 @@ return [
         'code_commune' => 1336,
         'Lat' => 35.083333,
         'Long' => -1.55731,
+        'surface_km2' => 169.4,
     ],
     [
         'id' => '366',
@@ -4758,6 +5123,7 @@ return [
         'code_commune' => 1305,
         'Lat' => 35.12,
         'Long' => -1.294444,
+        'surface_km2' => 111.18,
     ],
     [
         'id' => '367',
@@ -4771,6 +5137,7 @@ return [
         'code_commune' => 1304,
         'Lat' => 35.06196,
         'Long' => -1.43362,
+        'surface_km2' => 133.73,
     ],
     [
         'id' => '368',
@@ -4784,6 +5151,7 @@ return [
         'code_commune' => 1322,
         'Lat' => 35.156111,
         'Long' => -1.3558333,
+        'surface_km2' => 80.17,
     ],
     [
         'id' => '369',
@@ -4797,6 +5165,7 @@ return [
         'code_commune' => 1308,
         'Lat' => 34.9218192,
         'Long' => -1.9172519,
+        'surface_km2' => 59.8,
     ],
     [
         'id' => '370',
@@ -4810,6 +5179,7 @@ return [
         'code_commune' => 1306,
         'Lat' => 34.8280257,
         'Long' => -1.5283,
+        'surface_km2' => 169.19,
     ],
     [
         'id' => '371',
@@ -4823,6 +5193,7 @@ return [
         'code_commune' => 1319,
         'Lat' => 35.10055556,
         'Long' => -1.800833,
+        'surface_km2' => 53.08,
     ],
     [
         'id' => '372',
@@ -4836,6 +5207,7 @@ return [
         'code_commune' => 1307,
         'Lat' => 35.093858,
         'Long' => -1.86038,
+        'surface_km2' => 24.14,
     ],
     [
         'id' => '373',
@@ -4849,6 +5221,7 @@ return [
         'code_commune' => 1329,
         'Lat' => 35.033333,
         'Long' => -1.8881,
+        'surface_km2' => 84.53,
     ],
     [
         'id' => '374',
@@ -4862,6 +5235,7 @@ return [
         'code_commune' => 1345,
         'Lat' => 35.090833,
         'Long' => -1.8389,
+        'surface_km2' => 25.61,
     ],
     [
         'id' => '375',
@@ -4875,6 +5249,7 @@ return [
         'code_commune' => 1352,
         'Lat' => 34.816666,
         'Long' => -1.0267,
+        'surface_km2' => 226.8,
     ],
     [
         'id' => '376',
@@ -4888,6 +5263,7 @@ return [
         'code_commune' => 1311,
         'Lat' => 34.8749625,
         'Long' => -1.1341144,
+        'surface_km2' => 135.26,
     ],
     [
         'id' => '377',
@@ -4901,6 +5277,7 @@ return [
         'code_commune' => 1313,
         'Lat' => 34.90472,
         'Long' => -1.0347,
+        'surface_km2' => 89.74,
     ],
     [
         'id' => '378',
@@ -4914,6 +5291,7 @@ return [
         'code_commune' => 1309,
         'Lat' => 34.976388,
         'Long' => -1.7248,
+        'surface_km2' => 112.05,
     ],
     [
         'id' => '379',
@@ -4927,6 +5305,7 @@ return [
         'code_commune' => 1415,
         'Lat' => 35.4270876,
         'Long' => 1.755,
+        'surface_km2' => 143.25,
     ],
     [
         'id' => '380',
@@ -4940,6 +5319,7 @@ return [
         'code_commune' => 1405,
         'Lat' => 35.35339,
         'Long' => 1.66699,
+        'surface_km2' => 169.36,
     ],
     [
         'id' => '381',
@@ -4953,6 +5333,7 @@ return [
         'code_commune' => 1425,
         'Lat' => 34.63797,
         'Long' => 1.603611,
+        'surface_km2' => 268.66,
     ],
     [
         'id' => '382',
@@ -4966,6 +5347,7 @@ return [
         'code_commune' => 1441,
         'Lat' => 34.87,
         'Long' => 1.705556,
+        'surface_km2' => 2293.05,
     ],
     [
         'id' => '383',
@@ -4979,6 +5361,7 @@ return [
         'code_commune' => 1417,
         'Lat' => 35.2194,
         'Long' => 1.638611,
+        'surface_km2' => 425.21,
     ],
     [
         'id' => '384',
@@ -4992,6 +5375,7 @@ return [
         'code_commune' => 1416,
         'Lat' => 35.18568,
         'Long' => 1.49612,
+        'surface_km2' => 257.05,
     ],
     [
         'id' => '385',
@@ -5005,6 +5389,7 @@ return [
         'code_commune' => 1426,
         'Lat' => 34.02,
         'Long' => 1.276389,
+        'surface_km2' => 295.55,
     ],
     [
         'id' => '386',
@@ -5018,6 +5403,7 @@ return [
         'code_commune' => 1421,
         'Lat' => 35.5964786,
         'Long' => 1.4136,
+        'surface_km2' => 108.73,
     ],
     [
         'id' => '387',
@@ -5031,6 +5417,7 @@ return [
         'code_commune' => 1411,
         'Lat' => 35.656111,
         'Long' => 1.3728,
+        'surface_km2' => 72.32,
     ],
     [
         'id' => '388',
@@ -5044,6 +5431,7 @@ return [
         'code_commune' => 1423,
         'Lat' => 35.4711,
         'Long' => 1.521582,
+        'surface_km2' => 230.75,
     ],
     [
         'id' => '389',
@@ -5057,6 +5445,7 @@ return [
         'code_commune' => 1418,
         'Lat' => 35.05783,
         'Long' => 0.88479,
+        'surface_km2' => 441.57,
     ],
     [
         'id' => '390',
@@ -5070,6 +5459,7 @@ return [
         'code_commune' => 1427,
         'Lat' => 35.05,
         'Long' => 1.0538252,
+        'surface_km2' => 386.77,
     ],
     [
         'id' => '391',
@@ -5083,6 +5473,7 @@ return [
         'code_commune' => 1437,
         'Lat' => 35.035,
         'Long' => 0.683333333,
+        'surface_km2' => 566.22,
     ],
     [
         'id' => '392',
@@ -5096,6 +5487,7 @@ return [
         'code_commune' => 1428,
         'Lat' => 34.908176,
         'Long' => 1.10807,
+        'surface_km2' => 224.91,
     ],
     [
         'id' => '393',
@@ -5109,6 +5501,7 @@ return [
         'code_commune' => 1419,
         'Lat' => 34.86375,
         'Long' => 1.015,
+        'surface_km2' => 493.39,
     ],
     [
         'id' => '394',
@@ -5122,6 +5515,7 @@ return [
         'code_commune' => 1410,
         'Lat' => 34.753055,
         'Long' => 0.98278,
+        'surface_km2' => 515.32,
     ],
     [
         'id' => '395',
@@ -5135,6 +5529,7 @@ return [
         'code_commune' => 1408,
         'Lat' => 34.8959,
         'Long' => 1.2407,
+        'surface_km2' => 268.62,
     ],
     [
         'id' => '396',
@@ -5148,6 +5543,7 @@ return [
         'code_commune' => 1438,
         'Lat' => 34.79861,
         'Long' => 1.130278,
+        'surface_km2' => 1573.68,
     ],
     [
         'id' => '397',
@@ -5161,6 +5557,7 @@ return [
         'code_commune' => 1422,
         'Lat' => 35.393056,
         'Long' => 1.25,
+        'surface_km2' => 180.33,
     ],
     [
         'id' => '398',
@@ -5174,6 +5571,7 @@ return [
         'code_commune' => 1433,
         'Lat' => 35.5107,
         'Long' => 1.2713,
+        'surface_km2' => 226.4,
     ],
     [
         'id' => '399',
@@ -5187,6 +5585,7 @@ return [
         'code_commune' => 1404,
         'Lat' => 35.563333,
         'Long' => 1.2256,
+        'surface_km2' => 142.87,
     ],
     [
         'id' => '400',
@@ -5200,6 +5599,7 @@ return [
         'code_commune' => 1424,
         'Lat' => 35.44444,
         'Long' => 0.84972221,
+        'surface_km2' => 149.85,
     ],
     [
         'id' => '401',
@@ -5213,6 +5613,7 @@ return [
         'code_commune' => 1434,
         'Lat' => 35.38388889,
         'Long' => 1.03803,
+        'surface_km2' => 301.95,
     ],
     [
         'id' => '402',
@@ -5226,6 +5627,7 @@ return [
         'code_commune' => 1432,
         'Lat' => 35.335556,
         'Long' => 1.5450766,
+        'surface_km2' => 148.64,
     ],
     [
         'id' => '403',
@@ -5239,6 +5641,7 @@ return [
         'code_commune' => 1442,
         'Lat' => 35.5825,
         'Long' => 1.266238,
+        'surface_km2' => 103.65,
     ],
     [
         'id' => '404',
@@ -5252,6 +5655,7 @@ return [
         'code_commune' => 1431,
         'Lat' => 35.069,
         'Long' => 1.890556,
+        'surface_km2' => 651.79,
     ],
     [
         'id' => '405',
@@ -5265,6 +5669,7 @@ return [
         'code_commune' => 1401,
         'Lat' => 35.3667,
         'Long' => 1.3167,
+        'surface_km2' => 123.21,
     ],
     [
         'id' => '406',
@@ -5278,6 +5683,7 @@ return [
         'code_commune' => 1402,
         'Lat' => 35.17721,
         'Long' => 1.203611,
+        'surface_km2' => 214.8,
     ],
     [
         'id' => '407',
@@ -5291,6 +5697,7 @@ return [
         'code_commune' => 1412,
         'Lat' => 35.2497888,
         'Long' => 1.2337661,
+        'surface_km2' => 205.82,
     ],
     [
         'id' => '408',
@@ -5304,6 +5711,7 @@ return [
         'code_commune' => 1407,
         'Lat' => 35.156111,
         'Long' => 0.9783,
+        'surface_km2' => 214.74,
     ],
     [
         'id' => '409',
@@ -5317,6 +5725,7 @@ return [
         'code_commune' => 1406,
         'Lat' => 34.8422,
         'Long' => 1.5450766,
+        'surface_km2' => 1428.03,
     ],
     [
         'id' => '410',
@@ -5330,6 +5739,7 @@ return [
         'code_commune' => 1436,
         'Lat' => 34.8959,
         'Long' => 1.3047556,
+        'surface_km2' => 2221.57,
     ],
     [
         'id' => '411',
@@ -5343,6 +5753,7 @@ return [
         'code_commune' => 1420,
         'Lat' => 34.639444,
         'Long' => 1.4775,
+        'surface_km2' => 1606.92,
     ],
     [
         'id' => '412',
@@ -5356,6 +5767,7 @@ return [
         'code_commune' => 1403,
         'Lat' => 35.355833,
         'Long' => 1.51056,
+        'surface_km2' => 150.76,
     ],
     [
         'id' => '413',
@@ -5369,6 +5781,7 @@ return [
         'code_commune' => 1413,
         'Lat' => 35.4157148,
         'Long' => 1.483333,
+        'surface_km2' => 163.88,
     ],
     [
         'id' => '414',
@@ -5382,6 +5795,7 @@ return [
         'code_commune' => 1414,
         'Lat' => 35.530278,
         'Long' => 1.6,
+        'surface_km2' => 277.3,
     ],
     [
         'id' => '415',
@@ -5395,6 +5809,7 @@ return [
         'code_commune' => 1562,
         'Lat' => 36.89623,
         'Long' => 4.096111,
+        'surface_km2' => 52.43,
     ],
     [
         'id' => '416',
@@ -5408,6 +5823,7 @@ return [
         'code_commune' => 1549,
         'Lat' => 36.6664,
         'Long' => 4.5186,
+        'surface_km2' => 74.73,
     ],
     [
         'id' => '417',
@@ -5421,6 +5837,7 @@ return [
         'code_commune' => 1532,
         'Lat' => 36.61954,
         'Long' => 4.08282,
+        'surface_km2' => 35.93,
     ],
     [
         'id' => '418',
@@ -5434,6 +5851,7 @@ return [
         'code_commune' => 1546,
         'Lat' => 36.55308,
         'Long' => 4.301147,
+        'surface_km2' => 20.59,
     ],
     [
         'id' => '419',
@@ -5447,6 +5865,7 @@ return [
         'code_commune' => 1519,
         'Lat' => 36.5667,
         'Long' => 4.59611,
+        'surface_km2' => 51.83,
     ],
     [
         'id' => '420',
@@ -5460,6 +5879,7 @@ return [
         'code_commune' => 1561,
         'Lat' => 36.5152247,
         'Long' => 4.1137957,
+        'surface_km2' => 41.21,
     ],
     [
         'id' => '421',
@@ -5473,6 +5893,7 @@ return [
         'code_commune' => 1565,
         'Lat' => 36.50833333,
         'Long' => 4.058333,
+        'surface_km2' => 38.97,
     ],
     [
         'id' => '422',
@@ -5486,6 +5907,7 @@ return [
         'code_commune' => 1536,
         'Lat' => 36.55611,
         'Long' => 4.0897,
+        'surface_km2' => 32.99,
     ],
     [
         'id' => '423',
@@ -5499,6 +5921,7 @@ return [
         'code_commune' => 1551,
         'Lat' => 36.5457,
         'Long' => 4.057,
+        'surface_km2' => 27.11,
     ],
     [
         'id' => '424',
@@ -5512,6 +5935,7 @@ return [
         'code_commune' => 1553,
         'Lat' => 36.802222,
         'Long' => 4.3227777,
+        'surface_km2' => 65.59,
     ],
     [
         'id' => '425',
@@ -5525,6 +5949,7 @@ return [
         'code_commune' => 1513,
         'Lat' => 36.81702,
         'Long' => 4.53358,
+        'surface_km2' => 83.94,
     ],
     [
         'id' => '426',
@@ -5538,6 +5963,7 @@ return [
         'code_commune' => 1544,
         'Lat' => 36.7992,
         'Long' => 4.4206,
+        'surface_km2' => 44.83,
     ],
     [
         'id' => '427',
@@ -5551,6 +5977,7 @@ return [
         'code_commune' => 1537,
         'Lat' => 36.8895311,
         'Long' => 4.4240151,
+        'surface_km2' => 120.64,
     ],
     [
         'id' => '428',
@@ -5564,6 +5991,7 @@ return [
         'code_commune' => 1554,
         'Lat' => 36.89623,
         'Long' => 4.2230836,
+        'surface_km2' => 63.91,
     ],
     [
         'id' => '429',
@@ -5577,6 +6005,7 @@ return [
         'code_commune' => 1538,
         'Lat' => 36.89623,
         'Long' => 4.12142,
+        'surface_km2' => 36.73,
     ],
     [
         'id' => '430',
@@ -5590,6 +6019,7 @@ return [
         'code_commune' => 1566,
         'Lat' => 36.5071,
         'Long' => 4.0,
+        'surface_km2' => 25.19,
     ],
     [
         'id' => '431',
@@ -5603,6 +6033,7 @@ return [
         'code_commune' => 1540,
         'Lat' => 36.54222,
         'Long' => 3.95306,
+        'surface_km2' => 51.6,
     ],
     [
         'id' => '432',
@@ -5616,6 +6047,7 @@ return [
         'code_commune' => 1512,
         'Lat' => 36.49935,
         'Long' => 4.07056,
+        'surface_km2' => 27.03,
     ],
     [
         'id' => '433',
@@ -5629,6 +6061,7 @@ return [
         'code_commune' => 1506,
         'Lat' => 36.53117,
         'Long' => 3.9981,
+        'surface_km2' => 17.36,
     ],
     [
         'id' => '434',
@@ -5642,6 +6075,7 @@ return [
         'code_commune' => 1547,
         'Lat' => 36.7309604,
         'Long' => 3.9652509,
+        'surface_km2' => 33.74,
     ],
     [
         'id' => '435',
@@ -5655,6 +6089,7 @@ return [
         'code_commune' => 1559,
         'Lat' => 36.7169,
         'Long' => 3.9839,
+        'surface_km2' => 42.83,
     ],
     [
         'id' => '436',
@@ -5668,6 +6103,7 @@ return [
         'code_commune' => 1564,
         'Lat' => 36.74413,
         'Long' => 3.90045,
+        'surface_km2' => 62.44,
     ],
     [
         'id' => '437',
@@ -5681,6 +6117,7 @@ return [
         'code_commune' => 1543,
         'Lat' => 36.66180861,
         'Long' => 3.984722,
+        'surface_km2' => 32.76,
     ],
     [
         'id' => '438',
@@ -5694,6 +6131,7 @@ return [
         'code_commune' => 1530,
         'Lat' => 36.4883,
         'Long' => 4.1820961,
+        'surface_km2' => 23.31,
     ],
     [
         'id' => '439',
@@ -5707,6 +6145,7 @@ return [
         'code_commune' => 1567,
         'Lat' => 36.6914,
         'Long' => 4.1615,
+        'surface_km2' => 34.6,
     ],
     [
         'id' => '440',
@@ -5720,6 +6159,7 @@ return [
         'code_commune' => 1515,
         'Lat' => 36.6636279,
         'Long' => 4.0938,
+        'surface_km2' => 20.9,
     ],
     [
         'id' => '441',
@@ -5733,6 +6173,7 @@ return [
         'code_commune' => 1548,
         'Lat' => 36.5245,
         'Long' => 4.20556,
+        'surface_km2' => 17.2,
     ],
     [
         'id' => '442',
@@ -5746,6 +6187,7 @@ return [
         'code_commune' => 1558,
         'Lat' => 36.6664742,
         'Long' => 4.3134,
+        'surface_km2' => 24.77,
     ],
     [
         'id' => '443',
@@ -5759,6 +6201,7 @@ return [
         'code_commune' => 1550,
         'Lat' => 36.68178,
         'Long' => 4.264103,
+        'surface_km2' => 64.1,
     ],
     [
         'id' => '444',
@@ -5772,6 +6215,7 @@ return [
         'code_commune' => 1505,
         'Lat' => 36.6718,
         'Long' => 4.341667,
+        'surface_km2' => 39.95,
     ],
     [
         'id' => '445',
@@ -5785,6 +6229,7 @@ return [
         'code_commune' => 1552,
         'Lat' => 36.5752,
         'Long' => 4.20764,
+        'surface_km2' => 34.71,
     ],
     [
         'id' => '446',
@@ -5798,6 +6243,7 @@ return [
         'code_commune' => 1560,
         'Lat' => 36.529,
         'Long' => 4.298611,
+        'surface_km2' => 32.31,
     ],
     [
         'id' => '447',
@@ -5811,6 +6257,7 @@ return [
         'code_commune' => 1501,
         'Lat' => 36.733333,
         'Long' => 4.05,
+        'surface_km2' => 104.67,
     ],
     [
         'id' => '448',
@@ -5824,6 +6271,7 @@ return [
         'code_commune' => 1531,
         'Lat' => 36.538333,
         'Long' => 4.343889,
+        'surface_km2' => 17.2,
     ],
     [
         'id' => '449',
@@ -5837,6 +6285,7 @@ return [
         'code_commune' => 1502,
         'Lat' => 36.57056,
         'Long' => 4.31111,
+        'surface_km2' => 38.6,
     ],
     [
         'id' => '450',
@@ -5850,6 +6299,7 @@ return [
         'code_commune' => 1527,
         'Lat' => 36.6066637,
         'Long' => 4.330278,
+        'surface_km2' => 52.17,
     ],
     [
         'id' => '451',
@@ -5863,6 +6313,7 @@ return [
         'code_commune' => 1503,
         'Lat' => 36.4995515,
         'Long' => 4.3051542,
+        'surface_km2' => 37.55,
     ],
     [
         'id' => '452',
@@ -5876,6 +6327,7 @@ return [
         'code_commune' => 1555,
         'Lat' => 36.802,
         'Long' => 4.1481,
+        'surface_km2' => 35.4,
     ],
     [
         'id' => '453',
@@ -5889,6 +6341,7 @@ return [
         'code_commune' => 1509,
         'Lat' => 36.791944,
         'Long' => 4.063,
+        'surface_km2' => 57.17,
     ],
     [
         'id' => '454',
@@ -5902,6 +6355,7 @@ return [
         'code_commune' => 1525,
         'Lat' => 36.5504491,
         'Long' => 3.89416,
+        'surface_km2' => 56.96,
     ],
     [
         'id' => '455',
@@ -5915,6 +6369,7 @@ return [
         'code_commune' => 1556,
         'Lat' => 36.64111111,
         'Long' => 3.89,
+        'surface_km2' => 63.48,
     ],
     [
         'id' => '456',
@@ -5928,6 +6383,7 @@ return [
         'code_commune' => 1510,
         'Lat' => 36.536,
         'Long' => 3.833,
+        'surface_km2' => 81.11,
     ],
     [
         'id' => '457',
@@ -5941,6 +6397,7 @@ return [
         'code_commune' => 1514,
         'Lat' => 36.4926443,
         'Long' => 3.99472221,
+        'surface_km2' => 38.34,
     ],
     [
         'id' => '458',
@@ -5954,6 +6411,7 @@ return [
         'code_commune' => 1526,
         'Lat' => 36.6253,
         'Long' => 3.993611,
+        'surface_km2' => 35.55,
     ],
     [
         'id' => '459',
@@ -5967,6 +6425,7 @@ return [
         'code_commune' => 1511,
         'Lat' => 36.58839,
         'Long' => 3.77445,
+        'surface_km2' => 41.57,
     ],
     [
         'id' => '460',
@@ -5980,6 +6439,7 @@ return [
         'code_commune' => 1545,
         'Lat' => 36.575278,
         'Long' => 4.2989,
+        'surface_km2' => 16.0,
     ],
     [
         'id' => '461',
@@ -5993,6 +6453,7 @@ return [
         'code_commune' => 1533,
         'Lat' => 36.5167,
         'Long' => 4.0497,
+        'surface_km2' => 26.79,
     ],
     [
         'id' => '462',
@@ -6006,6 +6467,7 @@ return [
         'code_commune' => 1563,
         'Lat' => 36.574444,
         'Long' => 4.39,
+        'surface_km2' => 24.5,
     ],
     [
         'id' => '463',
@@ -6019,6 +6481,7 @@ return [
         'code_commune' => 1518,
         'Lat' => 36.74472,
         'Long' => 4.37222,
+        'surface_km2' => 77.22,
     ],
     [
         'id' => '464',
@@ -6032,6 +6495,7 @@ return [
         'code_commune' => 1504,
         'Lat' => 36.76124,
         'Long' => 4.3194,
+        'surface_km2' => 69.15,
     ],
     [
         'id' => '465',
@@ -6045,6 +6509,7 @@ return [
         'code_commune' => 1541,
         'Lat' => 36.671389,
         'Long' => 4.469722,
+        'surface_km2' => 46.97,
     ],
     [
         'id' => '466',
@@ -6058,6 +6523,7 @@ return [
         'code_commune' => 1520,
         'Lat' => 36.7305,
         'Long' => 4.438611,
+        'surface_km2' => 81.0,
     ],
     [
         'id' => '467',
@@ -6071,6 +6537,7 @@ return [
         'code_commune' => 1523,
         'Lat' => 36.78027778,
         'Long' => 4.5531,
+        'surface_km2' => 89.23,
     ],
     [
         'id' => '468',
@@ -6084,6 +6551,7 @@ return [
         'code_commune' => 1535,
         'Lat' => 36.617777,
         'Long' => 4.23,
+        'surface_km2' => 26.25,
     ],
     [
         'id' => '469',
@@ -6097,6 +6565,7 @@ return [
         'code_commune' => 1507,
         'Lat' => 36.6562,
         'Long' => 4.140165,
+        'surface_km2' => 21.49,
     ],
     [
         'id' => '470',
@@ -6110,6 +6579,7 @@ return [
         'code_commune' => 1521,
         'Lat' => 36.63667,
         'Long' => 4.206709,
+        'surface_km2' => 39.0,
     ],
     [
         'id' => '471',
@@ -6123,6 +6593,7 @@ return [
         'code_commune' => 1542,
         'Lat' => 36.6586389,
         'Long' => 4.2282093,
+        'surface_km2' => 13.73,
     ],
     [
         'id' => '472',
@@ -6136,6 +6607,7 @@ return [
         'code_commune' => 1522,
         'Lat' => 36.6799518,
         'Long' => 4.2087286,
+        'surface_km2' => 31.11,
     ],
     [
         'id' => '473',
@@ -6149,6 +6621,7 @@ return [
         'code_commune' => 1539,
         'Lat' => 36.7486964,
         'Long' => 4.1156,
+        'surface_km2' => 36.7,
     ],
     [
         'id' => '474',
@@ -6162,6 +6635,7 @@ return [
         'code_commune' => 1524,
         'Lat' => 36.758895,
         'Long' => 4.174722,
+        'surface_km2' => 40.22,
     ],
     [
         'id' => '475',
@@ -6175,6 +6649,7 @@ return [
         'code_commune' => 1508,
         'Lat' => 36.8,
         'Long' => 4.2667,
+        'surface_km2' => 65.72,
     ],
     [
         'id' => '476',
@@ -6188,6 +6663,7 @@ return [
         'code_commune' => 1529,
         'Lat' => 36.6194358,
         'Long' => 3.9572374,
+        'surface_km2' => 45.83,
     ],
     [
         'id' => '477',
@@ -6201,6 +6677,7 @@ return [
         'code_commune' => 1557,
         'Lat' => 36.6194358,
         'Long' => 5.3360215,
+        'surface_km2' => 20.59,
     ],
     [
         'id' => '478',
@@ -6214,6 +6691,7 @@ return [
         'code_commune' => 1528,
         'Lat' => 36.508394,
         'Long' => 3.993187,
+        'surface_km2' => 26.2,
     ],
     [
         'id' => '479',
@@ -6227,6 +6705,7 @@ return [
         'code_commune' => 1516,
         'Lat' => 36.64775,
         'Long' => 4.04202,
+        'surface_km2' => 20.44,
     ],
     [
         'id' => '480',
@@ -6240,6 +6719,7 @@ return [
         'code_commune' => 1517,
         'Lat' => 36.51667,
         'Long' => 4.38333,
+        'surface_km2' => 32.83,
     ],
     [
         'id' => '481',
@@ -6253,6 +6733,7 @@ return [
         'code_commune' => 1534,
         'Lat' => 36.6167048,
         'Long' => 4.4798498,
+        'surface_km2' => 69.6,
     ],
     [
         'id' => '482',
@@ -6266,6 +6747,7 @@ return [
         'code_commune' => 1617,
         'Lat' => 36.744147,
         'Long' => 3.092008,
+        'surface_km2' => 3.29,
     ],
     [
         'id' => '483',
@@ -6279,6 +6761,7 @@ return [
         'code_commune' => 1633,
         'Lat' => 36.6664,
         'Long' => 3.1679257,
+        'surface_km2' => 32.57,
     ],
     [
         'id' => '484',
@@ -6292,6 +6775,7 @@ return [
         'code_commune' => 1637,
         'Lat' => 36.605556,
         'Long' => 3.088,
+        'surface_km2' => 39.63,
     ],
     [
         'id' => '485',
@@ -6305,6 +6789,7 @@ return [
         'code_commune' => 1618,
         'Lat' => 36.74413,
         'Long' => 3.086474,
+        'surface_km2' => 10.13,
     ],
     [
         'id' => '486',
@@ -6318,6 +6803,7 @@ return [
         'code_commune' => 1604,
         'Lat' => 36.7505682,
         'Long' => 3.070142,
+        'surface_km2' => 2.06,
     ],
     [
         'id' => '487',
@@ -6331,6 +6817,7 @@ return [
         'code_commune' => 1641,
         'Lat' => 36.7852529,
         'Long' => 3.2869,
+        'surface_km2' => 7.06,
     ],
     [
         'id' => '488',
@@ -6344,6 +6831,7 @@ return [
         'code_commune' => 1621,
         'Lat' => 36.7206251,
         'Long' => 3.1853,
+        'surface_km2' => 8.12,
     ],
     [
         'id' => '489',
@@ -6357,6 +6845,7 @@ return [
         'code_commune' => 1630,
         'Lat' => 36.74871,
         'Long' => 3.19249,
+        'surface_km2' => 21.28,
     ],
     [
         'id' => '490',
@@ -6370,6 +6859,7 @@ return [
         'code_commune' => 1620,
         'Lat' => 36.7133,
         'Long' => 3.2125,
+        'surface_km2' => 30.87,
     ],
     [
         'id' => '491',
@@ -6383,6 +6873,7 @@ return [
         'code_commune' => 1643,
         'Lat' => 36.8111249,
         'Long' => 3.254722,
+        'surface_km2' => 2.96,
     ],
     [
         'id' => '492',
@@ -6396,6 +6887,7 @@ return [
         'code_commune' => 1629,
         'Lat' => 36.7349528,
         'Long' => 3.1528692,
+        'surface_km2' => 6.88,
     ],
     [
         'id' => '493',
@@ -6409,6 +6901,7 @@ return [
         'code_commune' => 1636,
         'Lat' => 36.62815,
         'Long' => 2.99889,
+        'surface_km2' => 27.17,
     ],
     [
         'id' => '494',
@@ -6422,6 +6915,7 @@ return [
         'code_commune' => 1635,
         'Lat' => 36.6044691,
         'Long' => 2.9875565,
+        'surface_km2' => 29.41,
     ],
     [
         'id' => '495',
@@ -6435,6 +6929,7 @@ return [
         'code_commune' => 1634,
         'Lat' => 36.6222556,
         'Long' => 2.9225893,
+        'surface_km2' => 20.44,
     ],
     [
         'id' => '496',
@@ -6448,6 +6943,7 @@ return [
         'code_commune' => 1639,
         'Lat' => 36.77278,
         'Long' => 3.253056,
+        'surface_km2' => 9.94,
     ],
     [
         'id' => '497',
@@ -6461,6 +6957,7 @@ return [
         'code_commune' => 1640,
         'Lat' => 36.7359,
         'Long' => 3.3402,
+        'surface_km2' => 28.25,
     ],
     [
         'id' => '498',
@@ -6474,6 +6971,7 @@ return [
         'code_commune' => 1638,
         'Lat' => 36.7259091,
         'Long' => 3.28079,
+        'surface_km2' => 41.21,
     ],
     [
         'id' => '499',
@@ -6487,6 +6985,7 @@ return [
         'code_commune' => 1646,
         'Lat' => 36.6194358,
         'Long' => 3.030556,
+        'surface_km2' => 33.87,
     ],
     [
         'id' => '500',
@@ -6500,6 +6999,7 @@ return [
         'code_commune' => 1650,
         'Lat' => 36.680833,
         'Long' => 2.906,
+        'surface_km2' => 8.96,
     ],
     [
         'id' => '501',
@@ -6513,6 +7013,7 @@ return [
         'code_commune' => 1655,
         'Lat' => 36.7089832,
         'Long' => 2.9026172,
+        'surface_km2' => 13.67,
     ],
     [
         'id' => '502',
@@ -6526,6 +7027,7 @@ return [
         'code_commune' => 1653,
         'Lat' => 36.753333,
         'Long' => 2.894444,
+        'surface_km2' => 21.29,
     ],
     [
         'id' => '503',
@@ -6539,6 +7041,7 @@ return [
         'code_commune' => 1644,
         'Lat' => 36.6946148,
         'Long' => 2.8277963,
+        'surface_km2' => 30.13,
     ],
     [
         'id' => '504',
@@ -6552,6 +7055,7 @@ return [
         'code_commune' => 1647,
         'Lat' => 36.694697,
         'Long' => 2.972,
+        'surface_km2' => 8.76,
     ],
     [
         'id' => '505',
@@ -6565,6 +7069,7 @@ return [
         'code_commune' => 1648,
         'Lat' => 36.67,
         'Long' => 2.9275836,
+        'surface_km2' => 40.05,
     ],
     [
         'id' => '506',
@@ -6578,6 +7083,7 @@ return [
         'code_commune' => 1649,
         'Lat' => 36.7172858,
         'Long' => 3.0025615,
+        'surface_km2' => 10.63,
     ],
     [
         'id' => '507',
@@ -6591,6 +7097,7 @@ return [
         'code_commune' => 1654,
         'Lat' => 36.7285583,
         'Long' => 2.9825559,
+        'surface_km2' => 11.18,
     ],
     [
         'id' => '508',
@@ -6604,6 +7111,7 @@ return [
         'code_commune' => 1656,
         'Lat' => 36.683333,
         'Long' => 2.9821,
+        'surface_km2' => 15.22,
     ],
     [
         'id' => '509',
@@ -6617,6 +7125,7 @@ return [
         'code_commune' => 1657,
         'Lat' => 36.791944,
         'Long' => 2.9337917,
+        'surface_km2' => 13.03,
     ],
     [
         'id' => '510',
@@ -6630,6 +7139,7 @@ return [
         'code_commune' => 1652,
         'Lat' => 36.7677,
         'Long' => 2.95924,
+        'surface_km2' => 27.96,
     ],
     [
         'id' => '511',
@@ -6643,6 +7153,7 @@ return [
         'code_commune' => 1623,
         'Lat' => 36.7528506,
         'Long' => 2.9800558,
+        'surface_km2' => 8.65,
     ],
     [
         'id' => '512',
@@ -6656,6 +7167,7 @@ return [
         'code_commune' => 1624,
         'Lat' => 36.8041635,
         'Long' => 3.0034,
+        'surface_km2' => 7.59,
     ],
     [
         'id' => '513',
@@ -6669,6 +7181,7 @@ return [
         'code_commune' => 1651,
         'Lat' => 36.7365,
         'Long' => 2.949444,
+        'surface_km2' => 18.25,
     ],
     [
         'id' => '514',
@@ -6682,6 +7195,7 @@ return [
         'code_commune' => 1601,
         'Lat' => 36.76846,
         'Long' => 3.0909,
+        'surface_km2' => 2.67,
     ],
     [
         'id' => '515',
@@ -6695,6 +7209,7 @@ return [
         'code_commune' => 1603,
         'Lat' => 36.7411788,
         'Long' => 3.0688896,
+        'surface_km2' => 2.12,
     ],
     [
         'id' => '516',
@@ -6708,6 +7223,7 @@ return [
         'code_commune' => 1627,
         'Lat' => 36.7497677,
         'Long' => 3.0488564,
+        'surface_km2' => 1.93,
     ],
     [
         'id' => '517',
@@ -6721,6 +7237,7 @@ return [
         'code_commune' => 1602,
         'Lat' => 36.7563368,
         'Long' => 3.0551159,
+        'surface_km2' => 2.74,
     ],
     [
         'id' => '518',
@@ -6734,6 +7251,7 @@ return [
         'code_commune' => 1645,
         'Lat' => 36.7046,
         'Long' => 3.0085182,
+        'surface_km2' => 20.8,
     ],
     [
         'id' => '519',
@@ -6747,6 +7265,7 @@ return [
         'code_commune' => 1606,
         'Lat' => 36.80443,
         'Long' => 3.04,
+        'surface_km2' => 1.99,
     ],
     [
         'id' => '520',
@@ -6760,6 +7279,7 @@ return [
         'code_commune' => 1607,
         'Lat' => 36.7844961,
         'Long' => 3.058872,
+        'surface_km2' => 0.67,
     ],
     [
         'id' => '521',
@@ -6773,6 +7293,7 @@ return [
         'code_commune' => 1608,
         'Lat' => 36.7836306,
         'Long' => 3.042698,
+        'surface_km2' => 2.42,
     ],
     [
         'id' => '522',
@@ -6786,6 +7307,7 @@ return [
         'code_commune' => 1625,
         'Lat' => 36.81784,
         'Long' => 3.18,
+        'surface_km2' => 3.98,
     ],
     [
         'id' => '523',
@@ -6799,6 +7321,7 @@ return [
         'code_commune' => 1609,
         'Lat' => 36.7323254,
         'Long' => 3.045,
+        'surface_km2' => 4.26,
     ],
     [
         'id' => '524',
@@ -6812,6 +7335,7 @@ return [
         'code_commune' => 1612,
         'Lat' => 36.71499,
         'Long' => 3.05002,
+        'surface_km2' => 8.92,
     ],
     [
         'id' => '525',
@@ -6825,6 +7349,7 @@ return [
         'code_commune' => 1626,
         'Lat' => 36.6969,
         'Long' => 3.058889,
+        'surface_km2' => 14.56,
     ],
     [
         'id' => '526',
@@ -6838,6 +7363,7 @@ return [
         'code_commune' => 1628,
         'Lat' => 36.7409507,
         'Long' => 3.0251,
+        'surface_km2' => 6.75,
     ],
     [
         'id' => '527',
@@ -6851,6 +7377,7 @@ return [
         'code_commune' => 1631,
         'Lat' => 36.7319999,
         'Long' => 3.1114879,
+        'surface_km2' => 1.53,
     ],
     [
         'id' => '528',
@@ -6864,6 +7391,7 @@ return [
         'code_commune' => 1622,
         'Lat' => 36.758895,
         'Long' => 3.0100658,
+        'surface_km2' => 3.7,
     ],
     [
         'id' => '529',
@@ -6877,6 +7405,7 @@ return [
         'code_commune' => 1632,
         'Lat' => 36.73962,
         'Long' => 2.974444,
+        'surface_km2' => 7.79,
     ],
     [
         'id' => '530',
@@ -6890,6 +7419,7 @@ return [
         'code_commune' => 1611,
         'Lat' => 36.79,
         'Long' => 3.0177,
+        'surface_km2' => 12.32,
     ],
     [
         'id' => '531',
@@ -6903,6 +7433,7 @@ return [
         'code_commune' => 1610,
         'Lat' => 36.7677,
         'Long' => 3.0297,
+        'surface_km2' => 4.24,
     ],
     [
         'id' => '532',
@@ -6916,6 +7447,7 @@ return [
         'code_commune' => 1619,
         'Lat' => 36.7006,
         'Long' => 3.0667,
+        'surface_km2' => 3.33,
     ],
     [
         'id' => '533',
@@ -6929,6 +7461,7 @@ return [
         'code_commune' => 1616,
         'Lat' => 36.711707,
         'Long' => 3.1165,
+        'surface_km2' => 3.59,
     ],
     [
         'id' => '534',
@@ -6942,6 +7475,7 @@ return [
         'code_commune' => 1613,
         'Lat' => 36.7164,
         'Long' => 3.715,
+        'surface_km2' => 9.79,
     ],
     [
         'id' => '535',
@@ -6955,6 +7489,7 @@ return [
         'code_commune' => 1615,
         'Lat' => 36.74472,
         'Long' => 3.172222222,
+        'surface_km2' => 8.17,
     ],
     [
         'id' => '536',
@@ -6968,6 +7503,7 @@ return [
         'code_commune' => 1614,
         'Lat' => 36.6667,
         'Long' => 3.0961,
+        'surface_km2' => 26.76,
     ],
     [
         'id' => '537',
@@ -6981,6 +7517,7 @@ return [
         'code_commune' => 1642,
         'Lat' => 36.779133,
         'Long' => 3.22248,
+        'surface_km2' => 8.26,
     ],
     [
         'id' => '538',
@@ -6994,6 +7531,7 @@ return [
         'code_commune' => 1605,
         'Lat' => 36.790703,
         'Long' => 3.05,
+        'surface_km2' => 0.86,
     ],
     [
         'id' => '539',
@@ -7007,6 +7545,7 @@ return [
         'code_commune' => 1716,
         'Lat' => 35.15200699,
         'Long' => 3.248451487,
+        'surface_km2' => 510.81,
     ],
     [
         'id' => '540',
@@ -7020,6 +7559,7 @@ return [
         'code_commune' => 1730,
         'Lat' => 34.35472,
         'Long' => 3.2239,
+        'surface_km2' => 605.33,
     ],
     [
         'id' => '541',
@@ -7033,6 +7573,7 @@ return [
         'code_commune' => 1703,
         'Lat' => 34.64650126,
         'Long' => 2.616250107,
+        'surface_km2' => 1154.98,
     ],
     [
         'id' => '542',
@@ -7046,6 +7587,7 @@ return [
         'code_commune' => 1726,
         'Lat' => 34.621,
         'Long' => 2.80111,
+        'surface_km2' => 592.22,
     ],
     [
         'id' => '543',
@@ -7059,6 +7601,7 @@ return [
         'code_commune' => 1727,
         'Lat' => 34.46649223,
         'Long' => 2.784077409,
+        'surface_km2' => 193.26,
     ],
     [
         'id' => '544',
@@ -7072,6 +7615,7 @@ return [
         'code_commune' => 1712,
         'Lat' => 35.058055,
         'Long' => 3.430556,
+        'surface_km2' => 500.13,
     ],
     [
         'id' => '545',
@@ -7085,6 +7629,7 @@ return [
         'code_commune' => 1713,
         'Lat' => 34.71228784,
         'Long' => 3.765454396,
+        'surface_km2' => 912.27,
     ],
     [
         'id' => '546',
@@ -7098,6 +7643,7 @@ return [
         'code_commune' => 1725,
         'Lat' => 34.9,
         'Long' => 3.4833,
+        'surface_km2' => 341.94,
     ],
     [
         'id' => '547',
@@ -7111,6 +7657,7 @@ return [
         'code_commune' => 1736,
         'Lat' => 34.286667,
         'Long' => 2.988611,
+        'surface_km2' => 925.28,
     ],
     [
         'id' => '548',
@@ -7124,6 +7671,7 @@ return [
         'code_commune' => 1710,
         'Lat' => 34.430832,
         'Long' => 3.327222,
+        'surface_km2' => 227.01,
     ],
     [
         'id' => '549',
@@ -7137,6 +7685,7 @@ return [
         'code_commune' => 1715,
         'Lat' => 34.3683656,
         'Long' => 2.701075597,
+        'surface_km2' => 513.62,
     ],
     [
         'id' => '550',
@@ -7150,6 +7699,7 @@ return [
         'code_commune' => 1714,
         'Lat' => 34.4548511,
         'Long' => 2.5247449,
+        'surface_km2' => 356.91,
     ],
     [
         'id' => '551',
@@ -7163,6 +7713,7 @@ return [
         'code_commune' => 1723,
         'Lat' => 34.2413281,
         'Long' => 2.522269,
+        'surface_km2' => 211.94,
     ],
     [
         'id' => '552',
@@ -7176,6 +7727,7 @@ return [
         'code_commune' => 1701,
         'Lat' => 34.67279,
         'Long' => 3.25,
+        'surface_km2' => 528.59,
     ],
     [
         'id' => '553',
@@ -7189,6 +7741,7 @@ return [
         'code_commune' => 1728,
         'Lat' => 34.850833,
         'Long' => 2.856944,
+        'surface_km2' => 1211.59,
     ],
     [
         'id' => '554',
@@ -7202,6 +7755,7 @@ return [
         'code_commune' => 1705,
         'Lat' => 34.8056891,
         'Long' => 3.13333333,
+        'surface_km2' => 477.75,
     ],
     [
         'id' => '555',
@@ -7215,6 +7769,7 @@ return [
         'code_commune' => 1704,
         'Lat' => 35.0782285,
         'Long' => 3.0297,
+        'surface_km2' => 781.65,
     ],
     [
         'id' => '556',
@@ -7228,6 +7783,7 @@ return [
         'code_commune' => 1702,
         'Lat' => 34.5040006,
         'Long' => 3.470436,
+        'surface_km2' => 863.01,
     ],
     [
         'id' => '557',
@@ -7241,6 +7797,7 @@ return [
         'code_commune' => 1801,
         'Lat' => 36.82055,
         'Long' => 5.7667,
+        'surface_km2' => 58.76,
     ],
     [
         'id' => '558',
@@ -7254,6 +7811,7 @@ return [
         'code_commune' => 1803,
         'Lat' => 36.7727264,
         'Long' => 5.61,
+        'surface_km2' => 116.59,
     ],
     [
         'id' => '559',
@@ -7267,6 +7825,7 @@ return [
         'code_commune' => 1818,
         'Lat' => 36.627222,
         'Long' => 5.6483,
+        'surface_km2' => 121.07,
     ],
     [
         'id' => '560',
@@ -7280,6 +7839,7 @@ return [
         'code_commune' => 1802,
         'Lat' => 36.5861111,
         'Long' => 5.092008,
+        'surface_km2' => 139.37,
     ],
     [
         'id' => '561',
@@ -7293,6 +7853,7 @@ return [
         'code_commune' => 1819,
         'Lat' => 36.6383,
         'Long' => 6.019167,
+        'surface_km2' => 101.33,
     ],
     [
         'id' => '562',
@@ -7306,6 +7867,7 @@ return [
         'code_commune' => 1804,
         'Lat' => 36.6737,
         'Long' => 5.48119,
+        'surface_km2' => 109.52,
     ],
     [
         'id' => '563',
@@ -7319,6 +7881,7 @@ return [
         'code_commune' => 1808,
         'Lat' => 36.6793738,
         'Long' => 5.9572034,
+        'surface_km2' => 85.07,
     ],
     [
         'id' => '564',
@@ -7332,6 +7895,7 @@ return [
         'code_commune' => 1806,
         'Lat' => 36.751944,
         'Long' => 5.848611,
+        'surface_km2' => 47.07,
     ],
     [
         'id' => '565',
@@ -7345,6 +7909,7 @@ return [
         'code_commune' => 1828,
         'Lat' => 36.6067,
         'Long' => 5.8881542,
+        'surface_km2' => 61.04,
     ],
     [
         'id' => '566',
@@ -7358,6 +7923,7 @@ return [
         'code_commune' => 1805,
         'Lat' => 36.763,
         'Long' => 5.8979,
+        'surface_km2' => 57.29,
     ],
     [
         'id' => '567',
@@ -7371,6 +7937,7 @@ return [
         'code_commune' => 1807,
         'Lat' => 36.7714,
         'Long' => 5.9594,
+        'surface_km2' => 61.93,
     ],
     [
         'id' => '568',
@@ -7384,6 +7951,7 @@ return [
         'code_commune' => 1820,
         'Lat' => 36.8256803,
         'Long' => 5.9627714,
+        'surface_km2' => 31.94,
     ],
     [
         'id' => '569',
@@ -7397,6 +7965,7 @@ return [
         'code_commune' => 1813,
         'Lat' => 36.85,
         'Long' => 6.05,
+        'surface_km2' => 41.76,
     ],
     [
         'id' => '570',
@@ -7410,6 +7979,7 @@ return [
         'code_commune' => 1809,
         'Lat' => 36.7507275,
         'Long' => 6.2725,
+        'surface_km2' => 252.45,
     ],
     [
         'id' => '571',
@@ -7423,6 +7993,7 @@ return [
         'code_commune' => 1821,
         'Lat' => 36.717222,
         'Long' => 6.2008333,
+        'surface_km2' => 82.4,
     ],
     [
         'id' => '572',
@@ -7436,6 +8007,7 @@ return [
         'code_commune' => 1827,
         'Lat' => 36.568,
         'Long' => 6.1677,
+        'surface_km2' => 76.95,
     ],
     [
         'id' => '573',
@@ -7449,6 +8021,7 @@ return [
         'code_commune' => 1810,
         'Lat' => 36.6475,
         'Long' => 6.2725,
+        'surface_km2' => 66.73,
     ],
     [
         'id' => '574',
@@ -7462,6 +8035,7 @@ return [
         'code_commune' => 1815,
         'Lat' => 36.6284551,
         'Long' => 6.3283,
+        'surface_km2' => 125.07,
     ],
     [
         'id' => '575',
@@ -7475,6 +8049,7 @@ return [
         'code_commune' => 1811,
         'Lat' => 36.719444,
         'Long' => 6.335556,
+        'surface_km2' => 69.62,
     ],
     [
         'id' => '576',
@@ -7488,6 +8063,7 @@ return [
         'code_commune' => 1816,
         'Lat' => 36.6977238,
         'Long' => 6.1043336,
+        'surface_km2' => 60.26,
     ],
     [
         'id' => '577',
@@ -7501,6 +8077,7 @@ return [
         'code_commune' => 1812,
         'Lat' => 36.7989,
         'Long' => 6.15721,
+        'surface_km2' => 112.34,
     ],
     [
         'id' => '578',
@@ -7514,6 +8091,7 @@ return [
         'code_commune' => 1823,
         'Lat' => 36.81,
         'Long' => 6.14,
+        'surface_km2' => 48.12,
     ],
     [
         'id' => '579',
@@ -7527,6 +8105,7 @@ return [
         'code_commune' => 1817,
         'Lat' => 36.58,
         'Long' => 5.884167,
+        'surface_km2' => 64.62,
     ],
     [
         'id' => '580',
@@ -7540,6 +8119,7 @@ return [
         'code_commune' => 1814,
         'Lat' => 36.7718,
         'Long' => 5.8136168,
+        'surface_km2' => 55.32,
     ],
     [
         'id' => '581',
@@ -7553,6 +8133,7 @@ return [
         'code_commune' => 1824,
         'Lat' => 36.6605556,
         'Long' => 5.791,
+        'surface_km2' => 164.15,
     ],
     [
         'id' => '582',
@@ -7566,6 +8147,7 @@ return [
         'code_commune' => 1826,
         'Lat' => 36.7558,
         'Long' => 6.0295425,
+        'surface_km2' => 50.31,
     ],
     [
         'id' => '583',
@@ -7579,6 +8161,7 @@ return [
         'code_commune' => 1822,
         'Lat' => 36.599166,
         'Long' => 4.9739,
+        'surface_km2' => 78.22,
     ],
     [
         'id' => '584',
@@ -7592,6 +8175,7 @@ return [
         'code_commune' => 1825,
         'Lat' => 36.7091,
         'Long' => 6.1294,
+        'surface_km2' => 44.03,
     ],
     [
         'id' => '585',
@@ -7605,6 +8189,7 @@ return [
         'code_commune' => 1923,
         'Lat' => 35.810277,
         'Long' => 5.265277,
+        'surface_km2' => 189.3,
     ],
     [
         'id' => '586',
@@ -7618,6 +8203,7 @@ return [
         'code_commune' => 1957,
         'Lat' => 36.472317,
         'Long' => 5.4022,
+        'surface_km2' => 48.87,
     ],
     [
         'id' => '587',
@@ -7631,6 +8217,7 @@ return [
         'code_commune' => 1938,
         'Lat' => 36.529,
         'Long' => 5.36,
+        'surface_km2' => 71.13,
     ],
     [
         'id' => '588',
@@ -7644,6 +8231,7 @@ return [
         'code_commune' => 1933,
         'Lat' => 36.10778,
         'Long' => 5.4,
+        'surface_km2' => 135.95,
     ],
     [
         'id' => '589',
@@ -7657,6 +8245,7 @@ return [
         'code_commune' => 1948,
         'Lat' => 36.0353,
         'Long' => 5.328,
+        'surface_km2' => 126.71,
     ],
     [
         'id' => '590',
@@ -7670,6 +8259,7 @@ return [
         'code_commune' => 1952,
         'Lat' => 35.974167,
         'Long' => 5.2881,
+        'surface_km2' => 114.58,
     ],
     [
         'id' => '591',
@@ -7683,6 +8273,7 @@ return [
         'code_commune' => 1904,
         'Lat' => 35.901111,
         'Long' => 5.1640605,
+        'surface_km2' => 102.95,
     ],
     [
         'id' => '592',
@@ -7696,6 +8287,7 @@ return [
         'code_commune' => 1951,
         'Lat' => 36.54217,
         'Long' => 5.09004,
+        'surface_km2' => 26.02,
     ],
     [
         'id' => '593',
@@ -7709,6 +8301,7 @@ return [
         'code_commune' => 1954,
         'Lat' => 36.1247,
         'Long' => 5.2967,
+        'surface_km2' => 36.77,
     ],
     [
         'id' => '594',
@@ -7722,6 +8315,7 @@ return [
         'code_commune' => 1930,
         'Lat' => 36.494722,
         'Long' => 5.1019,
+        'surface_km2' => 38.22,
     ],
     [
         'id' => '595',
@@ -7735,6 +8329,7 @@ return [
         'code_commune' => 1919,
         'Lat' => 36.498889,
         'Long' => 5.0378,
+        'surface_km2' => 59.8,
     ],
     [
         'id' => '596',
@@ -7748,6 +8343,7 @@ return [
         'code_commune' => 1932,
         'Lat' => 35.976944,
         'Long' => 5.808889,
+        'surface_km2' => 184.28,
     ],
     [
         'id' => '597',
@@ -7761,6 +8357,7 @@ return [
         'code_commune' => 1958,
         'Lat' => 35.96,
         'Long' => 5.9675,
+        'surface_km2' => 145.01,
     ],
     [
         'id' => '598',
@@ -7774,6 +8371,7 @@ return [
         'code_commune' => 1960,
         'Lat' => 35.93794,
         'Long' => 5.7179,
+        'surface_km2' => 116.97,
     ],
     [
         'id' => '599',
@@ -7787,6 +8385,7 @@ return [
         'code_commune' => 1928,
         'Lat' => 35.91666667,
         'Long' => 5.29604,
+        'surface_km2' => 162.0,
     ],
     [
         'id' => '600',
@@ -7800,6 +8399,7 @@ return [
         'code_commune' => 1905,
         'Lat' => 35.66024,
         'Long' => 5.32103,
+        'surface_km2' => 142.93,
     ],
     [
         'id' => '601',
@@ -7813,6 +8413,7 @@ return [
         'code_commune' => 1911,
         'Lat' => 35.680556,
         'Long' => 5.37277,
+        'surface_km2' => 99.63,
     ],
     [
         'id' => '602',
@@ -7826,6 +8427,7 @@ return [
         'code_commune' => 1910,
         'Lat' => 35.7875,
         'Long' => 5.1223608,
+        'surface_km2' => 175.89,
     ],
     [
         'id' => '603',
@@ -7839,6 +8441,7 @@ return [
         'code_commune' => 1927,
         'Lat' => 36.38735,
         'Long' => 5.4137,
+        'surface_km2' => 87.78,
     ],
     [
         'id' => '604',
@@ -7852,6 +8455,7 @@ return [
         'code_commune' => 1939,
         'Lat' => 35.855,
         'Long' => 5.291,
+        'surface_km2' => 139.87,
     ],
     [
         'id' => '605',
@@ -7865,6 +8469,7 @@ return [
         'code_commune' => 1940,
         'Lat' => 35.8184752,
         'Long' => 5.5219,
+        'surface_km2' => 257.42,
     ],
     [
         'id' => '606',
@@ -7878,6 +8483,7 @@ return [
         'code_commune' => 1918,
         'Lat' => 35.938611,
         'Long' => 5.539167,
+        'surface_km2' => 227.75,
     ],
     [
         'id' => '607',
@@ -7891,6 +8497,7 @@ return [
         'code_commune' => 1929,
         'Lat' => 35.891667,
         'Long' => 5.66861,
+        'surface_km2' => 145.1,
     ],
     [
         'id' => '608',
@@ -7904,6 +8511,7 @@ return [
         'code_commune' => 1934,
         'Lat' => 35.962777,
         'Long' => 5.3802134,
+        'surface_km2' => 116.16,
     ],
     [
         'id' => '609',
@@ -7917,6 +8525,7 @@ return [
         'code_commune' => 1941,
         'Lat' => 36.31667,
         'Long' => 4.833333333,
+        'surface_km2' => 49.24,
     ],
     [
         'id' => '610',
@@ -7930,6 +8539,7 @@ return [
         'code_commune' => 1936,
         'Lat' => 36.32488,
         'Long' => 4.92641,
+        'surface_km2' => 85.92,
     ],
     [
         'id' => '611',
@@ -7943,6 +8553,7 @@ return [
         'code_commune' => 1906,
         'Lat' => 36.3129898,
         'Long' => 5.1953554,
+        'surface_km2' => 117.05,
     ],
     [
         'id' => '612',
@@ -7956,6 +8567,7 @@ return [
         'code_commune' => 1953,
         'Lat' => 36.27222,
         'Long' => 5.092008,
+        'surface_km2' => 55.05,
     ],
     [
         'id' => '613',
@@ -7969,6 +8581,7 @@ return [
         'code_commune' => 1937,
         'Lat' => 36.2924521,
         'Long' => 5.4,
+        'surface_km2' => 119.86,
     ],
     [
         'id' => '614',
@@ -7982,6 +8595,7 @@ return [
         'code_commune' => 1943,
         'Lat' => 36.33293,
         'Long' => 5.08843,
+        'surface_km2' => 61.4,
     ],
     [
         'id' => '615',
@@ -7995,6 +8609,7 @@ return [
         'code_commune' => 1907,
         'Lat' => 36.4629,
         'Long' => 4.99551,
+        'surface_km2' => 59.88,
     ],
     [
         'id' => '616',
@@ -8008,6 +8623,7 @@ return [
         'code_commune' => 1950,
         'Lat' => 36.32189,
         'Long' => 5.0535232,
+        'surface_km2' => 75.65,
     ],
     [
         'id' => '617',
@@ -8021,6 +8637,7 @@ return [
         'code_commune' => 1901,
         'Lat' => 36.19112,
         'Long' => 5.4150871,
+        'surface_km2' => 130.86,
     ],
     [
         'id' => '618',
@@ -8034,6 +8651,7 @@ return [
         'code_commune' => 1902,
         'Lat' => 36.3647,
         'Long' => 5.5019,
+        'surface_km2' => 65.85,
     ],
     [
         'id' => '619',
@@ -8047,6 +8665,7 @@ return [
         'code_commune' => 1915,
         'Lat' => 36.3821,
         'Long' => 5.5953,
+        'surface_km2' => 103.97,
     ],
     [
         'id' => '620',
@@ -8060,6 +8679,7 @@ return [
         'code_commune' => 1924,
         'Lat' => 36.3401,
         'Long' => 5.3360215,
+        'surface_km2' => 27.55,
     ],
     [
         'id' => '621',
@@ -8073,6 +8693,7 @@ return [
         'code_commune' => 1949,
         'Lat' => 36.4833899,
         'Long' => 5.711,
+        'surface_km2' => 74.4,
     ],
     [
         'id' => '622',
@@ -8086,6 +8707,7 @@ return [
         'code_commune' => 1903,
         'Lat' => 36.4648323,
         'Long' => 5.6563119,
+        'surface_km2' => 55.68,
     ],
     [
         'id' => '623',
@@ -8099,6 +8721,7 @@ return [
         'code_commune' => 1912,
         'Lat' => 36.38899,
         'Long' => 5.70995,
+        'surface_km2' => 84.81,
     ],
     [
         'id' => '624',
@@ -8112,6 +8735,7 @@ return [
         'code_commune' => 1925,
         'Lat' => 36.2025,
         'Long' => 5.8536111,
+        'surface_km2' => 142.62,
     ],
     [
         'id' => '625',
@@ -8125,6 +8749,7 @@ return [
         'code_commune' => 1908,
         'Lat' => 36.1016103,
         'Long' => 5.7932008,
+        'surface_km2' => 141.5,
     ],
     [
         'id' => '626',
@@ -8138,6 +8763,7 @@ return [
         'code_commune' => 1959,
         'Lat' => 36.06371,
         'Long' => 5.95369,
+        'surface_km2' => 152.22,
     ],
     [
         'id' => '627',
@@ -8151,6 +8777,7 @@ return [
         'code_commune' => 1945,
         'Lat' => 36.2664729,
         'Long' => 5.713055,
+        'surface_km2' => 80.2,
     ],
     [
         'id' => '628',
@@ -8164,6 +8791,7 @@ return [
         'code_commune' => 1942,
         'Lat' => 36.458333,
         'Long' => 5.088889,
+        'surface_km2' => 56.18,
     ],
     [
         'id' => '629',
@@ -8177,6 +8805,7 @@ return [
         'code_commune' => 1935,
         'Lat' => 36.478,
         'Long' => 5.58,
+        'surface_km2' => 97.12,
     ],
     [
         'id' => '630',
@@ -8190,6 +8819,7 @@ return [
         'code_commune' => 1917,
         'Lat' => 36.19119,
         'Long' => 5.52999,
+        'surface_km2' => 234.26,
     ],
     [
         'id' => '631',
@@ -8203,6 +8833,7 @@ return [
         'code_commune' => 1947,
         'Lat' => 36.16561,
         'Long' => 5.524,
+        'surface_km2' => 118.87,
     ],
     [
         'id' => '632',
@@ -8216,6 +8847,7 @@ return [
         'code_commune' => 1931,
         'Lat' => 36.11778,
         'Long' => 5.70972,
+        'surface_km2' => 160.08,
     ],
     [
         'id' => '633',
@@ -8229,6 +8861,7 @@ return [
         'code_commune' => 1920,
         'Lat' => 36.156449,
         'Long' => 5.69016,
+        'surface_km2' => 74.3,
     ],
     [
         'id' => '634',
@@ -8242,6 +8875,7 @@ return [
         'code_commune' => 1956,
         'Lat' => 36.2045916,
         'Long' => 5.6773512,
+        'surface_km2' => 132.04,
     ],
     [
         'id' => '635',
@@ -8255,6 +8889,7 @@ return [
         'code_commune' => 1944,
         'Lat' => 36.2861111,
         'Long' => 5.60722,
+        'surface_km2' => 162.16,
     ],
     [
         'id' => '636',
@@ -8268,6 +8903,7 @@ return [
         'code_commune' => 1921,
         'Lat' => 36.31351,
         'Long' => 5.73697,
+        'surface_km2' => 157.17,
     ],
     [
         'id' => '637',
@@ -8281,6 +8917,7 @@ return [
         'code_commune' => 1913,
         'Lat' => 36.4096669,
         'Long' => 4.891,
+        'surface_km2' => 73.77,
     ],
     [
         'id' => '638',
@@ -8294,6 +8931,7 @@ return [
         'code_commune' => 1909,
         'Lat' => 36.468333,
         'Long' => 4.8683,
+        'surface_km2' => 56.0,
     ],
     [
         'id' => '639',
@@ -8307,6 +8945,7 @@ return [
         'code_commune' => 1922,
         'Lat' => 36.442222,
         'Long' => 4.9,
+        'surface_km2' => 70.87,
     ],
     [
         'id' => '640',
@@ -8320,6 +8959,7 @@ return [
         'code_commune' => 1946,
         'Lat' => 36.50739,
         'Long' => 4.91503,
+        'surface_km2' => 26.93,
     ],
     [
         'id' => '641',
@@ -8333,6 +8973,7 @@ return [
         'code_commune' => 1914,
         'Lat' => 36.3,
         'Long' => 5.295,
+        'surface_km2' => 164.04,
     ],
     [
         'id' => '642',
@@ -8346,6 +8987,7 @@ return [
         'code_commune' => 1926,
         'Lat' => 36.1868,
         'Long' => 5.31347,
+        'surface_km2' => 206.11,
     ],
     [
         'id' => '643',
@@ -8359,6 +9001,7 @@ return [
         'code_commune' => 1916,
         'Lat' => 36.48994,
         'Long' => 5.5399,
+        'surface_km2' => 141.97,
     ],
     [
         'id' => '644',
@@ -8372,6 +9015,7 @@ return [
         'code_commune' => 1955,
         'Lat' => 36.3968,
         'Long' => 5.0752,
+        'surface_km2' => 87.39,
     ],
     [
         'id' => '645',
@@ -8385,6 +9029,7 @@ return [
         'code_commune' => 2001,
         'Lat' => 34.833333,
         'Long' => 0.15,
+        'surface_km2' => 75.76,
     ],
     [
         'id' => '646',
@@ -8398,6 +9043,7 @@ return [
         'code_commune' => 2015,
         'Lat' => 34.901388,
         'Long' => 0.5547,
+        'surface_km2' => 421.41,
     ],
     [
         'id' => '647',
@@ -8411,6 +9057,7 @@ return [
         'code_commune' => 2014,
         'Lat' => 34.99,
         'Long' => 0.4772,
+        'surface_km2' => 253.6,
     ],
     [
         'id' => '648',
@@ -8424,6 +9071,7 @@ return [
         'code_commune' => 2016,
         'Lat' => 34.96647,
         'Long' => 0.3075,
+        'surface_km2' => 259.07,
     ],
     [
         'id' => '649',
@@ -8437,6 +9085,7 @@ return [
         'code_commune' => 2011,
         'Lat' => 34.681667,
         'Long' => 0.15,
+        'surface_km2' => 1215.76,
     ],
     [
         'id' => '650',
@@ -8450,6 +9099,7 @@ return [
         'code_commune' => 2010,
         'Lat' => 34.824167,
         'Long' => 0.1,
+        'surface_km2' => 579.25,
     ],
     [
         'id' => '651',
@@ -8463,6 +9113,7 @@ return [
         'code_commune' => 2013,
         'Lat' => 34.50446,
         'Long' => 0.84412,
+        'surface_km2' => 404.79,
     ],
     [
         'id' => '652',
@@ -8476,6 +9127,7 @@ return [
         'code_commune' => 2009,
         'Lat' => 35.02888889,
         'Long' => 0.0536592,
+        'surface_km2' => 245.37,
     ],
     [
         'id' => '653',
@@ -8489,6 +9141,7 @@ return [
         'code_commune' => 2004,
         'Lat' => 34.87666667,
         'Long' => 0.152777778,
+        'surface_km2' => 207.25,
     ],
     [
         'id' => '654',
@@ -8502,6 +9155,7 @@ return [
         'code_commune' => 2007,
         'Lat' => 35.1108,
         'Long' => -0.15,
+        'surface_km2' => 175.94,
     ],
     [
         'id' => '655',
@@ -8515,6 +9169,7 @@ return [
         'code_commune' => 2006,
         'Lat' => 34.92186,
         'Long' => -0.208133,
+        'surface_km2' => 442.51,
     ],
     [
         'id' => '656',
@@ -8528,6 +9183,7 @@ return [
         'code_commune' => 2002,
         'Lat' => 34.89306,
         'Long' => -0.0842,
+        'surface_km2' => 216.81,
     ],
     [
         'id' => '657',
@@ -8541,6 +9197,7 @@ return [
         'code_commune' => 2012,
         'Lat' => 34.55,
         'Long' => 0.259722,
+        'surface_km2' => 1256.75,
     ],
     [
         'id' => '658',
@@ -8554,6 +9211,7 @@ return [
         'code_commune' => 2005,
         'Lat' => 34.648611,
         'Long' => 0.0167,
+        'surface_km2' => 423.16,
     ],
     [
         'id' => '659',
@@ -8567,6 +9225,7 @@ return [
         'code_commune' => 2003,
         'Lat' => 34.75846,
         'Long' => 0.1444,
+        'surface_km2' => 416.98,
     ],
     [
         'id' => '660',
@@ -8580,6 +9239,7 @@ return [
         'code_commune' => 2008,
         'Lat' => 35.025278,
         'Long' => 0.1015,
+        'surface_km2' => 167.71,
     ],
     [
         'id' => '661',
@@ -8593,6 +9253,7 @@ return [
         'code_commune' => 2122,
         'Lat' => 36.6024073,
         'Long' => 6.7513889,
+        'surface_km2' => 75.31,
     ],
     [
         'id' => '662',
@@ -8606,6 +9267,7 @@ return [
         'code_commune' => 2125,
         'Lat' => 36.740543,
         'Long' => 6.87296,
+        'surface_km2' => 94.34,
     ],
     [
         'id' => '663',
@@ -8619,6 +9281,7 @@ return [
         'code_commune' => 2103,
         'Lat' => 36.8259805,
         'Long' => 6.8873791,
+        'surface_km2' => 51.07,
     ],
     [
         'id' => '664',
@@ -8632,6 +9295,7 @@ return [
         'code_commune' => 2117,
         'Lat' => 36.597811,
         'Long' => 6.896718,
+        'surface_km2' => 99.82,
     ],
     [
         'id' => '665',
@@ -8645,6 +9309,7 @@ return [
         'code_commune' => 2118,
         'Lat' => 36.503333,
         'Long' => 6.9575,
+        'surface_km2' => 198.37,
     ],
     [
         'id' => '666',
@@ -8658,6 +9323,7 @@ return [
         'code_commune' => 2121,
         'Lat' => 36.6833333,
         'Long' => 6.6389,
+        'surface_km2' => 161.83,
     ],
     [
         'id' => '667',
@@ -8671,6 +9337,7 @@ return [
         'code_commune' => 2119,
         'Lat' => 36.68333333,
         'Long' => 6.7167,
+        'surface_km2' => 94.7,
     ],
     [
         'id' => '668',
@@ -8684,6 +9351,7 @@ return [
         'code_commune' => 2124,
         'Lat' => 36.783333,
         'Long' => 6.933333,
+        'surface_km2' => 44.27,
     ],
     [
         'id' => '669',
@@ -8697,6 +9365,7 @@ return [
         'code_commune' => 2123,
         'Lat' => 36.7552525,
         'Long' => 6.8927193,
+        'surface_km2' => 116.36,
     ],
     [
         'id' => '670',
@@ -8710,6 +9379,7 @@ return [
         'code_commune' => 2129,
         'Lat' => 36.8079,
         'Long' => 6.5656,
+        'surface_km2' => 106.09,
     ],
     [
         'id' => '671',
@@ -8723,6 +9393,7 @@ return [
         'code_commune' => 2120,
         'Lat' => 36.7033327,
         'Long' => 6.7458,
+        'surface_km2' => 77.65,
     ],
     [
         'id' => '672',
@@ -8736,6 +9407,7 @@ return [
         'code_commune' => 2126,
         'Lat' => 36.8357539,
         'Long' => 6.6417,
+        'surface_km2' => 176.06,
     ],
     [
         'id' => '673',
@@ -8749,6 +9421,7 @@ return [
         'code_commune' => 2127,
         'Lat' => 36.7483,
         'Long' => 6.4349765,
+        'surface_km2' => 144.21,
     ],
     [
         'id' => '674',
@@ -8762,6 +9435,7 @@ return [
         'code_commune' => 2135,
         'Lat' => 36.78611111,
         'Long' => 6.373055,
+        'surface_km2' => 70.09,
     ],
     [
         'id' => '675',
@@ -8775,6 +9449,7 @@ return [
         'code_commune' => 2128,
         'Lat' => 36.72611,
         'Long' => 6.58,
+        'surface_km2' => 181.31,
     ],
     [
         'id' => '676',
@@ -8788,6 +9463,7 @@ return [
         'code_commune' => 2133,
         'Lat' => 36.688333,
         'Long' => 6.97778,
+        'surface_km2' => 47.81,
     ],
     [
         'id' => '677',
@@ -8801,6 +9477,7 @@ return [
         'code_commune' => 2112,
         'Lat' => 36.929,
         'Long' => 6.586,
+        'surface_km2' => 82.5,
     ],
     [
         'id' => '678',
@@ -8814,6 +9491,7 @@ return [
         'code_commune' => 2116,
         'Lat' => 36.6531,
         'Long' => 6.64917,
+        'surface_km2' => 102.0,
     ],
     [
         'id' => '679',
@@ -8827,6 +9505,7 @@ return [
         'code_commune' => 2115,
         'Lat' => 36.9880728,
         'Long' => 6.46049,
+        'surface_km2' => 42.03,
     ],
     [
         'id' => '680',
@@ -8840,6 +9519,7 @@ return [
         'code_commune' => 2113,
         'Lat' => 36.994444,
         'Long' => 6.341389,
+        'surface_km2' => 106.29,
     ],
     [
         'id' => '681',
@@ -8853,6 +9533,7 @@ return [
         'code_commune' => 2114,
         'Lat' => 36.9221397,
         'Long' => 6.315556,
+        'surface_km2' => 88.01,
     ],
     [
         'id' => '682',
@@ -8866,6 +9547,7 @@ return [
         'code_commune' => 2110,
         'Lat' => 37.0072,
         'Long' => 6.5609,
+        'surface_km2' => 19.05,
     ],
     [
         'id' => '683',
@@ -8879,6 +9561,7 @@ return [
         'code_commune' => 2131,
         'Lat' => 37.00194,
         'Long' => 6.4972247,
+        'surface_km2' => 63.1,
     ],
     [
         'id' => '684',
@@ -8892,6 +9575,7 @@ return [
         'code_commune' => 2111,
         'Lat' => 36.8080556,
         'Long' => 6.5056,
+        'surface_km2' => 139.33,
     ],
     [
         'id' => '685',
@@ -8905,6 +9589,7 @@ return [
         'code_commune' => 2136,
         'Lat' => 36.7802778,
         'Long' => 6.1386,
+        'surface_km2' => 47.77,
     ],
     [
         'id' => '686',
@@ -8918,6 +9603,7 @@ return [
         'code_commune' => 2138,
         'Lat' => 37.03,
         'Long' => 7.2531,
+        'surface_km2' => 113.45,
     ],
     [
         'id' => '687',
@@ -8931,6 +9617,7 @@ return [
         'code_commune' => 2108,
         'Lat' => 36.46,
         'Long' => 7.057,
+        'surface_km2' => 240.27,
     ],
     [
         'id' => '688',
@@ -8944,6 +9631,7 @@ return [
         'code_commune' => 2107,
         'Lat' => 36.791944,
         'Long' => 7.30625,
+        'surface_km2' => 152.77,
     ],
     [
         'id' => '689',
@@ -8957,6 +9645,7 @@ return [
         'code_commune' => 2109,
         'Lat' => 36.802,
         'Long' => 7.0774269,
+        'surface_km2' => 243.96,
     ],
     [
         'id' => '690',
@@ -8970,6 +9659,7 @@ return [
         'code_commune' => 2106,
         'Lat' => 36.7336763,
         'Long' => 7.2234899,
+        'surface_km2' => 112.12,
     ],
     [
         'id' => '691',
@@ -8983,6 +9673,7 @@ return [
         'code_commune' => 2104,
         'Lat' => 36.73944,
         'Long' => 7.10528,
+        'surface_km2' => 172.57,
     ],
     [
         'id' => '692',
@@ -8996,6 +9687,7 @@ return [
         'code_commune' => 2134,
         'Lat' => 36.7938,
         'Long' => 6.79722,
+        'surface_km2' => 113.5,
     ],
     [
         'id' => '693',
@@ -9009,6 +9701,7 @@ return [
         'code_commune' => 2130,
         'Lat' => 36.8828035,
         'Long' => 7.0821162,
+        'surface_km2' => 65.53,
     ],
     [
         'id' => '694',
@@ -9022,6 +9715,7 @@ return [
         'code_commune' => 2137,
         'Lat' => 36.844,
         'Long' => 6.89262,
+        'surface_km2' => 36.64,
     ],
     [
         'id' => '695',
@@ -9035,6 +9729,7 @@ return [
         'code_commune' => 2101,
         'Lat' => 36.87617,
         'Long' => 6.9,
+        'surface_km2' => 52.22,
     ],
     [
         'id' => '696',
@@ -9048,6 +9743,7 @@ return [
         'code_commune' => 2102,
         'Lat' => 36.89027778,
         'Long' => 6.7856,
+        'surface_km2' => 107.4,
     ],
     [
         'id' => '697',
@@ -9061,6 +9757,7 @@ return [
         'code_commune' => 2105,
         'Lat' => 36.78,
         'Long' => 7.1709,
+        'surface_km2' => 213.1,
     ],
     [
         'id' => '698',
@@ -9074,6 +9771,7 @@ return [
         'code_commune' => 2132,
         'Lat' => 37.0375,
         'Long' => 6.405556,
+        'surface_km2' => 66.86,
     ],
     [
         'id' => '699',
@@ -9087,6 +9785,7 @@ return [
         'code_commune' => 2246,
         'Lat' => 34.94555556,
         'Long' => -0.7194,
+        'surface_km2' => 132.97,
     ],
     [
         'id' => '700',
@@ -9100,6 +9799,7 @@ return [
         'code_commune' => 2218,
         'Lat' => 34.8222,
         'Long' => -0.76041,
+        'surface_km2' => 237.43,
     ],
     [
         'id' => '701',
@@ -9113,6 +9813,7 @@ return [
         'code_commune' => 2219,
         'Lat' => 34.7,
         'Long' => -0.7667,
+        'surface_km2' => 78.87,
     ],
     [
         'id' => '702',
@@ -9126,6 +9827,7 @@ return [
         'code_commune' => 2224,
         'Lat' => 34.6897222,
         'Long' => -0.720555,
+        'surface_km2' => 93.56,
     ],
     [
         'id' => '703',
@@ -9139,6 +9841,7 @@ return [
         'code_commune' => 2217,
         'Lat' => 35.0197,
         'Long' => -0.52897,
+        'surface_km2' => 161.1,
     ],
     [
         'id' => '704',
@@ -9152,6 +9855,7 @@ return [
         'code_commune' => 2243,
         'Lat' => 34.996111,
         'Long' => -0.0933333,
+        'surface_km2' => 310.9,
     ],
     [
         'id' => '705',
@@ -9165,6 +9869,7 @@ return [
         'code_commune' => 2252,
         'Lat' => 35.071944,
         'Long' => -0.5456,
+        'surface_km2' => 77.37,
     ],
     [
         'id' => '706',
@@ -9178,6 +9883,7 @@ return [
         'code_commune' => 2231,
         'Lat' => 34.61972,
         'Long' => -0.33889,
+        'surface_km2' => 381.02,
     ],
     [
         'id' => '707',
@@ -9191,6 +9897,7 @@ return [
         'code_commune' => 2251,
         'Lat' => 34.9634,
         'Long' => -0.6145,
+        'surface_km2' => 91.68,
     ],
     [
         'id' => '708',
@@ -9204,6 +9911,7 @@ return [
         'code_commune' => 2240,
         'Lat' => 35.13583,
         'Long' => -0.786111,
+        'surface_km2' => 34.46,
     ],
     [
         'id' => '709',
@@ -9217,6 +9925,7 @@ return [
         'code_commune' => 2214,
         'Lat' => 35.1632838,
         'Long' => -0.6959152,
+        'surface_km2' => 90.55,
     ],
     [
         'id' => '710',
@@ -9230,6 +9939,7 @@ return [
         'code_commune' => 2227,
         'Lat' => 35.11349,
         'Long' => -0.71969,
+        'surface_km2' => 60.84,
     ],
     [
         'id' => '711',
@@ -9243,6 +9953,7 @@ return [
         'code_commune' => 2221,
         'Lat' => 35.206,
         'Long' => -0.73389,
+        'surface_km2' => 59.74,
     ],
     [
         'id' => '712',
@@ -9256,6 +9967,7 @@ return [
         'code_commune' => 2203,
         'Lat' => 35.26055556,
         'Long' => -0.5675,
+        'surface_km2' => 38.48,
     ],
     [
         'id' => '713',
@@ -9269,6 +9981,7 @@ return [
         'code_commune' => 2212,
         'Lat' => 35.135556,
         'Long' => -0.62278,
+        'surface_km2' => 94.03,
     ],
     [
         'id' => '714',
@@ -9282,6 +9995,7 @@ return [
         'code_commune' => 2207,
         'Lat' => 35.066111,
         'Long' => -0.723333,
+        'surface_km2' => 97.31,
     ],
     [
         'id' => '715',
@@ -9295,6 +10009,7 @@ return [
         'code_commune' => 2220,
         'Lat' => 34.9876,
         'Long' => -0.89,
+        'surface_km2' => 69.37,
     ],
     [
         'id' => '716',
@@ -9308,6 +10023,7 @@ return [
         'code_commune' => 2247,
         'Lat' => 34.95,
         'Long' => -0.8364,
+        'surface_km2' => 51.45,
     ],
     [
         'id' => '717',
@@ -9321,6 +10037,7 @@ return [
         'code_commune' => 2245,
         'Lat' => 34.95234,
         'Long' => -0.91609,
+        'surface_km2' => 87.82,
     ],
     [
         'id' => '718',
@@ -9334,6 +10051,7 @@ return [
         'code_commune' => 2209,
         'Lat' => 35.008889,
         'Long' => -0.8503,
+        'surface_km2' => 33.13,
     ],
     [
         'id' => '719',
@@ -9347,6 +10065,7 @@ return [
         'code_commune' => 2229,
         'Lat' => 35.23464,
         'Long' => -0.24435,
+        'surface_km2' => 125.19,
     ],
     [
         'id' => '720',
@@ -9360,6 +10079,7 @@ return [
         'code_commune' => 2226,
         'Lat' => 35.1165888,
         'Long' => 0.15,
+        'surface_km2' => 134.56,
     ],
     [
         'id' => '721',
@@ -9373,6 +10093,7 @@ return [
         'code_commune' => 2238,
         'Lat' => 35.34988,
         'Long' => -0.3247,
+        'surface_km2' => 101.42,
     ],
     [
         'id' => '722',
@@ -9386,6 +10107,7 @@ return [
         'code_commune' => 2230,
         'Lat' => 35.329444,
         'Long' => -0.26139,
+        'surface_km2' => 89.35,
     ],
     [
         'id' => '723',
@@ -9399,6 +10121,7 @@ return [
         'code_commune' => 2241,
         'Lat' => 35.1375,
         'Long' => -0.548889,
+        'surface_km2' => 127.17,
     ],
     [
         'id' => '724',
@@ -9412,6 +10135,7 @@ return [
         'code_commune' => 2235,
         'Lat' => 34.3411,
         'Long' => -0.54861,
+        'surface_km2' => 299.25,
     ],
     [
         'id' => '725',
@@ -9425,6 +10149,7 @@ return [
         'code_commune' => 2216,
         'Lat' => 35.440833,
         'Long' => -0.4314,
+        'surface_km2' => 44.03,
     ],
     [
         'id' => '726',
@@ -9438,6 +10163,7 @@ return [
         'code_commune' => 2228,
         'Lat' => 35.363949,
         'Long' => -0.51278,
+        'surface_km2' => 84.28,
     ],
     [
         'id' => '727',
@@ -9451,6 +10177,7 @@ return [
         'code_commune' => 2250,
         'Lat' => 34.427222,
         'Long' => -0.8097222,
+        'surface_km2' => 759.92,
     ],
     [
         'id' => '728',
@@ -9464,6 +10191,7 @@ return [
         'code_commune' => 2223,
         'Lat' => 34.4973612,
         'Long' => -0.8055976,
+        'surface_km2' => 146.71,
     ],
     [
         'id' => '729',
@@ -9477,6 +10205,7 @@ return [
         'code_commune' => 2237,
         'Lat' => 34.5866667,
         'Long' => -0.824167,
+        'surface_km2' => 315.14,
     ],
     [
         'id' => '730',
@@ -9490,6 +10219,7 @@ return [
         'code_commune' => 2210,
         'Lat' => 34.446751,
         'Long' => -0.195025,
+        'surface_km2' => 1256.65,
     ],
     [
         'id' => '731',
@@ -9503,6 +10233,7 @@ return [
         'code_commune' => 2201,
         'Lat' => 35.2022249,
         'Long' => -0.6298922,
+        'surface_km2' => 70.42,
     ],
     [
         'id' => '732',
@@ -9516,6 +10247,7 @@ return [
         'code_commune' => 2215,
         'Lat' => 35.284722,
         'Long' => -0.67583333,
+        'surface_km2' => 122.97,
     ],
     [
         'id' => '733',
@@ -9529,6 +10261,7 @@ return [
         'code_commune' => 2239,
         'Lat' => 35.222,
         'Long' => -0.8317,
+        'surface_km2' => 57.56,
     ],
     [
         'id' => '734',
@@ -9542,6 +10275,7 @@ return [
         'code_commune' => 2202,
         'Lat' => 35.24356,
         'Long' => -0.773163,
+        'surface_km2' => 118.76,
     ],
     [
         'id' => '735',
@@ -9555,6 +10289,7 @@ return [
         'code_commune' => 2242,
         'Lat' => 35.15,
         'Long' => 0.15,
+        'surface_km2' => 107.9,
     ],
     [
         'id' => '736',
@@ -9568,6 +10303,7 @@ return [
         'code_commune' => 2204,
         'Lat' => 35.1925,
         'Long' => -0.358,
+        'surface_km2' => 94.11,
     ],
     [
         'id' => '737',
@@ -9581,6 +10317,7 @@ return [
         'code_commune' => 2213,
         'Lat' => 35.083333,
         'Long' => -0.5905178,
+        'surface_km2' => 78.45,
     ],
     [
         'id' => '738',
@@ -9594,6 +10331,7 @@ return [
         'code_commune' => 2233,
         'Lat' => 35.242222,
         'Long' => -0.522,
+        'surface_km2' => 133.28,
     ],
     [
         'id' => '739',
@@ -9607,6 +10345,7 @@ return [
         'code_commune' => 2232,
         'Lat' => 34.67585,
         'Long' => -0.6208,
+        'surface_km2' => 147.57,
     ],
     [
         'id' => '740',
@@ -9620,6 +10359,7 @@ return [
         'code_commune' => 2206,
         'Lat' => 34.8173267,
         'Long' => -0.6233189,
+        'surface_km2' => 165.32,
     ],
     [
         'id' => '741',
@@ -9633,6 +10373,7 @@ return [
         'code_commune' => 2244,
         'Lat' => 34.882777,
         'Long' => -0.55,
+        'surface_km2' => 192.42,
     ],
     [
         'id' => '742',
@@ -9646,6 +10387,7 @@ return [
         'code_commune' => 2205,
         'Lat' => 34.7949589,
         'Long' => -0.5722,
+        'surface_km2' => 169.57,
     ],
     [
         'id' => '743',
@@ -9659,6 +10401,7 @@ return [
         'code_commune' => 2225,
         'Lat' => 35.1369491,
         'Long' => -0.8558715,
+        'surface_km2' => 27.05,
     ],
     [
         'id' => '744',
@@ -9672,6 +10415,7 @@ return [
         'code_commune' => 2234,
         'Lat' => 35.070555,
         'Long' => -0.798056,
+        'surface_km2' => 55.87,
     ],
     [
         'id' => '745',
@@ -9685,6 +10429,7 @@ return [
         'code_commune' => 2208,
         'Lat' => 35.1,
         'Long' => -0.833333333,
+        'surface_km2' => 50.66,
     ],
     [
         'id' => '746',
@@ -9698,6 +10443,7 @@ return [
         'code_commune' => 2236,
         'Lat' => 35.11714,
         'Long' => -0.91001,
+        'surface_km2' => 94.27,
     ],
     [
         'id' => '747',
@@ -9711,6 +10457,7 @@ return [
         'code_commune' => 2248,
         'Lat' => 34.418889,
         'Long' => -0.49923,
+        'surface_km2' => 1346.62,
     ],
     [
         'id' => '748',
@@ -9724,6 +10471,7 @@ return [
         'code_commune' => 2222,
         'Lat' => 34.7805884,
         'Long' => -0.451,
+        'surface_km2' => 192.3,
     ],
     [
         'id' => '749',
@@ -9737,6 +10485,7 @@ return [
         'code_commune' => 2211,
         'Lat' => 35.035,
         'Long' => -0.1,
+        'surface_km2' => 244.4,
     ],
     [
         'id' => '750',
@@ -9750,6 +10499,7 @@ return [
         'code_commune' => 2249,
         'Lat' => 34.58777778,
         'Long' => -0.1103,
+        'surface_km2' => 146.04,
     ],
     [
         'id' => '751',
@@ -9763,6 +10513,7 @@ return [
         'code_commune' => 2301,
         'Lat' => 36.9,
         'Long' => 7.7667,
+        'surface_km2' => 44.87,
     ],
     [
         'id' => '752',
@@ -9776,6 +10527,7 @@ return [
         'code_commune' => 2308,
         'Lat' => 36.91129,
         'Long' => 7.666667,
+        'surface_km2' => 131.55,
     ],
     [
         'id' => '753',
@@ -9789,6 +10541,7 @@ return [
         'code_commune' => 2302,
         'Lat' => 36.833333,
         'Long' => 7.45,
+        'surface_km2' => 180.32,
     ],
     [
         'id' => '754',
@@ -9802,6 +10555,7 @@ return [
         'code_commune' => 2306,
         'Lat' => 36.883333,
         'Long' => 7.5030669,
+        'surface_km2' => 188.19,
     ],
     [
         'id' => '755',
@@ -9815,6 +10569,7 @@ return [
         'code_commune' => 2303,
         'Lat' => 36.80377,
         'Long' => 7.737,
+        'surface_km2' => 62.93,
     ],
     [
         'id' => '756',
@@ -9828,6 +10583,7 @@ return [
         'code_commune' => 2311,
         'Lat' => 36.8175,
         'Long' => 7.71641,
+        'surface_km2' => 42.47,
     ],
     [
         'id' => '757',
@@ -9841,6 +10597,7 @@ return [
         'code_commune' => 2305,
         'Lat' => 36.8535764,
         'Long' => 7.663889,
+        'surface_km2' => 91.43,
     ],
     [
         'id' => '758',
@@ -9854,6 +10611,7 @@ return [
         'code_commune' => 2309,
         'Lat' => 36.65,
         'Long' => 7.58333,
+        'surface_km2' => 137.61,
     ],
     [
         'id' => '759',
@@ -9867,6 +10625,7 @@ return [
         'code_commune' => 2307,
         'Lat' => 36.7236097,
         'Long' => 7.5788975,
+        'surface_km2' => 97.97,
     ],
     [
         'id' => '760',
@@ -9880,6 +10639,7 @@ return [
         'code_commune' => 2304,
         'Lat' => 36.738889,
         'Long' => 7.6667,
+        'surface_km2' => 161.21,
     ],
     [
         'id' => '761',
@@ -9893,6 +10653,7 @@ return [
         'code_commune' => 2312,
         'Lat' => 36.89747,
         'Long' => 7.683333333,
+        'surface_km2' => 125.93,
     ],
     [
         'id' => '762',
@@ -9906,6 +10667,7 @@ return [
         'code_commune' => 2310,
         'Lat' => 36.805556,
         'Long' => 7.38028,
+        'surface_km2' => 127.4,
     ],
     [
         'id' => '763',
@@ -9919,6 +10681,7 @@ return [
         'code_commune' => 2402,
         'Lat' => 36.611389,
         'Long' => 7.513333,
+        'surface_km2' => 120.94,
     ],
     [
         'id' => '764',
@@ -9932,6 +10695,7 @@ return [
         'code_commune' => 2412,
         'Lat' => 36.46277,
         'Long' => 7.116667,
+        'surface_km2' => 160.21,
     ],
     [
         'id' => '765',
@@ -9945,6 +10709,7 @@ return [
         'code_commune' => 2419,
         'Lat' => 36.461111,
         'Long' => 7.266667,
+        'surface_km2' => 55.75,
     ],
     [
         'id' => '766',
@@ -9958,6 +10723,7 @@ return [
         'code_commune' => 2428,
         'Lat' => 36.5481,
         'Long' => 7.22861,
+        'surface_km2' => 200.27,
     ],
     [
         'id' => '767',
@@ -9971,6 +10737,7 @@ return [
         'code_commune' => 2409,
         'Lat' => 36.351667,
         'Long' => 7.732778,
+        'surface_km2' => 69.05,
     ],
     [
         'id' => '768',
@@ -9984,6 +10751,7 @@ return [
         'code_commune' => 2422,
         'Lat' => 36.4648323,
         'Long' => 7.6436,
+        'surface_km2' => 165.05,
     ],
     [
         'id' => '769',
@@ -9997,6 +10765,7 @@ return [
         'code_commune' => 2401,
         'Lat' => 36.466,
         'Long' => 7.4206,
+        'surface_km2' => 44.71,
     ],
     [
         'id' => '770',
@@ -10010,6 +10779,7 @@ return [
         'code_commune' => 2431,
         'Lat' => 36.458007,
         'Long' => 7.51389,
+        'surface_km2' => 72.14,
     ],
     [
         'id' => '771',
@@ -10023,6 +10793,7 @@ return [
         'code_commune' => 2414,
         'Lat' => 36.61667,
         'Long' => 7.7,
+        'surface_km2' => 131.1,
     ],
     [
         'id' => '772',
@@ -10036,6 +10807,7 @@ return [
         'code_commune' => 2425,
         'Lat' => 36.4719271,
         'Long' => 7.72972,
+        'surface_km2' => 194.46,
     ],
     [
         'id' => '773',
@@ -10049,6 +10821,7 @@ return [
         'code_commune' => 2430,
         'Lat' => 36.43337,
         'Long' => 7.7824225,
+        'surface_km2' => 141.82,
     ],
     [
         'id' => '774',
@@ -10062,6 +10835,7 @@ return [
         'code_commune' => 2406,
         'Lat' => 36.555833,
         'Long' => 7.713055,
+        'surface_km2' => 79.77,
     ],
     [
         'id' => '775',
@@ -10075,6 +10849,7 @@ return [
         'code_commune' => 2403,
         'Lat' => 36.583333,
         'Long' => 7.333333,
+        'surface_km2' => 88.72,
     ],
     [
         'id' => '776',
@@ -10088,6 +10863,7 @@ return [
         'code_commune' => 2420,
         'Lat' => 36.5048237,
         'Long' => 7.399722,
+        'surface_km2' => 66.13,
     ],
     [
         'id' => '777',
@@ -10101,6 +10877,7 @@ return [
         'code_commune' => 2426,
         'Lat' => 36.50361,
         'Long' => 7.4447,
+        'surface_km2' => 77.03,
     ],
     [
         'id' => '778',
@@ -10114,6 +10891,7 @@ return [
         'code_commune' => 2424,
         'Lat' => 36.4454,
         'Long' => 7.310556,
+        'surface_km2' => 38.7,
     ],
     [
         'id' => '779',
@@ -10127,6 +10905,7 @@ return [
         'code_commune' => 2427,
         'Lat' => 36.4154,
         'Long' => 7.28611,
+        'surface_km2' => 50.07,
     ],
     [
         'id' => '780',
@@ -10140,6 +10919,7 @@ return [
         'code_commune' => 2408,
         'Lat' => 36.372949,
         'Long' => 7.222816,
+        'surface_km2' => 37.74,
     ],
     [
         'id' => '781',
@@ -10153,6 +10933,7 @@ return [
         'code_commune' => 2429,
         'Lat' => 36.386944,
         'Long' => 7.250556,
+        'surface_km2' => 96.07,
     ],
     [
         'id' => '782',
@@ -10166,6 +10947,7 @@ return [
         'code_commune' => 2434,
         'Lat' => 36.5667,
         'Long' => 7.633333,
+        'surface_km2' => 65.81,
     ],
     [
         'id' => '783',
@@ -10179,6 +10961,7 @@ return [
         'code_commune' => 2421,
         'Lat' => 36.402899,
         'Long' => 7.0484999,
+        'surface_km2' => 199.26,
     ],
     [
         'id' => '784',
@@ -10192,6 +10975,7 @@ return [
         'code_commune' => 2404,
         'Lat' => 36.3153,
         'Long' => 7.163889,
+        'surface_km2' => 138.11,
     ],
     [
         'id' => '785',
@@ -10205,6 +10989,7 @@ return [
         'code_commune' => 2432,
         'Lat' => 36.259444,
         'Long' => 7.0739,
+        'surface_km2' => 118.36,
     ],
     [
         'id' => '786',
@@ -10218,6 +11003,7 @@ return [
         'code_commune' => 2423,
         'Lat' => 36.265833,
         'Long' => 7.3962,
+        'surface_km2' => 167.09,
     ],
     [
         'id' => '787',
@@ -10231,6 +11017,7 @@ return [
         'code_commune' => 2413,
         'Lat' => 36.243333,
         'Long' => 7.250833,
+        'surface_km2' => 191.82,
     ],
     [
         'id' => '788',
@@ -10244,6 +11031,7 @@ return [
         'code_commune' => 2405,
         'Lat' => 36.15,
         'Long' => 7.14154,
+        'surface_km2' => 317.0,
     ],
     [
         'id' => '789',
@@ -10257,6 +11045,7 @@ return [
         'code_commune' => 2407,
         'Lat' => 36.24472222,
         'Long' => 7.5125,
+        'surface_km2' => 91.77,
     ],
     [
         'id' => '790',
@@ -10270,6 +11059,7 @@ return [
         'code_commune' => 2417,
         'Lat' => 36.306868,
         'Long' => 7.5078039,
+        'surface_km2' => 66.42,
     ],
     [
         'id' => '791',
@@ -10283,6 +11073,7 @@ return [
         'code_commune' => 2415,
         'Lat' => 36.369444,
         'Long' => 7.529167,
+        'surface_km2' => 73.26,
     ],
     [
         'id' => '792',
@@ -10296,6 +11087,7 @@ return [
         'code_commune' => 2410,
         'Lat' => 36.4587897,
         'Long' => 7.479,
+        'surface_km2' => 92.37,
     ],
     [
         'id' => '793',
@@ -10309,6 +11101,7 @@ return [
         'code_commune' => 2416,
         'Lat' => 36.480833,
         'Long' => 7.6031,
+        'surface_km2' => 63.49,
     ],
     [
         'id' => '794',
@@ -10322,6 +11115,7 @@ return [
         'code_commune' => 2418,
         'Lat' => 36.54565,
         'Long' => 7.47333,
+        'surface_km2' => 36.23,
     ],
     [
         'id' => '795',
@@ -10335,6 +11129,7 @@ return [
         'code_commune' => 2433,
         'Lat' => 36.38333,
         'Long' => 7.76278,
+        'surface_km2' => 97.46,
     ],
     [
         'id' => '796',
@@ -10348,6 +11143,7 @@ return [
         'code_commune' => 2411,
         'Lat' => 36.43222222,
         'Long' => 7.420833,
+        'surface_km2' => 77.58,
     ],
     [
         'id' => '797',
@@ -10361,6 +11157,7 @@ return [
         'code_commune' => 2505,
         'Lat' => 36.4525,
         'Long' => 6.63639,
+        'surface_km2' => 114.53,
     ],
     [
         'id' => '798',
@@ -10374,6 +11171,7 @@ return [
         'code_commune' => 2502,
         'Lat' => 36.41205,
         'Long' => 6.59603,
+        'surface_km2' => 72.75,
     ],
     [
         'id' => '799',
@@ -10387,6 +11185,7 @@ return [
         'code_commune' => 2508,
         'Lat' => 36.505561,
         'Long' => 6.54972221,
+        'surface_km2' => 135.82,
     ],
     [
         'id' => '800',
@@ -10400,6 +11199,7 @@ return [
         'code_commune' => 2504,
         'Lat' => 36.53307,
         'Long' => 6.71238,
+        'surface_km2' => 230.2,
     ],
     [
         'id' => '801',
@@ -10413,6 +11213,7 @@ return [
         'code_commune' => 2510,
         'Lat' => 36.2675,
         'Long' => 6.50147,
+        'surface_km2' => 149.25,
     ],
     [
         'id' => '802',
@@ -10426,6 +11227,7 @@ return [
         'code_commune' => 2506,
         'Lat' => 36.26333,
         'Long' => 6.69361,
+        'surface_km2' => 261.13,
     ],
     [
         'id' => '803',
@@ -10439,6 +11241,7 @@ return [
         'code_commune' => 2509,
         'Lat' => 36.17148,
         'Long' => 6.6933,
+        'surface_km2' => 217.81,
     ],
     [
         'id' => '804',
@@ -10452,6 +11255,7 @@ return [
         'code_commune' => 2507,
         'Lat' => 36.2325,
         'Long' => 6.944046,
+        'surface_km2' => 300.5,
     ],
     [
         'id' => '805',
@@ -10465,6 +11269,7 @@ return [
         'code_commune' => 2503,
         'Lat' => 36.806388,
         'Long' => 6.8319511,
+        'surface_km2' => 315.89,
     ],
     [
         'id' => '806',
@@ -10478,6 +11283,7 @@ return [
         'code_commune' => 2512,
         'Lat' => 36.379167,
         'Long' => 6.4667,
+        'surface_km2' => 154.07,
     ],
     [
         'id' => '807',
@@ -10491,6 +11297,7 @@ return [
         'code_commune' => 2511,
         'Lat' => 36.424444,
         'Long' => 6.4725,
+        'surface_km2' => 109.54,
     ],
     [
         'id' => '808',
@@ -10504,6 +11311,7 @@ return [
         'code_commune' => 2501,
         'Lat' => 36.365,
         'Long' => 6.642433,
+        'surface_km2' => 183.13,
     ],
     [
         'id' => '809',
@@ -10517,6 +11325,7 @@ return [
         'code_commune' => 2622,
         'Lat' => 35.9370104,
         'Long' => 2.4980197,
+        'surface_km2' => 210.32,
     ],
     [
         'id' => '810',
@@ -10530,6 +11339,7 @@ return [
         'code_commune' => 2636,
         'Lat' => 36.28656,
         'Long' => 3.49412,
+        'surface_km2' => 48.25,
     ],
     [
         'id' => '811',
@@ -10543,6 +11353,7 @@ return [
         'code_commune' => 2639,
         'Lat' => 36.3512874,
         'Long' => 3.535277,
+        'surface_km2' => 68.03,
     ],
     [
         'id' => '812',
@@ -10556,6 +11367,7 @@ return [
         'code_commune' => 2650,
         'Lat' => 36.3527,
         'Long' => 3.475833,
+        'surface_km2' => 103.86,
     ],
     [
         'id' => '813',
@@ -10569,6 +11381,7 @@ return [
         'code_commune' => 2660,
         'Lat' => 36.19112,
         'Long' => 3.52556,
+        'surface_km2' => 56.87,
     ],
     [
         'id' => '814',
@@ -10582,6 +11395,7 @@ return [
         'code_commune' => 2643,
         'Lat' => 36.2333,
         'Long' => 2.566667,
+        'surface_km2' => 94.36,
     ],
     [
         'id' => '815',
@@ -10595,6 +11409,7 @@ return [
         'code_commune' => 2629,
         'Lat' => 36.233333,
         'Long' => 2.6333,
+        'surface_km2' => 64.58,
     ],
     [
         'id' => '816',
@@ -10608,6 +11423,7 @@ return [
         'code_commune' => 2646,
         'Lat' => 36.22703,
         'Long' => 3.30596,
+        'surface_km2' => 92.97,
     ],
     [
         'id' => '817',
@@ -10621,6 +11437,7 @@ return [
         'code_commune' => 2659,
         'Lat' => 36.1625,
         'Long' => 2.6487087,
+        'surface_km2' => 80.56,
     ],
     [
         'id' => '818',
@@ -10634,6 +11451,7 @@ return [
         'code_commune' => 2627,
         'Lat' => 36.160382,
         'Long' => 2.722206,
+        'surface_km2' => 106.82,
     ],
     [
         'id' => '819',
@@ -10647,6 +11465,7 @@ return [
         'code_commune' => 2644,
         'Lat' => 36.160382,
         'Long' => 2.722206,
+        'surface_km2' => 51.69,
     ],
     [
         'id' => '820',
@@ -10660,6 +11479,7 @@ return [
         'code_commune' => 2619,
         'Lat' => 36.191111,
         'Long' => 3.2361,
+        'surface_km2' => 99.42,
     ],
     [
         'id' => '821',
@@ -10673,6 +11493,7 @@ return [
         'code_commune' => 2655,
         'Lat' => 36.14766,
         'Long' => 3.75,
+        'surface_km2' => 51.58,
     ],
     [
         'id' => '822',
@@ -10686,6 +11507,7 @@ return [
         'code_commune' => 2647,
         'Lat' => 36.13516,
         'Long' => 2.911,
+        'surface_km2' => 136.54,
     ],
     [
         'id' => '823',
@@ -10699,6 +11521,7 @@ return [
         'code_commune' => 2606,
         'Lat' => 36.112778,
         'Long' => 3.5167,
+        'surface_km2' => 148.88,
     ],
     [
         'id' => '824',
@@ -10712,6 +11535,7 @@ return [
         'code_commune' => 2620,
         'Lat' => 36.02783,
         'Long' => 3.138055,
+        'surface_km2' => 156.09,
     ],
     [
         'id' => '825',
@@ -10725,6 +11549,7 @@ return [
         'code_commune' => 2662,
         'Lat' => 35.950556,
         'Long' => 3.46166,
+        'surface_km2' => 84.6,
     ],
     [
         'id' => '826',
@@ -10738,6 +11563,7 @@ return [
         'code_commune' => 2645,
         'Lat' => 35.9154,
         'Long' => 2.963,
+        'surface_km2' => 139.16,
     ],
     [
         'id' => '827',
@@ -10751,6 +11577,7 @@ return [
         'code_commune' => 2634,
         'Lat' => 36.066667,
         'Long' => 2.9,
+        'surface_km2' => 211.58,
     ],
     [
         'id' => '828',
@@ -10764,6 +11591,7 @@ return [
         'code_commune' => 2605,
         'Lat' => 36.419167,
         'Long' => 3.216111,
+        'surface_km2' => 124.4,
     ],
     [
         'id' => '829',
@@ -10777,6 +11605,7 @@ return [
         'code_commune' => 2653,
         'Lat' => 36.273611,
         'Long' => 3.49056,
+        'surface_km2' => 40.9,
     ],
     [
         'id' => '830',
@@ -10790,6 +11619,7 @@ return [
         'code_commune' => 2611,
         'Lat' => 36.3609993,
         'Long' => 3.3580828,
+        'surface_km2' => 70.02,
     ],
     [
         'id' => '831',
@@ -10803,6 +11633,7 @@ return [
         'code_commune' => 2652,
         'Lat' => 36.41211257,
         'Long' => 3.3101,
+        'surface_km2' => 80.14,
     ],
     [
         'id' => '832',
@@ -10816,6 +11647,7 @@ return [
         'code_commune' => 2625,
         'Lat' => 35.911389,
         'Long' => 2.71667,
+        'surface_km2' => 127.65,
     ],
     [
         'id' => '833',
@@ -10829,6 +11661,7 @@ return [
         'code_commune' => 2648,
         'Lat' => 36.19112,
         'Long' => 2.9,
+        'surface_km2' => 75.91,
     ],
     [
         'id' => '834',
@@ -10842,6 +11675,7 @@ return [
         'code_commune' => 2654,
         'Lat' => 36.27354,
         'Long' => 2.71695,
+        'surface_km2' => 40.2,
     ],
     [
         'id' => '835',
@@ -10855,6 +11689,7 @@ return [
         'code_commune' => 2601,
         'Lat' => 36.2675,
         'Long' => 2.75,
+        'surface_km2' => 66.71,
     ],
     [
         'id' => '836',
@@ -10868,6 +11703,7 @@ return [
         'code_commune' => 2615,
         'Lat' => 36.323889,
         'Long' => 2.6894,
+        'surface_km2' => 98.27,
     ],
     [
         'id' => '837',
@@ -10881,6 +11717,7 @@ return [
         'code_commune' => 2630,
         'Lat' => 36.1967899,
         'Long' => 2.8499,
+        'surface_km2' => 61.12,
     ],
     [
         'id' => '838',
@@ -10894,6 +11731,7 @@ return [
         'code_commune' => 2616,
         'Lat' => 36.3369617,
         'Long' => 2.8776638,
+        'surface_km2' => 143.01,
     ],
     [
         'id' => '839',
@@ -10907,6 +11745,7 @@ return [
         'code_commune' => 2602,
         'Lat' => 36.25,
         'Long' => 3.0551,
+        'surface_km2' => 101.94,
     ],
     [
         'id' => '840',
@@ -10920,6 +11759,7 @@ return [
         'code_commune' => 2613,
         'Lat' => 36.20283,
         'Long' => 2.77583,
+        'surface_km2' => 39.55,
     ],
     [
         'id' => '841',
@@ -10933,6 +11773,7 @@ return [
         'code_commune' => 2604,
         'Lat' => 35.89123,
         'Long' => 3.1585,
+        'surface_km2' => 311.1,
     ],
     [
         'id' => '842',
@@ -10946,6 +11787,7 @@ return [
         'code_commune' => 2657,
         'Lat' => 35.3344,
         'Long' => 3.035556,
+        'surface_km2' => 63.31,
     ],
     [
         'id' => '843',
@@ -10959,6 +11801,7 @@ return [
         'code_commune' => 2617,
         'Lat' => 35.923333,
         'Long' => 3.2875,
+        'surface_km2' => 97.66,
     ],
     [
         'id' => '844',
@@ -10972,6 +11815,7 @@ return [
         'code_commune' => 2603,
         'Lat' => 35.872222,
         'Long' => 3.1585,
+        'surface_km2' => 202.4,
     ],
     [
         'id' => '845',
@@ -10985,6 +11829,7 @@ return [
         'code_commune' => 2631,
         'Lat' => 35.869443,
         'Long' => 3.254444,
+        'surface_km2' => 164.07,
     ],
     [
         'id' => '846',
@@ -10998,6 +11843,7 @@ return [
         'code_commune' => 2624,
         'Lat' => 36.346389,
         'Long' => 3.110277,
+        'surface_km2' => 123.01,
     ],
     [
         'id' => '847',
@@ -11011,6 +11857,7 @@ return [
         'code_commune' => 2607,
         'Lat' => 36.266667,
         'Long' => 3.03333,
+        'surface_km2' => 115.89,
     ],
     [
         'id' => '848',
@@ -11024,6 +11871,7 @@ return [
         'code_commune' => 2612,
         'Lat' => 36.244444,
         'Long' => 2.933611,
+        'surface_km2' => 62.41,
     ],
     [
         'id' => '849',
@@ -11037,6 +11885,7 @@ return [
         'code_commune' => 2656,
         'Lat' => 36.0003,
         'Long' => 3.394722,
+        'surface_km2' => 66.51,
     ],
     [
         'id' => '850',
@@ -11050,6 +11899,7 @@ return [
         'code_commune' => 2609,
         'Lat' => 36.25499914,
         'Long' => 3.416579076,
+        'surface_km2' => 99.25,
     ],
     [
         'id' => '851',
@@ -11063,6 +11913,7 @@ return [
         'code_commune' => 2661,
         'Lat' => 36.24294024,
         'Long' => 3.529038536,
+        'surface_km2' => 69.48,
     ],
     [
         'id' => '852',
@@ -11076,6 +11927,7 @@ return [
         'code_commune' => 2641,
         'Lat' => 35.818653,
         'Long' => 3.470555,
+        'surface_km2' => 243.33,
     ],
     [
         'id' => '853',
@@ -11089,6 +11941,7 @@ return [
         'code_commune' => 2618,
         'Lat' => 35.94,
         'Long' => 3.4139,
+        'surface_km2' => 147.29,
     ],
     [
         'id' => '854',
@@ -11102,6 +11955,7 @@ return [
         'code_commune' => 2640,
         'Lat' => 35.922222,
         'Long' => 3.5667,
+        'surface_km2' => 162.35,
     ],
     [
         'id' => '855',
@@ -11115,6 +11969,7 @@ return [
         'code_commune' => 2623,
         'Lat' => 36.0877,
         'Long' => 3.4308,
+        'surface_km2' => 105.95,
     ],
     [
         'id' => '856',
@@ -11128,6 +11983,7 @@ return [
         'code_commune' => 2621,
         'Lat' => 36.252778,
         'Long' => 3.15861,
+        'surface_km2' => 148.12,
     ],
     [
         'id' => '857',
@@ -11141,6 +11997,7 @@ return [
         'code_commune' => 2663,
         'Lat' => 36.1914,
         'Long' => 3.2367,
+        'surface_km2' => 64.82,
     ],
     [
         'id' => '858',
@@ -11154,6 +12011,7 @@ return [
         'code_commune' => 2626,
         'Lat' => 36.215056,
         'Long' => 3.123937,
+        'surface_km2' => 111.3,
     ],
     [
         'id' => '859',
@@ -11167,6 +12025,7 @@ return [
         'code_commune' => 2658,
         'Lat' => 35.9951773,
         'Long' => 2.60231,
+        'surface_km2' => 203.97,
     ],
     [
         'id' => '860',
@@ -11180,6 +12039,7 @@ return [
         'code_commune' => 2703,
         'Lat' => 35.75243,
         'Long' => -0.0169,
+        'surface_km2' => 65.28,
     ],
     [
         'id' => '861',
@@ -11193,6 +12053,7 @@ return [
         'code_commune' => 2709,
         'Lat' => 35.950278,
         'Long' => 0.3808333,
+        'surface_km2' => 82.13,
     ],
     [
         'id' => '862',
@@ -11206,6 +12067,7 @@ return [
         'code_commune' => 2732,
         'Lat' => 35.7513939,
         'Long' => 0.076042105,
+        'surface_km2' => 76.69,
     ],
     [
         'id' => '863',
@@ -11219,6 +12081,7 @@ return [
         'code_commune' => 2706,
         'Lat' => 35.8611,
         'Long' => 0.102718,
+        'surface_km2' => 59.0,
     ],
     [
         'id' => '864',
@@ -11232,6 +12095,7 @@ return [
         'code_commune' => 2727,
         'Lat' => 35.901944,
         'Long' => 0.726944,
+        'surface_km2' => 18.08,
     ],
     [
         'id' => '865',
@@ -11245,6 +12109,7 @@ return [
         'code_commune' => 2704,
         'Lat' => 35.8307225,
         'Long' => 0.0,
+        'surface_km2' => 48.25,
     ],
     [
         'id' => '866',
@@ -11258,6 +12123,7 @@ return [
         'code_commune' => 2707,
         'Lat' => 35.9947,
         'Long' => 0.2949,
+        'surface_km2' => 86.27,
     ],
     [
         'id' => '867',
@@ -11271,6 +12137,7 @@ return [
         'code_commune' => 2710,
         'Lat' => 36.026698,
         'Long' => 0.26931,
+        'surface_km2' => 84.09,
     ],
     [
         'id' => '868',
@@ -11284,6 +12151,7 @@ return [
         'code_commune' => 2708,
         'Lat' => 35.85,
         'Long' => 0.34138888,
+        'surface_km2' => 97.96,
     ],
     [
         'id' => '869',
@@ -11297,6 +12165,7 @@ return [
         'code_commune' => 2728,
         'Lat' => 36.0089774,
         'Long' => 0.1881358,
+        'surface_km2' => 36.74,
     ],
     [
         'id' => '870',
@@ -11310,6 +12179,7 @@ return [
         'code_commune' => 2711,
         'Lat' => 35.9477561,
         'Long' => 0.17315,
+        'surface_km2' => 48.9,
     ],
     [
         'id' => '871',
@@ -11323,6 +12193,7 @@ return [
         'code_commune' => 2702,
         'Lat' => 35.9477561,
         'Long' => 0.12916667,
+        'surface_km2' => 45.66,
     ],
     [
         'id' => '872',
@@ -11336,6 +12207,7 @@ return [
         'code_commune' => 2712,
         'Lat' => 36.0967786,
         'Long' => 0.4148744,
+        'surface_km2' => 205.64,
     ],
     [
         'id' => '873',
@@ -11349,6 +12221,7 @@ return [
         'code_commune' => 2729,
         'Lat' => 36.083333,
         'Long' => 0.4675,
+        'surface_km2' => 100.63,
     ],
     [
         'id' => '874',
@@ -11362,6 +12235,7 @@ return [
         'code_commune' => 2713,
         'Lat' => 36.1026171,
         'Long' => 0.2742,
+        'surface_km2' => 74.75,
     ],
     [
         'id' => '875',
@@ -11375,6 +12249,7 @@ return [
         'code_commune' => 2701,
         'Lat' => 35.9246589,
         'Long' => 0.09,
+        'surface_km2' => 39.45,
     ],
     [
         'id' => '876',
@@ -11388,6 +12263,7 @@ return [
         'code_commune' => 2714,
         'Lat' => 36.0970536,
         'Long' => 0.333333,
+        'surface_km2' => 73.1,
     ],
     [
         'id' => '877',
@@ -11401,6 +12277,7 @@ return [
         'code_commune' => 2716,
         'Lat' => 36.1428,
         'Long' => 0.460556,
+        'surface_km2' => 136.64,
     ],
     [
         'id' => '878',
@@ -11414,6 +12291,7 @@ return [
         'code_commune' => 2717,
         'Lat' => 36.2463,
         'Long' => 0.6355803,
+        'surface_km2' => 63.92,
     ],
     [
         'id' => '879',
@@ -11427,6 +12305,7 @@ return [
         'code_commune' => 2718,
         'Lat' => 36.2535711,
         'Long' => 0.5833,
+        'surface_km2' => 75.92,
     ],
     [
         'id' => '880',
@@ -11440,6 +12319,7 @@ return [
         'code_commune' => 2715,
         'Lat' => 36.166667,
         'Long' => 0.616667,
+        'surface_km2' => 52.58,
     ],
     [
         'id' => '881',
@@ -11453,6 +12333,7 @@ return [
         'code_commune' => 2725,
         'Lat' => 36.32027778,
         'Long' => 0.672778,
+        'surface_km2' => 40.64,
     ],
     [
         'id' => '882',
@@ -11466,6 +12347,7 @@ return [
         'code_commune' => 2719,
         'Lat' => 35.7502319,
         'Long' => 0.2566146,
+        'surface_km2' => 85.35,
     ],
     [
         'id' => '883',
@@ -11479,6 +12361,7 @@ return [
         'code_commune' => 2730,
         'Lat' => 36.075278,
         'Long' => 0.4283333,
+        'surface_km2' => 91.68,
     ],
     [
         'id' => '884',
@@ -11492,6 +12375,7 @@ return [
         'code_commune' => 2720,
         'Lat' => 35.7804,
         'Long' => 0.191667,
+        'surface_km2' => 60.5,
     ],
     [
         'id' => '885',
@@ -11505,6 +12389,7 @@ return [
         'code_commune' => 2724,
         'Lat' => 35.85,
         'Long' => 0.333333,
+        'surface_km2' => 54.41,
     ],
     [
         'id' => '886',
@@ -11518,6 +12403,7 @@ return [
         'code_commune' => 2721,
         'Lat' => 35.833056,
         'Long' => 0.13605,
+        'surface_km2' => 26.79,
     ],
     [
         'id' => '887',
@@ -11531,6 +12417,7 @@ return [
         'code_commune' => 2723,
         'Lat' => 35.843611,
         'Long' => 0.231667,
+        'surface_km2' => 57.31,
     ],
     [
         'id' => '888',
@@ -11544,6 +12431,7 @@ return [
         'code_commune' => 2722,
         'Lat' => 35.837222,
         'Long' => 0.169722222,
+        'surface_km2' => 43.99,
     ],
     [
         'id' => '889',
@@ -11557,6 +12445,7 @@ return [
         'code_commune' => 2731,
         'Lat' => 35.810556,
         'Long' => 0.209444,
+        'surface_km2' => 29.32,
     ],
     [
         'id' => '890',
@@ -11570,6 +12459,7 @@ return [
         'code_commune' => 2705,
         'Lat' => 35.8037574,
         'Long' => 0.05,
+        'surface_km2' => 31.87,
     ],
     [
         'id' => '891',
@@ -11583,6 +12473,7 @@ return [
         'code_commune' => 2726,
         'Lat' => 36.006944,
         'Long' => 0.591944444,
+        'surface_km2' => 86.24,
     ],
     [
         'id' => '892',
@@ -11596,6 +12487,7 @@ return [
         'code_commune' => 2809,
         'Lat' => 35.516667,
         'Long' => 4.383333,
+        'surface_km2' => 452.86,
     ],
     [
         'id' => '893',
@@ -11609,6 +12501,7 @@ return [
         'code_commune' => 2810,
         'Lat' => 35.576667,
         'Long' => 4.508333333,
+        'surface_km2' => 351.59,
     ],
     [
         'id' => '894',
@@ -11622,6 +12515,7 @@ return [
         'code_commune' => 2832,
         'Lat' => 35.687602,
         'Long' => 4.2538452,
+        'surface_km2' => 390.89,
     ],
     [
         'id' => '895',
@@ -11635,6 +12529,7 @@ return [
         'code_commune' => 2815,
         'Lat' => 35.7,
         'Long' => 5.074167,
+        'surface_km2' => 172.44,
     ],
     [
         'id' => '896',
@@ -11648,6 +12543,7 @@ return [
         'code_commune' => 2812,
         'Lat' => 35.654979,
         'Long' => 5.328,
+        'surface_km2' => 109.89,
     ],
     [
         'id' => '897',
@@ -11661,6 +12557,7 @@ return [
         'code_commune' => 2830,
         'Lat' => 35.916667,
         'Long' => 5.00884,
+        'surface_km2' => 70.82,
     ],
     [
         'id' => '898',
@@ -11674,6 +12571,7 @@ return [
         'code_commune' => 2811,
         'Lat' => 35.617778,
         'Long' => 5.1074,
+        'surface_km2' => 223.69,
     ],
     [
         'id' => '899',
@@ -11687,6 +12585,7 @@ return [
         'code_commune' => 2845,
         'Lat' => 35.949167,
         'Long' => 4.11917,
+        'surface_km2' => 122.15,
     ],
     [
         'id' => '900',
@@ -11700,6 +12599,7 @@ return [
         'code_commune' => 2831,
         'Lat' => 35.85,
         'Long' => 3.694444,
+        'surface_km2' => 715.74,
     ],
     [
         'id' => '901',
@@ -11713,6 +12613,7 @@ return [
         'code_commune' => 2816,
         'Lat' => 35.88638889,
         'Long' => 3.77236,
+        'surface_km2' => 634.53,
     ],
     [
         'id' => '902',
@@ -11726,6 +12627,7 @@ return [
         'code_commune' => 2817,
         'Lat' => 35.6746598,
         'Long' => 3.8821519,
+        'surface_km2' => 388.07,
     ],
     [
         'id' => '903',
@@ -11739,6 +12641,7 @@ return [
         'code_commune' => 2818,
         'Lat' => 35.6719444,
         'Long' => 4.03527778,
+        'surface_km2' => 552.39,
     ],
     [
         'id' => '904',
@@ -11752,6 +12655,7 @@ return [
         'code_commune' => 2820,
         'Lat' => 35.219167,
         'Long' => 4.17402,
+        'surface_km2' => 249.8,
     ],
     [
         'id' => '905',
@@ -11765,6 +12669,7 @@ return [
         'code_commune' => 2827,
         'Lat' => 35.1283,
         'Long' => 4.083333,
+        'surface_km2' => 171.28,
     ],
     [
         'id' => '906',
@@ -11778,6 +12683,7 @@ return [
         'code_commune' => 2846,
         'Lat' => 35.0350816,
         'Long' => 5.3360215,
+        'surface_km2' => 178.77,
     ],
     [
         'id' => '907',
@@ -11791,6 +12697,7 @@ return [
         'code_commune' => 2841,
         'Lat' => 34.8470491,
         'Long' => 4.1634964,
+        'surface_km2' => 272.84,
     ],
     [
         'id' => '908',
@@ -11804,6 +12711,7 @@ return [
         'code_commune' => 2837,
         'Lat' => 35.03583333,
         'Long' => 4.428333333,
+        'surface_km2' => 387.71,
     ],
     [
         'id' => '909',
@@ -11817,6 +12725,7 @@ return [
         'code_commune' => 2844,
         'Lat' => 34.680794,
         'Long' => 4.096956,
+        'surface_km2' => 1219.79,
     ],
     [
         'id' => '910',
@@ -11830,6 +12739,7 @@ return [
         'code_commune' => 2836,
         'Lat' => 34.82,
         'Long' => 3.899444,
+        'surface_km2' => 453.73,
     ],
     [
         'id' => '911',
@@ -11843,6 +12753,7 @@ return [
         'code_commune' => 2838,
         'Lat' => 34.833333,
         'Long' => 3.9652509,
+        'surface_km2' => 300.49,
     ],
     [
         'id' => '912',
@@ -11856,6 +12767,7 @@ return [
         'code_commune' => 2842,
         'Lat' => 34.9611111,
         'Long' => 3.6793899,
+        'surface_km2' => 595.09,
     ],
     [
         'id' => '913',
@@ -11869,6 +12781,7 @@ return [
         'code_commune' => 2839,
         'Lat' => 35.25,
         'Long' => 3.805278,
+        'surface_km2' => 245.38,
     ],
     [
         'id' => '914',
@@ -11882,6 +12795,7 @@ return [
         'code_commune' => 2801,
         'Lat' => 35.71,
         'Long' => 4.5472,
+        'surface_km2' => 233.06,
     ],
     [
         'id' => '915',
@@ -11895,6 +12809,7 @@ return [
         'code_commune' => 2803,
         'Lat' => 35.85,
         'Long' => 4.37445,
+        'surface_km2' => 383.27,
     ],
     [
         'id' => '916',
@@ -11908,6 +12823,7 @@ return [
         'code_commune' => 2819,
         'Lat' => 35.980833,
         'Long' => 3.883,
+        'surface_km2' => 164.05,
     ],
     [
         'id' => '917',
@@ -11921,6 +12837,7 @@ return [
         'code_commune' => 2828,
         'Lat' => 35.729444,
         'Long' => 4.3770704,
+        'surface_km2' => 258.49,
     ],
     [
         'id' => '918',
@@ -11934,6 +12851,7 @@ return [
         'code_commune' => 2805,
         'Lat' => 35.688056,
         'Long' => 4.174722,
+        'surface_km2' => 190.91,
     ],
     [
         'id' => '919',
@@ -11947,6 +12865,7 @@ return [
         'code_commune' => 2802,
         'Lat' => 35.8667,
         'Long' => 4.795556,
+        'surface_km2' => 259.5,
     ],
     [
         'id' => '920',
@@ -11960,6 +12879,7 @@ return [
         'code_commune' => 2806,
         'Lat' => 35.704444,
         'Long' => 4.6175,
+        'surface_km2' => 223.59,
     ],
     [
         'id' => '921',
@@ -11973,6 +12893,7 @@ return [
         'code_commune' => 2829,
         'Lat' => 35.415278,
         'Long' => 4.354167,
+        'surface_km2' => 246.66,
     ],
     [
         'id' => '922',
@@ -11986,6 +12907,7 @@ return [
         'code_commune' => 2804,
         'Lat' => 35.6927204,
         'Long' => 4.7833333,
+        'surface_km2' => 150.75,
     ],
     [
         'id' => '923',
@@ -11999,6 +12921,7 @@ return [
         'code_commune' => 2840,
         'Lat' => 35.6546,
         'Long' => 4.668889,
+        'surface_km2' => 376.24,
     ],
     [
         'id' => '924',
@@ -12012,6 +12935,7 @@ return [
         'code_commune' => 2813,
         'Lat' => 35.5393686,
         'Long' => 4.9718744,
+        'surface_km2' => 148.37,
     ],
     [
         'id' => '925',
@@ -12025,6 +12949,7 @@ return [
         'code_commune' => 2814,
         'Lat' => 35.670556,
         'Long' => 4.8728093,
+        'surface_km2' => 322.17,
     ],
     [
         'id' => '926',
@@ -12038,6 +12963,7 @@ return [
         'code_commune' => 2910,
         'Lat' => 35.455952,
         'Long' => 0.688,
+        'surface_km2' => 201.29,
     ],
     [
         'id' => '927',
@@ -12051,6 +12977,7 @@ return [
         'code_commune' => 2932,
         'Lat' => 35.652778,
         'Long' => 0.013889,
+        'surface_km2' => 123.15,
     ],
     [
         'id' => '928',
@@ -12064,6 +12991,7 @@ return [
         'code_commune' => 2935,
         'Lat' => 35.5397,
         'Long' => 0.213889,
+        'surface_km2' => 113.12,
     ],
     [
         'id' => '929',
@@ -12077,6 +13005,7 @@ return [
         'code_commune' => 2931,
         'Lat' => 35.58839,
         'Long' => 0.0667,
+        'surface_km2' => 156.09,
     ],
     [
         'id' => '930',
@@ -12090,6 +13019,7 @@ return [
         'code_commune' => 2906,
         'Lat' => 35.4143144,
         'Long' => 0.3292328,
+        'surface_km2' => 102.33,
     ],
     [
         'id' => '931',
@@ -12103,6 +13033,7 @@ return [
         'code_commune' => 2936,
         'Lat' => 35.6068031,
         'Long' => -0.0489902,
+        'surface_km2' => 185.68,
     ],
     [
         'id' => '932',
@@ -12116,6 +13047,7 @@ return [
         'code_commune' => 2933,
         'Lat' => 35.583333,
         'Long' => 0.0536592,
+        'surface_km2' => 98.63,
     ],
     [
         'id' => '933',
@@ -12129,6 +13061,7 @@ return [
         'code_commune' => 2934,
         'Lat' => 35.6883106,
         'Long' => 0.2069806,
+        'surface_km2' => 119.99,
     ],
     [
         'id' => '934',
@@ -12142,6 +13075,7 @@ return [
         'code_commune' => 2930,
         'Lat' => 35.48333333,
         'Long' => -0.15,
+        'surface_km2' => 161.75,
     ],
     [
         'id' => '935',
@@ -12155,6 +13089,7 @@ return [
         'code_commune' => 2929,
         'Lat' => 35.53333333,
         'Long' => -0.183333333,
+        'surface_km2' => 121.34,
     ],
     [
         'id' => '936',
@@ -12168,6 +13103,7 @@ return [
         'code_commune' => 2944,
         'Lat' => 35.5925,
         'Long' => -0.2125,
+        'surface_km2' => 112.86,
     ],
     [
         'id' => '937',
@@ -12181,6 +13117,7 @@ return [
         'code_commune' => 2927,
         'Lat' => 35.566667,
         'Long' => -0.25967,
+        'surface_km2' => 141.57,
     ],
     [
         'id' => '938',
@@ -12194,6 +13131,7 @@ return [
         'code_commune' => 2928,
         'Lat' => 35.51011,
         'Long' => -0.3225,
+        'surface_km2' => 57.32,
     ],
     [
         'id' => '939',
@@ -12207,6 +13145,7 @@ return [
         'code_commune' => 2926,
         'Lat' => 35.5283,
         'Long' => -0.192778,
+        'surface_km2' => 114.3,
     ],
     [
         'id' => '940',
@@ -12220,6 +13159,7 @@ return [
         'code_commune' => 2943,
         'Lat' => 35.431944,
         'Long' => -0.245278,
+        'surface_km2' => 210.07,
     ],
     [
         'id' => '941',
@@ -12233,6 +13173,7 @@ return [
         'code_commune' => 2937,
         'Lat' => 35.56055556,
         'Long' => -0.084444444,
+        'surface_km2' => 127.23,
     ],
     [
         'id' => '942',
@@ -12246,6 +13187,7 @@ return [
         'code_commune' => 2939,
         'Lat' => 35.433333,
         'Long' => 0.2449,
+        'surface_km2' => 91.04,
     ],
     [
         'id' => '943',
@@ -12259,6 +13201,7 @@ return [
         'code_commune' => 2938,
         'Lat' => 35.2522718,
         'Long' => 0.0528,
+        'surface_km2' => 97.03,
     ],
     [
         'id' => '944',
@@ -12272,6 +13215,7 @@ return [
         'code_commune' => 2924,
         'Lat' => 35.4799,
         'Long' => 0.2449,
+        'surface_km2' => 82.1,
     ],
     [
         'id' => '945',
@@ -12285,6 +13229,7 @@ return [
         'code_commune' => 2941,
         'Lat' => 35.19583333,
         'Long' => 0.400833333,
+        'surface_km2' => 122.46,
     ],
     [
         'id' => '946',
@@ -12298,6 +13243,7 @@ return [
         'code_commune' => 2919,
         'Lat' => 35.21222,
         'Long' => 0.1397222,
+        'surface_km2' => 136.49,
     ],
     [
         'id' => '947',
@@ -12311,6 +13257,7 @@ return [
         'code_commune' => 2923,
         'Lat' => 35.1,
         'Long' => 0.15,
+        'surface_km2' => 163.41,
     ],
     [
         'id' => '948',
@@ -12324,6 +13271,7 @@ return [
         'code_commune' => 2942,
         'Lat' => 35.15,
         'Long' => 0.0536592,
+        'surface_km2' => 38.24,
     ],
     [
         'id' => '949',
@@ -12337,6 +13285,7 @@ return [
         'code_commune' => 2925,
         'Lat' => 35.195278,
         'Long' => -0.1575,
+        'surface_km2' => 134.25,
     ],
     [
         'id' => '950',
@@ -12350,6 +13299,7 @@ return [
         'code_commune' => 2918,
         'Lat' => 35.2153,
         'Long' => -0.0016,
+        'surface_km2' => 189.2,
     ],
     [
         'id' => '951',
@@ -12363,6 +13313,7 @@ return [
         'code_commune' => 2920,
         'Lat' => 35.4613997,
         'Long' => 0.1505556,
+        'surface_km2' => 16.14,
     ],
     [
         'id' => '952',
@@ -12376,6 +13327,7 @@ return [
         'code_commune' => 2921,
         'Lat' => 35.394444,
         'Long' => 0.3713916,
+        'surface_km2' => 86.51,
     ],
     [
         'id' => '953',
@@ -12389,6 +13341,7 @@ return [
         'code_commune' => 2917,
         'Lat' => 35.515833,
         'Long' => 0.3017,
+        'surface_km2' => 90.54,
     ],
     [
         'id' => '954',
@@ -12402,6 +13355,7 @@ return [
         'code_commune' => 2916,
         'Lat' => 35.250556,
         'Long' => 0.296389,
+        'surface_km2' => 78.65,
     ],
     [
         'id' => '955',
@@ -12415,6 +13369,7 @@ return [
         'code_commune' => 2914,
         'Lat' => 35.36140556,
         'Long' => 0.0536592,
+        'surface_km2' => 50.82,
     ],
     [
         'id' => '956',
@@ -12428,6 +13383,7 @@ return [
         'code_commune' => 2908,
         'Lat' => 35.333333,
         'Long' => 0.343889,
+        'surface_km2' => 101.27,
     ],
     [
         'id' => '957',
@@ -12441,6 +13397,7 @@ return [
         'code_commune' => 2915,
         'Lat' => 35.15,
         'Long' => 0.15,
+        'surface_km2' => 124.26,
     ],
     [
         'id' => '958',
@@ -12454,6 +13411,7 @@ return [
         'code_commune' => 2901,
         'Lat' => 35.4,
         'Long' => 0.133333,
+        'surface_km2' => 75.44,
     ],
     [
         'id' => '959',
@@ -12467,6 +13425,7 @@ return [
         'code_commune' => 2902,
         'Lat' => 35.316111,
         'Long' => -0.048333333,
+        'surface_km2' => 198.79,
     ],
     [
         'id' => '960',
@@ -12480,6 +13439,7 @@ return [
         'code_commune' => 2912,
         'Lat' => 35.216944,
         'Long' => 0.1614,
+        'surface_km2' => 110.55,
     ],
     [
         'id' => '961',
@@ -12493,6 +13453,7 @@ return [
         'code_commune' => 2904,
         'Lat' => 35.33333333,
         'Long' => 0.09833,
+        'surface_km2' => 137.71,
     ],
     [
         'id' => '962',
@@ -12506,6 +13467,7 @@ return [
         'code_commune' => 2940,
         'Lat' => 35.381111,
         'Long' => 0.091667,
+        'surface_km2' => 47.54,
     ],
     [
         'id' => '963',
@@ -12519,6 +13481,7 @@ return [
         'code_commune' => 2913,
         'Lat' => 35.3026637,
         'Long' => 0.1282536,
+        'surface_km2' => 56.42,
     ],
     [
         'id' => '964',
@@ -12532,6 +13495,7 @@ return [
         'code_commune' => 2903,
         'Lat' => 35.31603,
         'Long' => 0.1542151,
+        'surface_km2' => 132.34,
     ],
     [
         'id' => '965',
@@ -12545,6 +13509,7 @@ return [
         'code_commune' => 2947,
         'Lat' => 35.316667,
         'Long' => 0.15,
+        'surface_km2' => 55.21,
     ],
     [
         'id' => '966',
@@ -12558,6 +13523,7 @@ return [
         'code_commune' => 2905,
         'Lat' => 35.3129898,
         'Long' => 0.2025,
+        'surface_km2' => 73.04,
     ],
     [
         'id' => '967',
@@ -12571,6 +13537,7 @@ return [
         'code_commune' => 2946,
         'Lat' => 35.258611,
         'Long' => 0.5233311,
+        'surface_km2' => 77.12,
     ],
     [
         'id' => '968',
@@ -12584,6 +13551,7 @@ return [
         'code_commune' => 2907,
         'Lat' => 35.366667,
         'Long' => 0.15,
+        'surface_km2' => 253.71,
     ],
     [
         'id' => '969',
@@ -12597,6 +13565,7 @@ return [
         'code_commune' => 2945,
         'Lat' => 35.21222,
         'Long' => 0.245833333,
+        'surface_km2' => 99.0,
     ],
     [
         'id' => '970',
@@ -12610,6 +13579,7 @@ return [
         'code_commune' => 2909,
         'Lat' => 35.29108,
         'Long' => 0.47622,
+        'surface_km2' => 239.77,
     ],
     [
         'id' => '971',
@@ -12623,6 +13593,7 @@ return [
         'code_commune' => 2911,
         'Lat' => 35.381111,
         'Long' => 0.7853763,
+        'surface_km2' => 214.96,
     ],
     [
         'id' => '972',
@@ -12636,6 +13607,7 @@ return [
         'code_commune' => 2922,
         'Lat' => 35.1130905,
         'Long' => 0.0910316,
+        'surface_km2' => 153.87,
     ],
     [
         'id' => '973',
@@ -12649,6 +13621,7 @@ return [
         'code_commune' => 3001,
         'Lat' => 31.95,
         'Long' => 5.3167,
+        'surface_km2' => 2866.45,
     ],
     [
         'id' => '974',
@@ -12662,6 +13635,7 @@ return [
         'code_commune' => 3004,
         'Lat' => 31.7019,
         'Long' => 6.073,
+        'surface_km2' => 69599.31,
     ],
     [
         'id' => '975',
@@ -12675,6 +13649,7 @@ return [
         'code_commune' => 3002,
         'Lat' => 31.9377,
         'Long' => 5.39954,
+        'surface_km2' => 1977.13,
     ],
     [
         'id' => '976',
@@ -12688,6 +13663,7 @@ return [
         'code_commune' => 3012,
         'Lat' => 32.025833,
         'Long' => 5.468611,
+        'surface_km2' => 3067.44,
     ],
     [
         'id' => '977',
@@ -12701,6 +13677,7 @@ return [
         'code_commune' => 3011,
         'Lat' => 31.979722,
         'Long' => 5.418333,
+        'surface_km2' => 146.69,
     ],
     [
         'id' => '978',
@@ -12714,6 +13691,7 @@ return [
         'code_commune' => 3021,
         'Lat' => 31.656389,
         'Long' => 9.179167,
+        'surface_km2' => 47392.62,
     ],
     [
         'id' => '979',
@@ -12727,6 +13705,7 @@ return [
         'code_commune' => 3005,
         'Lat' => 31.916667,
         'Long' => 5.35,
+        'surface_km2' => 7479.55,
     ],
     [
         'id' => '980',
@@ -12740,6 +13719,7 @@ return [
         'code_commune' => 3003,
         'Lat' => 32.141111,
         'Long' => 5.3096,
+        'surface_km2' => 2961.59,
     ],
     [
         'id' => '981',
@@ -12753,6 +13733,7 @@ return [
         'code_commune' => 3113,
         'Lat' => 35.62687,
         'Long' => -0.5217,
+        'surface_km2' => 68.67,
     ],
     [
         'id' => '982',
@@ -12766,6 +13747,7 @@ return [
         'code_commune' => 3121,
         'Lat' => 35.7861,
         'Long' => -0.374167,
+        'surface_km2' => 25.85,
     ],
     [
         'id' => '983',
@@ -12779,6 +13761,7 @@ return [
         'code_commune' => 3103,
         'Lat' => 35.7368,
         'Long' => -0.545,
+        'surface_km2' => 38.06,
     ],
     [
         'id' => '984',
@@ -12792,6 +13775,7 @@ return [
         'code_commune' => 3119,
         'Lat' => 35.72964,
         'Long' => -0.465833,
+        'surface_km2' => 36.39,
     ],
     [
         'id' => '985',
@@ -12805,6 +13789,7 @@ return [
         'code_commune' => 3102,
         'Lat' => 35.8052667,
         'Long' => -0.423746,
+        'surface_km2' => 95.92,
     ],
     [
         'id' => '986',
@@ -12818,6 +13803,7 @@ return [
         'code_commune' => 3104,
         'Lat' => 35.6792778,
         'Long' => -0.5,
+        'surface_km2' => 31.88,
     ],
     [
         'id' => '987',
@@ -12831,6 +13817,7 @@ return [
         'code_commune' => 3117,
         'Lat' => 35.6186807,
         'Long' => -0.578611111,
+        'surface_km2' => 64.21,
     ],
     [
         'id' => '988',
@@ -12844,6 +13831,7 @@ return [
         'code_commune' => 3105,
         'Lat' => 35.6478,
         'Long' => -0.6241804,
+        'surface_km2' => 50.2,
     ],
     [
         'id' => '989',
@@ -12857,6 +13845,7 @@ return [
         'code_commune' => 3120,
         'Lat' => 35.6937209,
         'Long' => -0.4186546,
+        'surface_km2' => 70.68,
     ],
     [
         'id' => '990',
@@ -12870,6 +13859,7 @@ return [
         'code_commune' => 3106,
         'Lat' => 35.85048,
         'Long' => -0.3167,
+        'surface_km2' => 69.6,
     ],
     [
         'id' => '991',
@@ -12883,6 +13873,7 @@ return [
         'code_commune' => 3122,
         'Lat' => 35.82972,
         'Long' => -0.394722,
+        'surface_km2' => 46.23,
     ],
     [
         'id' => '992',
@@ -12896,6 +13887,7 @@ return [
         'code_commune' => 3126,
         'Lat' => 35.816667,
         'Long' => -0.2816754,
+        'surface_km2' => 46.54,
     ],
     [
         'id' => '993',
@@ -12909,6 +13901,7 @@ return [
         'code_commune' => 3107,
         'Lat' => 35.805837,
         'Long' => -0.2596,
+        'surface_km2' => 92.75,
     ],
     [
         'id' => '994',
@@ -12922,6 +13915,7 @@ return [
         'code_commune' => 3108,
         'Lat' => 35.783333,
         'Long' => -0.166667,
+        'surface_km2' => 54.07,
     ],
     [
         'id' => '995',
@@ -12935,6 +13929,7 @@ return [
         'code_commune' => 3109,
         'Lat' => 35.74494,
         'Long' => -0.7697,
+        'surface_km2' => 26.67,
     ],
     [
         'id' => '996',
@@ -12948,6 +13943,7 @@ return [
         'code_commune' => 3101,
         'Lat' => 35.70833333,
         'Long' => -0.6331,
+        'surface_km2' => 59.77,
     ],
     [
         'id' => '997',
@@ -12961,6 +13957,7 @@ return [
         'code_commune' => 3110,
         'Lat' => 35.7408,
         'Long' => -0.866667,
+        'surface_km2' => 62.08,
     ],
     [
         'id' => '998',
@@ -12974,6 +13971,7 @@ return [
         'code_commune' => 3115,
         'Lat' => 35.728611,
         'Long' => -0.706944,
+        'surface_km2' => 12.63,
     ],
     [
         'id' => '999',
@@ -12987,6 +13985,7 @@ return [
         'code_commune' => 3114,
         'Lat' => 35.6791,
         'Long' => -0.481667,
+        'surface_km2' => 98.67,
     ],
     [
         'id' => '1000',
@@ -13000,6 +13999,7 @@ return [
         'code_commune' => 3118,
         'Lat' => 35.612222,
         'Long' => -0.516667,
+        'surface_km2' => 56.34,
     ],
     [
         'id' => '1001',
@@ -13013,6 +14013,7 @@ return [
         'code_commune' => 3111,
         'Lat' => 35.5519239,
         'Long' => -0.4522604,
+        'surface_km2' => 84.87,
     ],
     [
         'id' => '1002',
@@ -13026,6 +14027,7 @@ return [
         'code_commune' => 3125,
         'Lat' => 35.648979,
         'Long' => -0.975702,
+        'surface_km2' => 103.64,
     ],
     [
         'id' => '1003',
@@ -13039,6 +14041,7 @@ return [
         'code_commune' => 3124,
         'Lat' => 35.573,
         'Long' => -0.8342,
+        'surface_km2' => 139.37,
     ],
     [
         'id' => '1004',
@@ -13052,6 +14055,7 @@ return [
         'code_commune' => 3123,
         'Lat' => 35.6455611,
         'Long' => -0.7722974,
+        'surface_km2' => 433.88,
     ],
     [
         'id' => '1005',
@@ -13065,6 +14069,7 @@ return [
         'code_commune' => 3116,
         'Lat' => 35.710833,
         'Long' => -0.810556,
+        'surface_km2' => 44.03,
     ],
     [
         'id' => '1006',
@@ -13078,6 +14083,7 @@ return [
         'code_commune' => 3112,
         'Lat' => 35.483333,
         'Long' => -0.516667,
+        'surface_km2' => 187.06,
     ],
     [
         'id' => '1007',
@@ -13091,6 +14097,7 @@ return [
         'code_commune' => 3221,
         'Lat' => 33.833333,
         'Long' => 0.554708333,
+        'surface_km2' => 154.04,
     ],
     [
         'id' => '1008',
@@ -13104,6 +14111,7 @@ return [
         'code_commune' => 3218,
         'Lat' => 33.768333,
         'Long' => 1.413611111,
+        'surface_km2' => 1181.05,
     ],
     [
         'id' => '1009',
@@ -13117,6 +14125,7 @@ return [
         'code_commune' => 3206,
         'Lat' => 33.72903,
         'Long' => 1.5329678,
+        'surface_km2' => 526.14,
     ],
     [
         'id' => '1010',
@@ -13130,6 +14139,7 @@ return [
         'code_commune' => 3210,
         'Lat' => 34.1436111,
         'Long' => 0.033333,
+        'surface_km2' => 2016.77,
     ],
     [
         'id' => '1011',
@@ -13143,6 +14153,7 @@ return [
         'code_commune' => 3211,
         'Lat' => 34.14333333,
         'Long' => 0.073333333,
+        'surface_km2' => 1022.26,
     ],
     [
         'id' => '1012',
@@ -13156,6 +14167,7 @@ return [
         'code_commune' => 3220,
         'Lat' => 33.651667,
         'Long' => 0.266667,
+        'surface_km2' => 880.41,
     ],
     [
         'id' => '1013',
@@ -13169,6 +14181,7 @@ return [
         'code_commune' => 3222,
         'Lat' => 33.717201,
         'Long' => 1.682711,
+        'surface_km2' => 1225.33,
     ],
     [
         'id' => '1014',
@@ -13182,6 +14195,7 @@ return [
         'code_commune' => 3203,
         'Lat' => 33.75805556,
         'Long' => 1.223333333,
+        'surface_km2' => 885.83,
     ],
     [
         'id' => '1015',
@@ -13195,6 +14209,7 @@ return [
         'code_commune' => 3201,
         'Lat' => 33.7216667,
         'Long' => 1.020278,
+        'surface_km2' => 464.07,
     ],
     [
         'id' => '1016',
@@ -13208,6 +14223,7 @@ return [
         'code_commune' => 3202,
         'Lat' => 34.0188896,
         'Long' => 0.9271367,
+        'surface_km2' => 2416.33,
     ],
     [
         'id' => '1017',
@@ -13221,6 +14237,7 @@ return [
         'code_commune' => 3219,
         'Lat' => 33.311667,
         'Long' => 0.364444,
+        'surface_km2' => 3066.76,
     ],
     [
         'id' => '1018',
@@ -13234,6 +14251,7 @@ return [
         'code_commune' => 3212,
         'Lat' => 34.15,
         'Long' => 0.5975443,
+        'surface_km2' => 1622.31,
     ],
     [
         'id' => '1019',
@@ -13247,6 +14265,7 @@ return [
         'code_commune' => 3217,
         'Lat' => 34.168889,
         'Long' => 1.228056,
+        'surface_km2' => 818.32,
     ],
     [
         'id' => '1020',
@@ -13260,6 +14279,7 @@ return [
         'code_commune' => 3214,
         'Lat' => 35.216667,
         'Long' => 0.0556,
+        'surface_km2' => 218.82,
     ],
     [
         'id' => '1021',
@@ -13273,6 +14293,7 @@ return [
         'code_commune' => 3304,
         'Lat' => 28.146389,
         'Long' => 6.7259091,
+        'surface_km2' => 83048.06,
     ],
     [
         'id' => '1022',
@@ -13286,6 +14307,7 @@ return [
         'code_commune' => 3303,
         'Lat' => 29.96710797,
         'Long' => 9.422727425,
+        'surface_km2' => 32390.08,
     ],
     [
         'id' => '1023',
@@ -13299,6 +14321,7 @@ return [
         'code_commune' => 3306,
         'Lat' => 28.040833,
         'Long' => 9.635,
+        'surface_km2' => 15019.73,
     ],
     [
         'id' => '1024',
@@ -13312,6 +14335,7 @@ return [
         'code_commune' => 3301,
         'Lat' => 26.483333,
         'Long' => 8.483333333,
+        'surface_km2' => 76562.95,
     ],
     [
         'id' => '1025',
@@ -13325,6 +14349,7 @@ return [
         'code_commune' => 3411,
         'Lat' => 35.976944,
         'Long' => 4.7475,
+        'surface_km2' => 125.97,
     ],
     [
         'id' => '1026',
@@ -13338,6 +14363,7 @@ return [
         'code_commune' => 3423,
         'Lat' => 36.228056,
         'Long' => 4.335556,
+        'surface_km2' => 75.82,
     ],
     [
         'id' => '1027',
@@ -13351,6 +14377,7 @@ return [
         'code_commune' => 3408,
         'Lat' => 36.128889,
         'Long' => 5.076667,
+        'surface_km2' => 123.69,
     ],
     [
         'id' => '1028',
@@ -13364,6 +14391,7 @@ return [
         'code_commune' => 3426,
         'Lat' => 36.0475,
         'Long' => 4.654722222,
+        'surface_km2' => 109.0,
     ],
     [
         'id' => '1029',
@@ -13377,6 +14405,7 @@ return [
         'code_commune' => 3412,
         'Lat' => 36.027222,
         'Long' => 4.833333333,
+        'surface_km2' => 64.52,
     ],
     [
         'id' => '1030',
@@ -13390,6 +14419,7 @@ return [
         'code_commune' => 3428,
         'Lat' => 36.0642129,
         'Long' => 4.833333333,
+        'surface_km2' => 66.39,
     ],
     [
         'id' => '1031',
@@ -13403,6 +14433,7 @@ return [
         'code_commune' => 3432,
         'Lat' => 35.981389,
         'Long' => 4.9167001,
+        'surface_km2' => 47.98,
     ],
     [
         'id' => '1032',
@@ -13416,6 +14447,7 @@ return [
         'code_commune' => 3421,
         'Lat' => 35.771667,
         'Long' => 4.999722222,
+        'surface_km2' => 65.07,
     ],
     [
         'id' => '1033',
@@ -13429,6 +14461,7 @@ return [
         'code_commune' => 3409,
         'Lat' => 35.8991893,
         'Long' => 4.899182,
+        'surface_km2' => 104.14,
     ],
     [
         'id' => '1034',
@@ -13442,6 +14475,7 @@ return [
         'code_commune' => 3427,
         'Lat' => 35.914444,
         'Long' => 4.9225704,
+        'surface_km2' => 377.5,
     ],
     [
         'id' => '1035',
@@ -13455,6 +14489,7 @@ return [
         'code_commune' => 3410,
         'Lat' => 36.1039,
         'Long' => 4.91188,
+        'surface_km2' => 135.7,
     ],
     [
         'id' => '1036',
@@ -13468,6 +14503,7 @@ return [
         'code_commune' => 3420,
         'Lat' => 36.175556,
         'Long' => 5.029167,
+        'surface_km2' => 222.91,
     ],
     [
         'id' => '1037',
@@ -13481,6 +14517,7 @@ return [
         'code_commune' => 3431,
         'Lat' => 36.15,
         'Long' => 5.033333,
+        'surface_km2' => 64.14,
     ],
     [
         'id' => '1038',
@@ -13494,6 +14531,7 @@ return [
         'code_commune' => 3424,
         'Lat' => 36.425556,
         'Long' => 4.713889,
+        'surface_km2' => 42.11,
     ],
     [
         'id' => '1039',
@@ -13507,6 +14545,7 @@ return [
         'code_commune' => 3416,
         'Lat' => 36.425556,
         'Long' => 4.716667,
+        'surface_km2' => 71.35,
     ],
     [
         'id' => '1040',
@@ -13520,6 +14559,7 @@ return [
         'code_commune' => 3415,
         'Lat' => 36.2922699,
         'Long' => 4.6628371,
+        'surface_km2' => 94.58,
     ],
     [
         'id' => '1041',
@@ -13533,6 +14573,7 @@ return [
         'code_commune' => 3425,
         'Lat' => 36.1016103,
         'Long' => 4.6589,
+        'surface_km2' => 50.95,
     ],
     [
         'id' => '1042',
@@ -13546,6 +14587,7 @@ return [
         'code_commune' => 3414,
         'Lat' => 36.08333333,
         'Long' => 4.601111,
+        'surface_km2' => 125.44,
     ],
     [
         'id' => '1043',
@@ -13559,6 +14601,7 @@ return [
         'code_commune' => 3405,
         'Lat' => 36.119384,
         'Long' => 4.38407336,
+        'surface_km2' => 187.03,
     ],
     [
         'id' => '1044',
@@ -13572,6 +14615,7 @@ return [
         'code_commune' => 3422,
         'Lat' => 35.98333333,
         'Long' => 4.597778,
+        'surface_km2' => 108.1,
     ],
     [
         'id' => '1045',
@@ -13585,6 +14629,7 @@ return [
         'code_commune' => 3404,
         'Lat' => 36.08725,
         'Long' => 4.46,
+        'surface_km2' => 303.16,
     ],
     [
         'id' => '1046',
@@ -13598,6 +14643,7 @@ return [
         'code_commune' => 3434,
         'Lat' => 36.156389,
         'Long' => 4.223333,
+        'surface_km2' => 155.63,
     ],
     [
         'id' => '1047',
@@ -13611,6 +14657,7 @@ return [
         'code_commune' => 3433,
         'Lat' => 35.9227778,
         'Long' => 4.78119,
+        'surface_km2' => 71.0,
     ],
     [
         'id' => '1048',
@@ -13624,6 +14671,7 @@ return [
         'code_commune' => 3407,
         'Lat' => 36.06386,
         'Long' => 4.6167,
+        'surface_km2' => 102.5,
     ],
     [
         'id' => '1049',
@@ -13637,6 +14685,7 @@ return [
         'code_commune' => 3419,
         'Lat' => 36.14083333,
         'Long' => 4.7957,
+        'surface_km2' => 124.4,
     ],
     [
         'id' => '1050',
@@ -13650,6 +14699,7 @@ return [
         'code_commune' => 3413,
         'Lat' => 36.1319,
         'Long' => 4.669,
+        'surface_km2' => 198.91,
     ],
     [
         'id' => '1051',
@@ -13663,6 +14713,7 @@ return [
         'code_commune' => 3430,
         'Lat' => 36.0125,
         'Long' => 5.002222222,
+        'surface_km2' => 117.72,
     ],
     [
         'id' => '1052',
@@ -13676,6 +14727,7 @@ return [
         'code_commune' => 3417,
         'Lat' => 35.8733817,
         'Long' => 5.074722222,
+        'surface_km2' => 70.71,
     ],
     [
         'id' => '1053',
@@ -13689,6 +14741,7 @@ return [
         'code_commune' => 3402,
         'Lat' => 35.94972222,
         'Long' => 5.033333333,
+        'surface_km2' => 140.51,
     ],
     [
         'id' => '1054',
@@ -13702,6 +14755,7 @@ return [
         'code_commune' => 3403,
         'Lat' => 36.2677309,
         'Long' => 4.855833333,
+        'surface_km2' => 87.01,
     ],
     [
         'id' => '1055',
@@ -13715,6 +14769,7 @@ return [
         'code_commune' => 3418,
         'Lat' => 36.3667,
         'Long' => 4.77,
+        'surface_km2' => 49.48,
     ],
     [
         'id' => '1056',
@@ -13728,6 +14783,7 @@ return [
         'code_commune' => 3429,
         'Lat' => 36.27131,
         'Long' => 4.82184,
+        'surface_km2' => 59.98,
     ],
     [
         'id' => '1057',
@@ -13741,6 +14797,7 @@ return [
         'code_commune' => 3401,
         'Lat' => 36.0704188,
         'Long' => 4.766667,
+        'surface_km2' => 82.05,
     ],
     [
         'id' => '1058',
@@ -13754,6 +14811,7 @@ return [
         'code_commune' => 3406,
         'Lat' => 36.19702,
         'Long' => 4.4025,
+        'surface_km2' => 121.53,
     ],
     [
         'id' => '1059',
@@ -13767,6 +14825,7 @@ return [
         'code_commune' => 3532,
         'Lat' => 36.6576809,
         'Long' => 3.406389,
+        'surface_km2' => 70.84,
     ],
     [
         'id' => '1060',
@@ -13780,6 +14839,7 @@ return [
         'code_commune' => 3523,
         'Lat' => 36.913272,
         'Long' => 3.914094,
+        'surface_km2' => 48.39,
     ],
     [
         'id' => '1061',
@@ -13793,6 +14853,7 @@ return [
         'code_commune' => 3522,
         'Lat' => 36.8623517,
         'Long' => 3.8805771,
+        'surface_km2' => 19.39,
     ],
     [
         'id' => '1062',
@@ -13806,6 +14867,7 @@ return [
         'code_commune' => 3503,
         'Lat' => 36.7675,
         'Long' => 3.702778,
+        'surface_km2' => 57.27,
     ],
     [
         'id' => '1063',
@@ -13819,6 +14881,7 @@ return [
         'code_commune' => 3514,
         'Lat' => 36.7254,
         'Long' => 3.553889,
+        'surface_km2' => 42.5,
     ],
     [
         'id' => '1064',
@@ -13832,6 +14895,7 @@ return [
         'code_commune' => 3525,
         'Lat' => 36.66774,
         'Long' => 3.591944444,
+        'surface_km2' => 50.9,
     ],
     [
         'id' => '1065',
@@ -13845,6 +14909,7 @@ return [
         'code_commune' => 3531,
         'Lat' => 36.65,
         'Long' => 3.3308,
+        'surface_km2' => 82.92,
     ],
     [
         'id' => '1066',
@@ -13858,6 +14923,7 @@ return [
         'code_commune' => 3524,
         'Lat' => 36.6333333,
         'Long' => 3.5861111,
+        'surface_km2' => 57.98,
     ],
     [
         'id' => '1067',
@@ -13871,6 +14937,7 @@ return [
         'code_commune' => 3515,
         'Lat' => 36.673333,
         'Long' => 3.806389,
+        'surface_km2' => 23.37,
     ],
     [
         'id' => '1068',
@@ -13884,6 +14951,7 @@ return [
         'code_commune' => 3510,
         'Lat' => 36.783333,
         'Long' => 3.6036,
+        'surface_km2' => 53.63,
     ],
     [
         'id' => '1069',
@@ -13897,6 +14965,7 @@ return [
         'code_commune' => 3518,
         'Lat' => 36.6368081,
         'Long' => 3.3718774,
+        'surface_km2' => 51.87,
     ],
     [
         'id' => '1070',
@@ -13910,6 +14979,7 @@ return [
         'code_commune' => 3509,
         'Lat' => 36.706667,
         'Long' => 3.671389,
+        'surface_km2' => 66.75,
     ],
     [
         'id' => '1071',
@@ -13923,6 +14993,7 @@ return [
         'code_commune' => 3513,
         'Lat' => 36.63709,
         'Long' => 3.6833333,
+        'surface_km2' => 76.51,
     ],
     [
         'id' => '1072',
@@ -13936,6 +15007,7 @@ return [
         'code_commune' => 3521,
         'Lat' => 36.806667,
         'Long' => 3.81431,
+        'surface_km2' => 24.21,
     ],
     [
         'id' => '1073',
@@ -13949,6 +15021,7 @@ return [
         'code_commune' => 3507,
         'Lat' => 36.7475,
         'Long' => 3.833333,
+        'surface_km2' => 56.23,
     ],
     [
         'id' => '1074',
@@ -13962,6 +15035,7 @@ return [
         'code_commune' => 3519,
         'Lat' => 36.625278,
         'Long' => 3.479444,
+        'surface_km2' => 45.79,
     ],
     [
         'id' => '1075',
@@ -13975,6 +15049,7 @@ return [
         'code_commune' => 3526,
         'Lat' => 36.7214044,
         'Long' => 3.583333333,
+        'surface_km2' => 16.79,
     ],
     [
         'id' => '1076',
@@ -13988,6 +15063,7 @@ return [
         'code_commune' => 3506,
         'Lat' => 36.85,
         'Long' => 3.85,
+        'surface_km2' => 61.14,
     ],
     [
         'id' => '1077',
@@ -14001,6 +15077,7 @@ return [
         'code_commune' => 3505,
         'Lat' => 36.81694,
         'Long' => 3.8757119,
+        'surface_km2' => 60.17,
     ],
     [
         'id' => '1078',
@@ -14014,6 +15091,7 @@ return [
         'code_commune' => 3529,
         'Lat' => 36.7461111,
         'Long' => 3.683056,
+        'surface_km2' => 49.83,
     ],
     [
         'id' => '1079',
@@ -14027,6 +15105,7 @@ return [
         'code_commune' => 3508,
         'Lat' => 36.8779905,
         'Long' => 3.7205,
+        'surface_km2' => 69.9,
     ],
     [
         'id' => '1080',
@@ -14040,6 +15119,7 @@ return [
         'code_commune' => 3512,
         'Lat' => 36.7305,
         'Long' => 3.49482,
+        'surface_km2' => 42.19,
     ],
     [
         'id' => '1081',
@@ -14053,6 +15133,7 @@ return [
         'code_commune' => 3511,
         'Lat' => 36.7247,
         'Long' => 3.615306,
+        'surface_km2' => 27.15,
     ],
     [
         'id' => '1082',
@@ -14066,6 +15147,7 @@ return [
         'code_commune' => 3528,
         'Lat' => 36.7130535,
         'Long' => 3.35,
+        'surface_km2' => 11.96,
     ],
     [
         'id' => '1083',
@@ -14079,6 +15161,7 @@ return [
         'code_commune' => 3517,
         'Lat' => 36.6857409,
         'Long' => 3.3892894,
+        'surface_km2' => 26.22,
     ],
     [
         'id' => '1084',
@@ -14092,6 +15175,7 @@ return [
         'code_commune' => 3501,
         'Lat' => 36.766,
         'Long' => 3.477,
+        'surface_km2' => 17.44,
     ],
     [
         'id' => '1085',
@@ -14105,6 +15189,7 @@ return [
         'code_commune' => 3516,
         'Lat' => 36.75096,
         'Long' => 3.4682054,
+        'surface_km2' => 20.97,
     ],
     [
         'id' => '1086',
@@ -14118,6 +15203,7 @@ return [
         'code_commune' => 3504,
         'Lat' => 36.741667,
         'Long' => 3.7175665,
+        'surface_km2' => 95.85,
     ],
     [
         'id' => '1087',
@@ -14131,6 +15217,7 @@ return [
         'code_commune' => 3502,
         'Lat' => 36.72735,
         'Long' => 3.40995,
+        'surface_km2' => 42.64,
     ],
     [
         'id' => '1088',
@@ -14144,6 +15231,7 @@ return [
         'code_commune' => 3527,
         'Lat' => 36.7732001,
         'Long' => 3.3872711,
+        'surface_km2' => 12.22,
     ],
     [
         'id' => '1089',
@@ -14157,6 +15245,7 @@ return [
         'code_commune' => 3520,
         'Lat' => 36.7939,
         'Long' => 3.95034,
+        'surface_km2' => 26.11,
     ],
     [
         'id' => '1090',
@@ -14170,6 +15259,7 @@ return [
         'code_commune' => 3530,
         'Lat' => 36.676944,
         'Long' => 3.2633918,
+        'surface_km2' => 26.65,
     ],
     [
         'id' => '1091',
@@ -14183,6 +15273,7 @@ return [
         'code_commune' => 3606,
         'Lat' => 36.7947505,
         'Long' => 8.4293891,
+        'surface_km2' => 98.2,
     ],
     [
         'id' => '1092',
@@ -14196,6 +15287,7 @@ return [
         'code_commune' => 3604,
         'Lat' => 36.758056,
         'Long' => 8.369444,
+        'surface_km2' => 212.71,
     ],
     [
         'id' => '1093',
@@ -14209,6 +15301,7 @@ return [
         'code_commune' => 3601,
         'Lat' => 36.7667186,
         'Long' => 8.317,
+        'surface_km2' => 112.97,
     ],
     [
         'id' => '1094',
@@ -14222,6 +15315,7 @@ return [
         'code_commune' => 3620,
         'Lat' => 36.668056,
         'Long' => 8.2346,
+        'surface_km2' => 161.54,
     ],
     [
         'id' => '1095',
@@ -14235,6 +15329,7 @@ return [
         'code_commune' => 3616,
         'Lat' => 36.702222,
         'Long' => 7.847222,
+        'surface_km2' => 123.61,
     ],
     [
         'id' => '1096',
@@ -14248,6 +15343,7 @@ return [
         'code_commune' => 3621,
         'Lat' => 36.5644539,
         'Long' => 8.201111,
+        'surface_km2' => 114.31,
     ],
     [
         'id' => '1097',
@@ -14261,6 +15357,7 @@ return [
         'code_commune' => 3602,
         'Lat' => 36.5034174,
         'Long' => 8.110556,
+        'surface_km2' => 92.68,
     ],
     [
         'id' => '1098',
@@ -14274,6 +15371,7 @@ return [
         'code_commune' => 3623,
         'Lat' => 36.51972222,
         'Long' => 7.9810845,
+        'surface_km2' => 210.08,
     ],
     [
         'id' => '1099',
@@ -14287,6 +15385,7 @@ return [
         'code_commune' => 3622,
         'Lat' => 36.466111,
         'Long' => 8.0575,
+        'surface_km2' => 50.84,
     ],
     [
         'id' => '1100',
@@ -14300,6 +15399,7 @@ return [
         'code_commune' => 3603,
         'Lat' => 36.77501471,
         'Long' => 7.905594528,
+        'surface_km2' => 152.19,
     ],
     [
         'id' => '1101',
@@ -14313,6 +15413,7 @@ return [
         'code_commune' => 3610,
         'Lat' => 36.83722222,
         'Long' => 8.068343,
+        'surface_km2' => 199.45,
     ],
     [
         'id' => '1102',
@@ -14326,6 +15427,7 @@ return [
         'code_commune' => 3615,
         'Lat' => 36.755843,
         'Long' => 7.741667,
+        'surface_km2' => 41.87,
     ],
     [
         'id' => '1103',
@@ -14339,6 +15441,7 @@ return [
         'code_commune' => 3618,
         'Lat' => 36.830278,
         'Long' => 7.872,
+        'surface_km2' => 59.51,
     ],
     [
         'id' => '1104',
@@ -14352,6 +15455,7 @@ return [
         'code_commune' => 3607,
         'Lat' => 36.827222,
         'Long' => 8.6,
+        'surface_km2' => 44.22,
     ],
     [
         'id' => '1105',
@@ -14365,6 +15469,7 @@ return [
         'code_commune' => 3605,
         'Lat' => 36.8956,
         'Long' => 8.4433,
+        'surface_km2' => 280.05,
     ],
     [
         'id' => '1106',
@@ -14378,6 +15483,7 @@ return [
         'code_commune' => 3609,
         'Lat' => 36.88194444,
         'Long' => 8.564167,
+        'surface_km2' => 82.17,
     ],
     [
         'id' => '1107',
@@ -14391,6 +15497,7 @@ return [
         'code_commune' => 3619,
         'Lat' => 36.727222,
         'Long' => 7.894722,
+        'surface_km2' => 29.99,
     ],
     [
         'id' => '1108',
@@ -14404,6 +15511,7 @@ return [
         'code_commune' => 3608,
         'Lat' => 36.85,
         'Long' => 8.2024232,
+        'surface_km2' => 115.16,
     ],
     [
         'id' => '1109',
@@ -14417,6 +15525,7 @@ return [
         'code_commune' => 3612,
         'Lat' => 36.611111,
         'Long' => 8.1632766,
+        'surface_km2' => 191.77,
     ],
     [
         'id' => '1110',
@@ -14430,6 +15539,7 @@ return [
         'code_commune' => 3611,
         'Lat' => 36.775556,
         'Long' => 8.1180556,
+        'surface_km2' => 85.8,
     ],
     [
         'id' => '1111',
@@ -14443,6 +15553,7 @@ return [
         'code_commune' => 3614,
         'Lat' => 36.646944,
         'Long' => 7.775556,
+        'surface_km2' => 201.78,
     ],
     [
         'id' => '1112',
@@ -14456,6 +15567,7 @@ return [
         'code_commune' => 3624,
         'Lat' => 36.786111,
         'Long' => 8.535556,
+        'surface_km2' => 51.79,
     ],
     [
         'id' => '1113',
@@ -14469,6 +15581,7 @@ return [
         'code_commune' => 3617,
         'Lat' => 36.674167,
         'Long' => 7.7428056,
+        'surface_km2' => 105.77,
     ],
     [
         'id' => '1114',
@@ -14482,6 +15595,7 @@ return [
         'code_commune' => 3613,
         'Lat' => 36.68333333,
         'Long' => 7.75,
+        'surface_km2' => 48.29,
     ],
     [
         'id' => '1115',
@@ -14495,6 +15609,7 @@ return [
         'code_commune' => 3701,
         'Lat' => 27.670556,
         'Long' => -8.12724,
+        'surface_km2' => 73324.76,
     ],
     [
         'id' => '1116',
@@ -14508,6 +15623,7 @@ return [
         'code_commune' => 3702,
         'Lat' => 28.6125,
         'Long' => -6.978889,
+        'surface_km2' => 87460.69,
     ],
     [
         'id' => '1117',
@@ -14521,6 +15637,7 @@ return [
         'code_commune' => 3811,
         'Lat' => 35.6667,
         'Long' => 1.95,
+        'surface_km2' => 187.56,
     ],
     [
         'id' => '1118',
@@ -14534,6 +15651,7 @@ return [
         'code_commune' => 3803,
         'Lat' => 35.87111,
         'Long' => 2.01670828,
+        'surface_km2' => 288.24,
     ],
     [
         'id' => '1119',
@@ -14547,6 +15665,7 @@ return [
         'code_commune' => 3812,
         'Lat' => 35.686389,
         'Long' => 1.864167,
+        'surface_km2' => 92.33,
     ],
     [
         'id' => '1120',
@@ -14560,6 +15679,7 @@ return [
         'code_commune' => 3815,
         'Lat' => 35.825278,
         'Long' => 1.95138889,
+        'surface_km2' => 153.14,
     ],
     [
         'id' => '1121',
@@ -14573,6 +15693,7 @@ return [
         'code_commune' => 3801,
         'Lat' => 35.60722,
         'Long' => 1.8108,
+        'surface_km2' => 223.15,
     ],
     [
         'id' => '1122',
@@ -14586,6 +15707,7 @@ return [
         'code_commune' => 3808,
         'Lat' => 35.70139,
         'Long' => 1.40223,
+        'surface_km2' => 119.32,
     ],
     [
         'id' => '1123',
@@ -14599,6 +15721,7 @@ return [
         'code_commune' => 3805,
         'Lat' => 35.820278,
         'Long' => 1.7995306,
+        'surface_km2' => 116.56,
     ],
     [
         'id' => '1124',
@@ -14612,6 +15735,7 @@ return [
         'code_commune' => 3822,
         'Lat' => 35.8517,
         'Long' => 1.624722222,
+        'surface_km2' => 78.89,
     ],
     [
         'id' => '1125',
@@ -14625,6 +15749,7 @@ return [
         'code_commune' => 3818,
         'Lat' => 35.745278,
         'Long' => 1.705,
+        'surface_km2' => 164.72,
     ],
     [
         'id' => '1126',
@@ -14638,6 +15763,7 @@ return [
         'code_commune' => 3820,
         'Lat' => 35.86,
         'Long' => 1.833333333,
+        'surface_km2' => 52.51,
     ],
     [
         'id' => '1127',
@@ -14651,6 +15777,7 @@ return [
         'code_commune' => 3821,
         'Lat' => 35.890278,
         'Long' => 1.61978,
+        'surface_km2' => 64.49,
     ],
     [
         'id' => '1128',
@@ -14664,6 +15791,7 @@ return [
         'code_commune' => 3816,
         'Lat' => 35.937222,
         'Long' => 1.475277,
+        'surface_km2' => 70.23,
     ],
     [
         'id' => '1129',
@@ -14677,6 +15805,7 @@ return [
         'code_commune' => 3804,
         'Lat' => 35.93722222,
         'Long' => 1.56,
+        'surface_km2' => 121.95,
     ],
     [
         'id' => '1130',
@@ -14690,6 +15819,7 @@ return [
         'code_commune' => 3806,
         'Lat' => 35.7495,
         'Long' => 1.5485,
+        'surface_km2' => 275.75,
     ],
     [
         'id' => '1131',
@@ -14703,6 +15833,7 @@ return [
         'code_commune' => 3807,
         'Lat' => 35.7495,
         'Long' => 1.3325,
+        'surface_km2' => 141.41,
     ],
     [
         'id' => '1132',
@@ -14716,6 +15847,7 @@ return [
         'code_commune' => 3810,
         'Lat' => 35.6967,
         'Long' => 1.99664,
+        'surface_km2' => 431.68,
     ],
     [
         'id' => '1133',
@@ -14729,6 +15861,7 @@ return [
         'code_commune' => 3819,
         'Lat' => 35.711111,
         'Long' => 1.631944444,
+        'surface_km2' => 55.61,
     ],
     [
         'id' => '1134',
@@ -14742,6 +15875,7 @@ return [
         'code_commune' => 3814,
         'Lat' => 35.948056,
         'Long' => 2.112778,
+        'surface_km2' => 98.09,
     ],
     [
         'id' => '1135',
@@ -14755,6 +15889,7 @@ return [
         'code_commune' => 3809,
         'Lat' => 35.8652978,
         'Long' => 2.2674341,
+        'surface_km2' => 206.34,
     ],
     [
         'id' => '1136',
@@ -14768,6 +15903,7 @@ return [
         'code_commune' => 3813,
         'Lat' => 35.5771,
         'Long' => 1.6623,
+        'surface_km2' => 141.1,
     ],
     [
         'id' => '1137',
@@ -14781,6 +15917,7 @@ return [
         'code_commune' => 3817,
         'Lat' => 35.659722,
         'Long' => 1.603611,
+        'surface_km2' => 62.66,
     ],
     [
         'id' => '1138',
@@ -14794,6 +15931,7 @@ return [
         'code_commune' => 3802,
         'Lat' => 35.8505025,
         'Long' => 1.6170851,
+        'surface_km2' => 64.29,
     ],
     [
         'id' => '1139',
@@ -14807,6 +15945,7 @@ return [
         'code_commune' => 3915,
         'Lat' => 33.372222,
         'Long' => 7.686111,
+        'surface_km2' => 18417.32,
     ],
     [
         'id' => '1140',
@@ -14820,6 +15959,7 @@ return [
         'code_commune' => 3925,
         'Lat' => 33.246667,
         'Long' => 6.95,
+        'surface_km2' => 1369.16,
     ],
     [
         'id' => '1141',
@@ -14833,6 +15973,7 @@ return [
         'code_commune' => 3918,
         'Lat' => 33.4998054,
         'Long' => 6.930278,
+        'surface_km2' => 621.73,
     ],
     [
         'id' => '1142',
@@ -14846,6 +15987,7 @@ return [
         'code_commune' => 3916,
         'Lat' => 33.54212,
         'Long' => 6.905,
+        'surface_km2' => 490.75,
     ],
     [
         'id' => '1143',
@@ -14859,6 +16001,7 @@ return [
         'code_commune' => 3926,
         'Lat' => 33.158611,
         'Long' => 6.716944,
+        'surface_km2' => 1143.45,
     ],
     [
         'id' => '1144',
@@ -14872,6 +16015,7 @@ return [
         'code_commune' => 3907,
         'Lat' => 33.4037855,
         'Long' => 6.8264542,
+        'surface_km2' => 113.33,
     ],
     [
         'id' => '1145',
@@ -14885,6 +16029,7 @@ return [
         'code_commune' => 3904,
         'Lat' => 33.334444,
         'Long' => 6.8885733,
+        'surface_km2' => 140.39,
     ],
     [
         'id' => '1146',
@@ -14898,6 +16043,7 @@ return [
         'code_commune' => 3905,
         'Lat' => 33.2806326,
         'Long' => 6.878889,
+        'surface_km2' => 696.85,
     ],
     [
         'id' => '1147',
@@ -14911,6 +16057,7 @@ return [
         'code_commune' => 3902,
         'Lat' => 33.281111,
         'Long' => 6.4166705,
+        'surface_km2' => 509.65,
     ],
     [
         'id' => '1148',
@@ -14924,6 +16071,7 @@ return [
         'code_commune' => 3906,
         'Lat' => 33.5,
         'Long' => 6.7977914,
+        'surface_km2' => 1249.23,
     ],
     [
         'id' => '1149',
@@ -14937,6 +16085,7 @@ return [
         'code_commune' => 3919,
         'Lat' => 33.3551532,
         'Long' => 7.1517,
+        'surface_km2' => 2580.82,
     ],
     [
         'id' => '1150',
@@ -14950,6 +16099,7 @@ return [
         'code_commune' => 3920,
         'Lat' => 33.541667,
         'Long' => 6.416667,
+        'surface_km2' => 426.23,
     ],
     [
         'id' => '1151',
@@ -14963,6 +16113,7 @@ return [
         'code_commune' => 3910,
         'Lat' => 32.966667,
         'Long' => 6.7978,
+        'surface_km2' => 389.27,
     ],
     [
         'id' => '1152',
@@ -14976,6 +16127,7 @@ return [
         'code_commune' => 3909,
         'Lat' => 34.110833,
         'Long' => 6.2305556,
+        'surface_km2' => 2399.18,
     ],
     [
         'id' => '1153',
@@ -14989,6 +16141,7 @@ return [
         'code_commune' => 3908,
         'Lat' => 33.56391,
         'Long' => 6.703,
+        'surface_km2' => 1613.32,
     ],
     [
         'id' => '1154',
@@ -15002,6 +16155,7 @@ return [
         'code_commune' => 3911,
         'Lat' => 33.51667,
         'Long' => 6.95,
+        'surface_km2' => 78.37,
     ],
     [
         'id' => '1155',
@@ -15015,6 +16169,7 @@ return [
         'code_commune' => 3912,
         'Lat' => 33.477222,
         'Long' => 6.895,
+        'surface_km2' => 58.35,
     ],
     [
         'id' => '1156',
@@ -15028,6 +16183,7 @@ return [
         'code_commune' => 3913,
         'Lat' => 33.562222,
         'Long' => 6.990278,
+        'surface_km2' => 1096.45,
     ],
     [
         'id' => '1157',
@@ -15041,6 +16197,7 @@ return [
         'code_commune' => 3917,
         'Lat' => 33.42298,
         'Long' => 6.93452,
+        'surface_km2' => 462.09,
     ],
     [
         'id' => '1158',
@@ -15054,6 +16211,7 @@ return [
         'code_commune' => 3914,
         'Lat' => 33.7275,
         'Long' => 7.517222,
+        'surface_km2' => 1088.42,
     ],
     [
         'id' => '1159',
@@ -15067,6 +16225,7 @@ return [
         'code_commune' => 3903,
         'Lat' => 33.228889,
         'Long' => 6.757222,
+        'surface_km2' => 715.72,
     ],
     [
         'id' => '1160',
@@ -15080,6 +16239,7 @@ return [
         'code_commune' => 3901,
         'Lat' => 33.36111111,
         'Long' => 6.8605556,
+        'surface_km2' => 78.53,
     ],
     [
         'id' => '1161',
@@ -15093,6 +16253,7 @@ return [
         'code_commune' => 4020,
         'Lat' => 34.6667,
         'Long' => 6.7593,
+        'surface_km2' => 382.76,
     ],
     [
         'id' => '1162',
@@ -15106,6 +16267,7 @@ return [
         'code_commune' => 4013,
         'Lat' => 35.1691777,
         'Long' => 7.104722,
+        'surface_km2' => 3550.75,
     ],
     [
         'id' => '1163',
@@ -15119,6 +16281,7 @@ return [
         'code_commune' => 4017,
         'Lat' => 35.37381,
         'Long' => 7.21319,
+        'surface_km2' => 378.09,
     ],
     [
         'id' => '1164',
@@ -15132,6 +16295,7 @@ return [
         'code_commune' => 4016,
         'Lat' => 35.3,
         'Long' => 7.353056,
+        'surface_km2' => 287.67,
     ],
     [
         'id' => '1165',
@@ -15145,6 +16309,7 @@ return [
         'code_commune' => 4012,
         'Lat' => 34.91925,
         'Long' => 6.9,
+        'surface_km2' => 410.28,
     ],
     [
         'id' => '1166',
@@ -15158,6 +16323,7 @@ return [
         'code_commune' => 4019,
         'Lat' => 35.405278,
         'Long' => 6.6418,
+        'surface_km2' => 157.65,
     ],
     [
         'id' => '1167',
@@ -15171,6 +16337,7 @@ return [
         'code_commune' => 4001,
         'Lat' => 35.4358,
         'Long' => 7.1433,
+        'surface_km2' => 31.55,
     ],
     [
         'id' => '1168',
@@ -15184,6 +16351,7 @@ return [
         'code_commune' => 4003,
         'Lat' => 35.4946392,
         'Long' => 6.924305,
+        'surface_km2' => 58.04,
     ],
     [
         'id' => '1169',
@@ -15197,6 +16365,7 @@ return [
         'code_commune' => 4021,
         'Lat' => 35.364444,
         'Long' => 6.63671,
+        'surface_km2' => 152.28,
     ],
     [
         'id' => '1170',
@@ -15210,6 +16379,7 @@ return [
         'code_commune' => 4010,
         'Lat' => 35.569444,
         'Long' => 6.9,
+        'surface_km2' => 243.31,
     ],
     [
         'id' => '1171',
@@ -15223,6 +16393,7 @@ return [
         'code_commune' => 4007,
         'Lat' => 35.511111,
         'Long' => 6.3551522,
+        'surface_km2' => 168.85,
     ],
     [
         'id' => '1172',
@@ -15236,6 +16407,7 @@ return [
         'code_commune' => 4004,
         'Lat' => 35.521944,
         'Long' => 7.114444,
+        'surface_km2' => 154.59,
     ],
     [
         'id' => '1173',
@@ -15249,6 +16421,7 @@ return [
         'code_commune' => 4005,
         'Lat' => 35.466667,
         'Long' => 7.0825,
+        'surface_km2' => 186.33,
     ],
     [
         'id' => '1174',
@@ -15262,6 +16435,7 @@ return [
         'code_commune' => 4015,
         'Lat' => 35.397222,
         'Long' => 7.143056,
+        'surface_km2' => 246.14,
     ],
     [
         'id' => '1175',
@@ -15275,6 +16449,7 @@ return [
         'code_commune' => 4014,
         'Lat' => 35.31491,
         'Long' => 7.0,
+        'surface_km2' => 483.7,
     ],
     [
         'id' => '1176',
@@ -15288,6 +16463,7 @@ return [
         'code_commune' => 4006,
         'Lat' => 35.443611,
         'Long' => 7.466667,
+        'surface_km2' => 279.9,
     ],
     [
         'id' => '1177',
@@ -15301,6 +16477,7 @@ return [
         'code_commune' => 4002,
         'Lat' => 35.599444,
         'Long' => 7.24497,
+        'surface_km2' => 120.27,
     ],
     [
         'id' => '1178',
@@ -15314,6 +16491,7 @@ return [
         'code_commune' => 4008,
         'Lat' => 35.320278,
         'Long' => 6.7466351,
+        'surface_km2' => 410.24,
     ],
     [
         'id' => '1179',
@@ -15327,6 +16505,7 @@ return [
         'code_commune' => 4009,
         'Lat' => 34.915833,
         'Long' => 6.680556,
+        'surface_km2' => 350.43,
     ],
     [
         'id' => '1180',
@@ -15340,6 +16519,7 @@ return [
         'code_commune' => 4018,
         'Lat' => 35.3216667,
         'Long' => 7.1433333,
+        'surface_km2' => 585.36,
     ],
     [
         'id' => '1181',
@@ -15353,6 +16533,7 @@ return [
         'code_commune' => 4011,
         'Lat' => 35.1583333,
         'Long' => 7.01667,
+        'surface_km2' => 935.67,
     ],
     [
         'id' => '1182',
@@ -15366,6 +16547,7 @@ return [
         'code_commune' => 4101,
         'Lat' => 36.286389,
         'Long' => 7.950833333,
+        'surface_km2' => 44.54,
     ],
     [
         'id' => '1183',
@@ -15379,6 +16561,7 @@ return [
         'code_commune' => 4118,
         'Lat' => 36.178334,
         'Long' => 7.369167,
+        'surface_km2' => 109.96,
     ],
     [
         'id' => '1184',
@@ -15392,6 +16575,7 @@ return [
         'code_commune' => 4102,
         'Lat' => 36.129,
         'Long' => 7.534,
+        'surface_km2' => 181.82,
     ],
     [
         'id' => '1185',
@@ -15405,6 +16589,7 @@ return [
         'code_commune' => 4103,
         'Lat' => 36.19119,
         'Long' => 7.887778,
+        'surface_km2' => 205.92,
     ],
     [
         'id' => '1186',
@@ -15418,6 +16603,7 @@ return [
         'code_commune' => 4104,
         'Lat' => 36.357222,
         'Long' => 7.9333333,
+        'surface_km2' => 221.25,
     ],
     [
         'id' => '1187',
@@ -15431,6 +16617,7 @@ return [
         'code_commune' => 4117,
         'Lat' => 36.400556,
         'Long' => 8.191111,
+        'surface_km2' => 156.84,
     ],
     [
         'id' => '1188',
@@ -15444,6 +16631,7 @@ return [
         'code_commune' => 4105,
         'Lat' => 36.35,
         'Long' => 8.0167,
+        'surface_km2' => 149.34,
     ],
     [
         'id' => '1189',
@@ -15457,6 +16645,7 @@ return [
         'code_commune' => 4125,
         'Lat' => 35.895278,
         'Long' => 7.854045,
+        'surface_km2' => 218.93,
     ],
     [
         'id' => '1190',
@@ -15470,6 +16659,7 @@ return [
         'code_commune' => 4116,
         'Lat' => 36.033889,
         'Long' => 7.6025,
+        'surface_km2' => 222.24,
     ],
     [
         'id' => '1191',
@@ -15483,6 +16673,7 @@ return [
         'code_commune' => 4124,
         'Lat' => 35.933333,
         'Long' => 7.9170713,
+        'surface_km2' => 255.5,
     ],
     [
         'id' => '1192',
@@ -15496,6 +16687,7 @@ return [
         'code_commune' => 4106,
         'Lat' => 36.191667,
         'Long' => 7.786111,
+        'surface_km2' => 139.24,
     ],
     [
         'id' => '1193',
@@ -15509,6 +16701,7 @@ return [
         'code_commune' => 4122,
         'Lat' => 36.125,
         'Long' => 7.666667,
+        'surface_km2' => 96.77,
     ],
     [
         'id' => '1194',
@@ -15522,6 +16715,7 @@ return [
         'code_commune' => 4109,
         'Lat' => 36.1167,
         'Long' => 7.8833333,
+        'surface_km2' => 212.04,
     ],
     [
         'id' => '1195',
@@ -15535,6 +16729,7 @@ return [
         'code_commune' => 4108,
         'Lat' => 36.17,
         'Long' => 8.04028,
+        'surface_km2' => 256.74,
     ],
     [
         'id' => '1196',
@@ -15548,6 +16743,7 @@ return [
         'code_commune' => 4107,
         'Lat' => 36.227222,
         'Long' => 7.957778,
+        'surface_km2' => 161.75,
     ],
     [
         'id' => '1197',
@@ -15561,6 +16757,7 @@ return [
         'code_commune' => 4110,
         'Lat' => 36.23083333,
         'Long' => 8.2725,
+        'surface_km2' => 133.63,
     ],
     [
         'id' => '1198',
@@ -15574,6 +16771,7 @@ return [
         'code_commune' => 4111,
         'Lat' => 36.195556,
         'Long' => 8.243056712,
+        'surface_km2' => 169.95,
     ],
     [
         'id' => '1199',
@@ -15587,6 +16785,7 @@ return [
         'code_commune' => 4113,
         'Lat' => 36.3834462,
         'Long' => 8.315833,
+        'surface_km2' => 122.44,
     ],
     [
         'id' => '1200',
@@ -15600,6 +16799,7 @@ return [
         'code_commune' => 4112,
         'Lat' => 36.1975,
         'Long' => 8.155,
+        'surface_km2' => 115.79,
     ],
     [
         'id' => '1201',
@@ -15613,6 +16813,7 @@ return [
         'code_commune' => 4119,
         'Lat' => 36.195,
         'Long' => 8.064722,
+        'surface_km2' => 153.02,
     ],
     [
         'id' => '1202',
@@ -15626,6 +16827,7 @@ return [
         'code_commune' => 4120,
         'Lat' => 36.1537121,
         'Long' => 8.1952751,
+        'surface_km2' => 279.21,
     ],
     [
         'id' => '1203',
@@ -15639,6 +16841,7 @@ return [
         'code_commune' => 4114,
         'Lat' => 36.165611,
         'Long' => 7.4667,
+        'surface_km2' => 155.81,
     ],
     [
         'id' => '1204',
@@ -15652,6 +16855,7 @@ return [
         'code_commune' => 4121,
         'Lat' => 35.929167,
         'Long' => 7.490278,
+        'surface_km2' => 146.98,
     ],
     [
         'id' => '1205',
@@ -15665,6 +16869,7 @@ return [
         'code_commune' => 4123,
         'Lat' => 36.193056,
         'Long' => 7.658889,
+        'surface_km2' => 55.87,
     ],
     [
         'id' => '1206',
@@ -15678,6 +16883,7 @@ return [
         'code_commune' => 4115,
         'Lat' => 36.1218,
         'Long' => 7.819722222,
+        'surface_km2' => 133.65,
     ],
     [
         'id' => '1207',
@@ -15691,6 +16897,7 @@ return [
         'code_commune' => 4126,
         'Lat' => 36.195556,
         'Long' => 7.441111,
+        'surface_km2' => 123.41,
     ],
     [
         'id' => '1208',
@@ -15704,6 +16911,7 @@ return [
         'code_commune' => 4208,
         'Lat' => 36.51257,
         'Long' => 2.4142888,
+        'surface_km2' => 52.41,
     ],
     [
         'id' => '1209',
@@ -15717,6 +16925,7 @@ return [
         'code_commune' => 4216,
         'Lat' => 36.47477,
         'Long' => 2.42625,
+        'surface_km2' => 131.72,
     ],
     [
         'id' => '1210',
@@ -15730,6 +16939,7 @@ return [
         'code_commune' => 4202,
         'Lat' => 36.492,
         'Long' => 2.240556,
+        'surface_km2' => 192.65,
     ],
     [
         'id' => '1211',
@@ -15743,6 +16953,7 @@ return [
         'code_commune' => 4207,
         'Lat' => 36.502778,
         'Long' => 1.845833,
+        'surface_km2' => 30.86,
     ],
     [
         'id' => '1212',
@@ -15756,6 +16967,7 @@ return [
         'code_commune' => 4211,
         'Lat' => 36.569722,
         'Long' => 2.3123031,
+        'surface_km2' => 30.32,
     ],
     [
         'id' => '1213',
@@ -15769,6 +16981,7 @@ return [
         'code_commune' => 4209,
         'Lat' => 36.5330597,
         'Long' => 2.306389,
+        'surface_km2' => 47.06,
     ],
     [
         'id' => '1214',
@@ -15782,6 +16995,7 @@ return [
         'code_commune' => 4210,
         'Lat' => 36.5675,
         'Long' => 1.905,
+        'surface_km2' => 82.83,
     ],
     [
         'id' => '1215',
@@ -15795,6 +17009,7 @@ return [
         'code_commune' => 4222,
         'Lat' => 36.563056,
         'Long' => 2.0025,
+        'surface_km2' => 202.47,
     ],
     [
         'id' => '1216',
@@ -15808,6 +17023,7 @@ return [
         'code_commune' => 4214,
         'Lat' => 36.605,
         'Long' => 2.19083,
+        'surface_km2' => 116.93,
     ],
     [
         'id' => '1217',
@@ -15821,6 +17037,7 @@ return [
         'code_commune' => 4228,
         'Lat' => 36.573333,
         'Long' => 2.051944,
+        'surface_km2' => 21.78,
     ],
     [
         'id' => '1218',
@@ -15834,6 +17051,7 @@ return [
         'code_commune' => 4221,
         'Lat' => 36.5583006,
         'Long' => 2.1155691,
+        'surface_km2' => 35.55,
     ],
     [
         'id' => '1219',
@@ -15847,6 +17065,7 @@ return [
         'code_commune' => 4215,
         'Lat' => 36.5200245,
         'Long' => 1.704167,
+        'surface_km2' => 74.06,
     ],
     [
         'id' => '1220',
@@ -15860,6 +17079,7 @@ return [
         'code_commune' => 4203,
         'Lat' => 36.558,
         'Long' => 1.801388889,
+        'surface_km2' => 57.93,
     ],
     [
         'id' => '1221',
@@ -15873,6 +17093,7 @@ return [
         'code_commune' => 4217,
         'Lat' => 36.6667,
         'Long' => 2.742117,
+        'surface_km2' => 14.21,
     ],
     [
         'id' => '1222',
@@ -15886,6 +17107,7 @@ return [
         'code_commune' => 4213,
         'Lat' => 36.5868863,
         'Long' => 2.5842062,
+        'surface_km2' => 22.03,
     ],
     [
         'id' => '1223',
@@ -15899,6 +17121,7 @@ return [
         'code_commune' => 4220,
         'Lat' => 36.62503,
         'Long' => 2.6548,
+        'surface_km2' => 7.96,
     ],
     [
         'id' => '1224',
@@ -15912,6 +17135,7 @@ return [
         'code_commune' => 4218,
         'Lat' => 36.64262,
         'Long' => 2.6899362,
+        'surface_km2' => 12.35,
     ],
     [
         'id' => '1225',
@@ -15925,6 +17149,7 @@ return [
         'code_commune' => 4206,
         'Lat' => 36.625833,
         'Long' => 2.680833333,
+        'surface_km2' => 8.61,
     ],
     [
         'id' => '1226',
@@ -15938,6 +17163,7 @@ return [
         'code_commune' => 4219,
         'Lat' => 36.47688,
         'Long' => 2.5693337,
+        'surface_km2' => 55.21,
     ],
     [
         'id' => '1227',
@@ -15951,6 +17177,7 @@ return [
         'code_commune' => 4205,
         'Lat' => 36.4858595,
         'Long' => 2.4764,
+        'surface_km2' => 79.78,
     ],
     [
         'id' => '1228',
@@ -15964,6 +17191,7 @@ return [
         'code_commune' => 4204,
         'Lat' => 36.6737396,
         'Long' => 2.783333,
+        'surface_km2' => 10.23,
     ],
     [
         'id' => '1229',
@@ -15977,6 +17205,7 @@ return [
         'code_commune' => 4223,
         'Lat' => 36.5625,
         'Long' => 2.533333333,
+        'surface_km2' => 56.27,
     ],
     [
         'id' => '1230',
@@ -15990,6 +17219,7 @@ return [
         'code_commune' => 4225,
         'Lat' => 36.57278,
         'Long' => 2.67694,
+        'surface_km2' => 63.11,
     ],
     [
         'id' => '1231',
@@ -16003,6 +17233,7 @@ return [
         'code_commune' => 4212,
         'Lat' => 36.6251,
         'Long' => 2.729167,
+        'surface_km2' => 28.76,
     ],
     [
         'id' => '1232',
@@ -16016,6 +17247,7 @@ return [
         'code_commune' => 4224,
         'Lat' => 36.6389,
         'Long' => 2.768,
+        'surface_km2' => 38.34,
     ],
     [
         'id' => '1233',
@@ -16029,6 +17261,7 @@ return [
         'code_commune' => 4226,
         'Lat' => 36.508611,
         'Long' => 2.063889,
+        'surface_km2' => 73.12,
     ],
     [
         'id' => '1234',
@@ -16042,6 +17275,7 @@ return [
         'code_commune' => 4201,
         'Lat' => 36.591944,
         'Long' => 2.443,
+        'surface_km2' => 55.59,
     ],
     [
         'id' => '1235',
@@ -16055,6 +17289,7 @@ return [
         'code_commune' => 4227,
         'Lat' => 36.444444,
         'Long' => 1.716667,
+        'surface_km2' => 101.46,
     ],
     [
         'id' => '1236',
@@ -16068,6 +17303,7 @@ return [
         'code_commune' => 4326,
         'Lat' => 36.010247,
         'Long' => 6.231267,
+        'surface_km2' => 192.66,
     ],
     [
         'id' => '1237',
@@ -16081,6 +17317,7 @@ return [
         'code_commune' => 4329,
         'Lat' => 36.440278,
         'Long' => 5.9130761,
+        'surface_km2' => 83.59,
     ],
     [
         'id' => '1238',
@@ -16094,6 +17331,7 @@ return [
         'code_commune' => 4330,
         'Lat' => 36.3959678,
         'Long' => 5.893333,
+        'surface_km2' => 61.91,
     ],
     [
         'id' => '1239',
@@ -16107,6 +17345,7 @@ return [
         'code_commune' => 4316,
         'Lat' => 36.495833,
         'Long' => 6.32488,
+        'surface_km2' => 61.05,
     ],
     [
         'id' => '1240',
@@ -16120,6 +17359,7 @@ return [
         'code_commune' => 4323,
         'Lat' => 36.5481,
         'Long' => 6.1418,
+        'surface_km2' => 81.8,
     ],
     [
         'id' => '1241',
@@ -16133,6 +17373,7 @@ return [
         'code_commune' => 4322,
         'Lat' => 36.5375,
         'Long' => 6.065278,
+        'surface_km2' => 82.05,
     ],
     [
         'id' => '1242',
@@ -16146,6 +17387,7 @@ return [
         'code_commune' => 4319,
         'Lat' => 36.52269,
         'Long' => 5.8787288,
+        'surface_km2' => 106.92,
     ],
     [
         'id' => '1243',
@@ -16159,6 +17401,7 @@ return [
         'code_commune' => 4321,
         'Lat' => 36.5377483,
         'Long' => 5.9304039,
+        'surface_km2' => 60.01,
     ],
     [
         'id' => '1244',
@@ -16172,6 +17415,7 @@ return [
         'code_commune' => 4318,
         'Lat' => 36.521667,
         'Long' => 6.2625,
+        'surface_km2' => 35.05,
     ],
     [
         'id' => '1245',
@@ -16185,6 +17429,7 @@ return [
         'code_commune' => 4332,
         'Lat' => 36.5600819,
         'Long' => 6.2216678,
+        'surface_km2' => 50.0,
     ],
     [
         'id' => '1246',
@@ -16198,6 +17443,7 @@ return [
         'code_commune' => 4324,
         'Lat' => 36.56667,
         'Long' => 6.34,
+        'surface_km2' => 63.28,
     ],
     [
         'id' => '1247',
@@ -16211,6 +17457,7 @@ return [
         'code_commune' => 4317,
         'Lat' => 36.5167,
         'Long' => 6.33333,
+        'surface_km2' => 141.47,
     ],
     [
         'id' => '1248',
@@ -16224,6 +17471,7 @@ return [
         'code_commune' => 4313,
         'Lat' => 36.4667623,
         'Long' => 6.0396,
+        'surface_km2' => 47.88,
     ],
     [
         'id' => '1249',
@@ -16237,6 +17485,7 @@ return [
         'code_commune' => 4315,
         'Lat' => 36.457741,
         'Long' => 6.04267,
+        'surface_km2' => 97.56,
     ],
     [
         'id' => '1250',
@@ -16250,6 +17499,7 @@ return [
         'code_commune' => 4320,
         'Lat' => 36.3125,
         'Long' => 5.9580556,
+        'surface_km2' => 118.7,
     ],
     [
         'id' => '1251',
@@ -16263,6 +17513,7 @@ return [
         'code_commune' => 4328,
         'Lat' => 36.468056,
         'Long' => 6.1725,
+        'surface_km2' => 60.12,
     ],
     [
         'id' => '1252',
@@ -16276,6 +17527,7 @@ return [
         'code_commune' => 4310,
         'Lat' => 36.5,
         'Long' => 6.120833,
+        'surface_km2' => 54.0,
     ],
     [
         'id' => '1253',
@@ -16289,6 +17541,7 @@ return [
         'code_commune' => 4311,
         'Lat' => 36.390556,
         'Long' => 6.125,
+        'surface_km2' => 92.82,
     ],
     [
         'id' => '1254',
@@ -16302,6 +17555,7 @@ return [
         'code_commune' => 4308,
         'Lat' => 36.12129,
         'Long' => 5.9867,
+        'surface_km2' => 210.78,
     ],
     [
         'id' => '1255',
@@ -16315,6 +17569,7 @@ return [
         'code_commune' => 4305,
         'Lat' => 36.2755,
         'Long' => 6.1785,
+        'surface_km2' => 122.71,
     ],
     [
         'id' => '1256',
@@ -16328,6 +17583,7 @@ return [
         'code_commune' => 4312,
         'Lat' => 36.055556,
         'Long' => 6.125,
+        'surface_km2' => 253.03,
     ],
     [
         'id' => '1257',
@@ -16341,6 +17597,7 @@ return [
         'code_commune' => 4309,
         'Lat' => 36.2329371,
         'Long' => 6.0045,
+        'surface_km2' => 110.71,
     ],
     [
         'id' => '1258',
@@ -16354,6 +17611,7 @@ return [
         'code_commune' => 4306,
         'Lat' => 36.1180204,
         'Long' => 6.364167,
+        'surface_km2' => 194.6,
     ],
     [
         'id' => '1259',
@@ -16367,6 +17625,7 @@ return [
         'code_commune' => 4307,
         'Lat' => 36.170991,
         'Long' => 6.419985,
+        'surface_km2' => 149.4,
     ],
     [
         'id' => '1260',
@@ -16380,6 +17639,7 @@ return [
         'code_commune' => 4304,
         'Lat' => 36.249722,
         'Long' => 6.3438785,
+        'surface_km2' => 273.9,
     ],
     [
         'id' => '1261',
@@ -16393,6 +17653,7 @@ return [
         'code_commune' => 4325,
         'Lat' => 36.438056,
         'Long' => 6.4678234,
+        'surface_km2' => 38.19,
     ],
     [
         'id' => '1262',
@@ -16406,6 +17667,7 @@ return [
         'code_commune' => 4303,
         'Lat' => 36.1629822,
         'Long' => 6.616667,
+        'surface_km2' => 258.77,
     ],
     [
         'id' => '1263',
@@ -16419,6 +17681,7 @@ return [
         'code_commune' => 4331,
         'Lat' => 36.235278,
         'Long' => 5.592778,
+        'surface_km2' => 40.04,
     ],
     [
         'id' => '1264',
@@ -16432,6 +17695,7 @@ return [
         'code_commune' => 4302,
         'Lat' => 36.4073812,
         'Long' => 5.9419603,
+        'surface_km2' => 75.97,
     ],
     [
         'id' => '1265',
@@ -16445,6 +17709,7 @@ return [
         'code_commune' => 4327,
         'Lat' => 36.34969,
         'Long' => 6.300383,
+        'surface_km2' => 46.25,
     ],
     [
         'id' => '1266',
@@ -16458,6 +17723,7 @@ return [
         'code_commune' => 4301,
         'Lat' => 36.4503,
         'Long' => 6.2644,
+        'surface_km2' => 130.22,
     ],
     [
         'id' => '1267',
@@ -16471,6 +17737,7 @@ return [
         'code_commune' => 4314,
         'Lat' => 36.303889,
         'Long' => 6.0141667,
+        'surface_km2' => 109.33,
     ],
     [
         'id' => '1268',
@@ -16484,6 +17751,7 @@ return [
         'code_commune' => 4404,
         'Lat' => 36.261,
         'Long' => 2.220167,
+        'surface_km2' => 41.17,
     ],
     [
         'id' => '1269',
@@ -16497,6 +17765,7 @@ return [
         'code_commune' => 4424,
         'Lat' => 36.265278,
         'Long' => 2.161667,
+        'surface_km2' => 35.39,
     ],
     [
         'id' => '1270',
@@ -16510,6 +17779,7 @@ return [
         'code_commune' => 4426,
         'Lat' => 36.3536111,
         'Long' => 2.4278144,
+        'surface_km2' => 30.83,
     ],
     [
         'id' => '1271',
@@ -16523,6 +17793,7 @@ return [
         'code_commune' => 4423,
         'Lat' => 36.3327778,
         'Long' => 2.301389,
+        'surface_km2' => 100.53,
     ],
     [
         'id' => '1272',
@@ -16536,6 +17807,7 @@ return [
         'code_commune' => 4405,
         'Lat' => 36.3915345,
         'Long' => 2.395618,
+        'surface_km2' => 81.73,
     ],
     [
         'id' => '1273',
@@ -16549,6 +17821,7 @@ return [
         'code_commune' => 4409,
         'Lat' => 36.1765,
         'Long' => 1.9341,
+        'surface_km2' => 122.21,
     ],
     [
         'id' => '1274',
@@ -16562,6 +17835,7 @@ return [
         'code_commune' => 4427,
         'Lat' => 36.316667,
         'Long' => 2.4,
+        'surface_km2' => 71.56,
     ],
     [
         'id' => '1275',
@@ -16575,6 +17849,7 @@ return [
         'code_commune' => 4407,
         'Lat' => 36.2,
         'Long' => 2.083333333,
+        'surface_km2' => 204.68,
     ],
     [
         'id' => '1276',
@@ -16588,6 +17863,7 @@ return [
         'code_commune' => 4406,
         'Lat' => 36.2919441,
         'Long' => 2.133611,
+        'surface_km2' => 218.74,
     ],
     [
         'id' => '1277',
@@ -16601,6 +17877,7 @@ return [
         'code_commune' => 4429,
         'Lat' => 36.0786,
         'Long' => 2.005,
+        'surface_km2' => 137.11,
     ],
     [
         'id' => '1278',
@@ -16614,6 +17891,7 @@ return [
         'code_commune' => 4408,
         'Lat' => 36.30693,
         'Long' => 1.84816,
+        'surface_km2' => 180.7,
     ],
     [
         'id' => '1279',
@@ -16627,6 +17905,7 @@ return [
         'code_commune' => 4410,
         'Lat' => 36.22393,
         'Long' => 1.672,
+        'surface_km2' => 84.13,
     ],
     [
         'id' => '1280',
@@ -16640,6 +17919,7 @@ return [
         'code_commune' => 4435,
         'Lat' => 36.216667,
         'Long' => 1.627222,
+        'surface_km2' => 107.57,
     ],
     [
         'id' => '1281',
@@ -16653,6 +17933,7 @@ return [
         'code_commune' => 4433,
         'Lat' => 36.3150386,
         'Long' => 1.7733566,
+        'surface_km2' => 136.63,
     ],
     [
         'id' => '1282',
@@ -16666,6 +17947,7 @@ return [
         'code_commune' => 4411,
         'Lat' => 36.2706026,
         'Long' => 1.6854432,
+        'surface_km2' => 105.64,
     ],
     [
         'id' => '1283',
@@ -16679,6 +17961,7 @@ return [
         'code_commune' => 4432,
         'Lat' => 36.355833,
         'Long' => 1.888889,
+        'surface_km2' => 182.23,
     ],
     [
         'id' => '1284',
@@ -16692,6 +17975,7 @@ return [
         'code_commune' => 4428,
         'Lat' => 36.216667,
         'Long' => 2.253056,
+        'surface_km2' => 75.07,
     ],
     [
         'id' => '1285',
@@ -16705,6 +17989,7 @@ return [
         'code_commune' => 4412,
         'Lat' => 36.218611,
         'Long' => 2.4137,
+        'surface_km2' => 162.59,
     ],
     [
         'id' => '1286',
@@ -16718,6 +18003,7 @@ return [
         'code_commune' => 4425,
         'Lat' => 36.311111,
         'Long' => 2.164,
+        'surface_km2' => 143.54,
     ],
     [
         'id' => '1287',
@@ -16731,6 +18017,7 @@ return [
         'code_commune' => 4413,
         'Lat' => 36.2,
         'Long' => 2.516667,
+        'surface_km2' => 79.28,
     ],
     [
         'id' => '1288',
@@ -16744,6 +18031,7 @@ return [
         'code_commune' => 4403,
         'Lat' => 36.370278,
         'Long' => 2.47639,
+        'surface_km2' => 128.94,
     ],
     [
         'id' => '1289',
@@ -16757,6 +18045,7 @@ return [
         'code_commune' => 4414,
         'Lat' => 36.15694444,
         'Long' => 2.404167,
+        'surface_km2' => 132.85,
     ],
     [
         'id' => '1290',
@@ -16770,6 +18059,7 @@ return [
         'code_commune' => 4420,
         'Lat' => 36.2483226,
         'Long' => 2.2973227,
+        'surface_km2' => 104.95,
     ],
     [
         'id' => '1291',
@@ -16783,6 +18073,7 @@ return [
         'code_commune' => 4415,
         'Lat' => 36.066667,
         'Long' => 2.3,
+        'surface_km2' => 244.6,
     ],
     [
         'id' => '1292',
@@ -16796,6 +18087,7 @@ return [
         'code_commune' => 4434,
         'Lat' => 36.145,
         'Long' => 1.758333,
+        'surface_km2' => 174.42,
     ],
     [
         'id' => '1293',
@@ -16809,6 +18101,7 @@ return [
         'code_commune' => 4416,
         'Lat' => 36.25,
         'Long' => 1.816667,
+        'surface_km2' => 59.18,
     ],
     [
         'id' => '1294',
@@ -16822,6 +18115,7 @@ return [
         'code_commune' => 4417,
         'Lat' => 36.163889,
         'Long' => 1.85,
+        'surface_km2' => 106.19,
     ],
     [
         'id' => '1295',
@@ -16835,6 +18129,7 @@ return [
         'code_commune' => 4419,
         'Lat' => 36.183333,
         'Long' => 2.2333333,
+        'surface_km2' => 65.86,
     ],
     [
         'id' => '1296',
@@ -16848,6 +18143,7 @@ return [
         'code_commune' => 4422,
         'Lat' => 36.1222,
         'Long' => 2.2056,
+        'surface_km2' => 169.61,
     ],
     [
         'id' => '1297',
@@ -16861,6 +18157,7 @@ return [
         'code_commune' => 4421,
         'Lat' => 36.147222,
         'Long' => 2.15,
+        'surface_km2' => 406.72,
     ],
     [
         'id' => '1298',
@@ -16874,6 +18171,7 @@ return [
         'code_commune' => 4431,
         'Lat' => 36.0333333,
         'Long' => 1.7830973,
+        'surface_km2' => 105.69,
     ],
     [
         'id' => '1299',
@@ -16887,6 +18185,7 @@ return [
         'code_commune' => 4436,
         'Lat' => 36.10778,
         'Long' => 1.8512,
+        'surface_km2' => 152.08,
     ],
     [
         'id' => '1300',
@@ -16900,6 +18199,7 @@ return [
         'code_commune' => 4418,
         'Lat' => 36.0333333,
         'Long' => 1.933611,
+        'surface_km2' => 146.8,
     ],
     [
         'id' => '1301',
@@ -16913,6 +18213,7 @@ return [
         'code_commune' => 4401,
         'Lat' => 36.2652,
         'Long' => 1.9703,
+        'surface_km2' => 104.94,
     ],
     [
         'id' => '1302',
@@ -16926,6 +18227,7 @@ return [
         'code_commune' => 4402,
         'Lat' => 36.3055,
         'Long' => 2.2325912,
+        'surface_km2' => 39.38,
     ],
     [
         'id' => '1303',
@@ -16939,6 +18241,7 @@ return [
         'code_commune' => 4430,
         'Lat' => 36.3446556,
         'Long' => 2.146111,
+        'surface_km2' => 104.44,
     ],
     [
         'id' => '1304',
@@ -16952,6 +18255,7 @@ return [
         'code_commune' => 4504,
         'Lat' => 32.7667,
         'Long' => -0.416667,
+        'surface_km2' => 812.03,
     ],
     [
         'id' => '1305',
@@ -16965,6 +18269,7 @@ return [
         'code_commune' => 4506,
         'Lat' => 32.51229,
         'Long' => -0.58816,
+        'surface_km2' => 1735.22,
     ],
     [
         'id' => '1306',
@@ -16978,6 +18283,7 @@ return [
         'code_commune' => 4507,
         'Lat' => 33.016667,
         'Long' => -0.083333333,
+        'surface_km2' => 2049.65,
     ],
     [
         'id' => '1307',
@@ -16991,6 +18297,7 @@ return [
         'code_commune' => 4511,
         'Lat' => 33.709722,
         'Long' => -1.358333,
+        'surface_km2' => 6300.52,
     ],
     [
         'id' => '1308',
@@ -17004,6 +18311,7 @@ return [
         'code_commune' => 4510,
         'Lat' => 33.7189056,
         'Long' => -0.7271479,
+        'surface_km2' => 3326.4,
     ],
     [
         'id' => '1309',
@@ -17017,6 +18325,7 @@ return [
         'code_commune' => 4503,
         'Lat' => 32.75,
         'Long' => -0.5833,
+        'surface_km2' => 1051.44,
     ],
     [
         'id' => '1310',
@@ -17030,6 +18339,7 @@ return [
         'code_commune' => 4502,
         'Lat' => 33.54453,
         'Long' => -0.2812,
+        'surface_km2' => 733.92,
     ],
     [
         'id' => '1311',
@@ -17043,6 +18353,7 @@ return [
         'code_commune' => 4512,
         'Lat' => 33.7636135,
         'Long' => -0.133333,
+        'surface_km2' => 3742.41,
     ],
     [
         'id' => '1312',
@@ -17056,6 +18367,7 @@ return [
         'code_commune' => 4509,
         'Lat' => 33.29027778,
         'Long' => -0.763889,
+        'surface_km2' => 3780.6,
     ],
     [
         'id' => '1313',
@@ -17069,6 +18381,7 @@ return [
         'code_commune' => 4501,
         'Lat' => 33.2667,
         'Long' => -0.3167,
+        'surface_km2' => 2493.51,
     ],
     [
         'id' => '1314',
@@ -17082,6 +18395,7 @@ return [
         'code_commune' => 4508,
         'Lat' => 32.3709321,
         'Long' => -0.804719988,
+        'surface_km2' => 1182.76,
     ],
     [
         'id' => '1315',
@@ -17095,6 +18409,7 @@ return [
         'code_commune' => 4505,
         'Lat' => 32.733333,
         'Long' => -0.868889,
+        'surface_km2' => 2410.37,
     ],
     [
         'id' => '1316',
@@ -17108,6 +18423,7 @@ return [
         'code_commune' => 4615,
         'Lat' => 35.354167,
         'Long' => -0.89305556,
+        'surface_km2' => 50.01,
     ],
     [
         'id' => '1317',
@@ -17121,6 +18437,7 @@ return [
         'code_commune' => 4610,
         'Lat' => 35.40889,
         'Long' => -0.65936,
+        'surface_km2' => 230.89,
     ],
     [
         'id' => '1318',
@@ -17134,6 +18451,7 @@ return [
         'code_commune' => 4602,
         'Lat' => 35.33619,
         'Long' => -1.1015,
+        'surface_km2' => 67.55,
     ],
     [
         'id' => '1319',
@@ -17147,6 +18465,7 @@ return [
         'code_commune' => 4614,
         'Lat' => 35.388333,
         'Long' => -1.094444,
+        'surface_km2' => 69.09,
     ],
     [
         'id' => '1320',
@@ -17160,6 +18479,7 @@ return [
         'code_commune' => 4603,
         'Lat' => 35.37,
         'Long' => -1.2356,
+        'surface_km2' => 32.42,
     ],
     [
         'id' => '1321',
@@ -17173,6 +18493,7 @@ return [
         'code_commune' => 4611,
         'Lat' => 35.2917711,
         'Long' => -1.029444,
+        'surface_km2' => 57.01,
     ],
     [
         'id' => '1322',
@@ -17186,6 +18507,7 @@ return [
         'code_commune' => 4608,
         'Lat' => 35.416667,
         'Long' => -1.1792,
+        'surface_km2' => 64.32,
     ],
     [
         'id' => '1323',
@@ -17199,6 +18521,7 @@ return [
         'code_commune' => 4616,
         'Lat' => 35.3725,
         'Long' => -0.811389,
+        'surface_km2' => 224.04,
     ],
     [
         'id' => '1324',
@@ -17212,6 +18535,7 @@ return [
         'code_commune' => 4619,
         'Lat' => 35.524726,
         'Long' => -1.016,
+        'surface_km2' => 88.6,
     ],
     [
         'id' => '1325',
@@ -17225,6 +18549,7 @@ return [
         'code_commune' => 4620,
         'Lat' => 35.45,
         'Long' => -1.05,
+        'surface_km2' => 59.69,
     ],
     [
         'id' => '1326',
@@ -17238,6 +18563,7 @@ return [
         'code_commune' => 4617,
         'Lat' => 35.47306,
         'Long' => -1.192667,
+        'surface_km2' => 81.78,
     ],
     [
         'id' => '1327',
@@ -17251,6 +18577,7 @@ return [
         'code_commune' => 4607,
         'Lat' => 35.2,
         'Long' => -1.069167,
+        'surface_km2' => 132.81,
     ],
     [
         'id' => '1328',
@@ -17264,6 +18591,7 @@ return [
         'code_commune' => 4622,
         'Lat' => 35.204444,
         'Long' => -1.196111,
+        'surface_km2' => 78.61,
     ],
     [
         'id' => '1329',
@@ -17277,6 +18605,7 @@ return [
         'code_commune' => 4618,
         'Lat' => 35.24893,
         'Long' => -1.25049,
+        'surface_km2' => 64.83,
     ],
     [
         'id' => '1330',
@@ -17290,6 +18619,7 @@ return [
         'code_commune' => 4613,
         'Lat' => 35.1373,
         'Long' => -0.992575,
+        'surface_km2' => 80.11,
     ],
     [
         'id' => '1331',
@@ -17303,6 +18633,7 @@ return [
         'code_commune' => 4623,
         'Lat' => 35.3004743,
         'Long' => -1.382036,
+        'surface_km2' => 57.14,
     ],
     [
         'id' => '1332',
@@ -17316,6 +18647,7 @@ return [
         'code_commune' => 4621,
         'Lat' => 35.272222,
         'Long' => -0.987222,
+        'surface_km2' => 85.9,
     ],
     [
         'id' => '1333',
@@ -17329,6 +18661,7 @@ return [
         'code_commune' => 4627,
         'Lat' => 35.224444,
         'Long' => -1.403333333,
+        'surface_km2' => 46.07,
     ],
     [
         'id' => '1334',
@@ -17342,6 +18675,7 @@ return [
         'code_commune' => 4624,
         'Lat' => 35.28123,
         'Long' => -1.313333,
+        'surface_km2' => 63.64,
     ],
     [
         'id' => '1335',
@@ -17355,6 +18689,7 @@ return [
         'code_commune' => 4625,
         'Lat' => 35.233056,
         'Long' => -1.504444,
+        'surface_km2' => 83.22,
     ],
     [
         'id' => '1336',
@@ -17368,6 +18703,7 @@ return [
         'code_commune' => 4626,
         'Lat' => 35.1862547,
         'Long' => -1.5087605,
+        'surface_km2' => 65.32,
     ],
     [
         'id' => '1337',
@@ -17381,6 +18717,7 @@ return [
         'code_commune' => 4609,
         'Lat' => 35.4075,
         'Long' => -0.881667,
+        'surface_km2' => 70.77,
     ],
     [
         'id' => '1338',
@@ -17394,6 +18731,7 @@ return [
         'code_commune' => 4628,
         'Lat' => 35.541944,
         'Long' => -1.122054,
+        'surface_km2' => 88.45,
     ],
     [
         'id' => '1339',
@@ -17407,6 +18745,7 @@ return [
         'code_commune' => 4606,
         'Lat' => 35.222222,
         'Long' => -0.983611,
+        'surface_km2' => 42.23,
     ],
     [
         'id' => '1340',
@@ -17420,6 +18759,7 @@ return [
         'code_commune' => 4612,
         'Lat' => 35.3,
         'Long' => -1.1833333,
+        'surface_km2' => 72.65,
     ],
     [
         'id' => '1341',
@@ -17433,6 +18773,7 @@ return [
         'code_commune' => 4601,
         'Lat' => 35.297,
         'Long' => -1.133333,
+        'surface_km2' => 78.19,
     ],
     [
         'id' => '1342',
@@ -17446,6 +18787,7 @@ return [
         'code_commune' => 4605,
         'Lat' => 35.57456,
         'Long' => -1.10424,
+        'surface_km2' => 50.59,
     ],
     [
         'id' => '1343',
@@ -17459,6 +18801,7 @@ return [
         'code_commune' => 4604,
         'Lat' => 35.37889,
         'Long' => -0.970488,
+        'surface_km2' => 179.53,
     ],
     [
         'id' => '1344',
@@ -17472,6 +18815,7 @@ return [
         'code_commune' => 4707,
         'Lat' => 32.536944,
         'Long' => 3.605556,
+        'surface_km2' => 2231.78,
     ],
     [
         'id' => '1345',
@@ -17485,6 +18829,7 @@ return [
         'code_commune' => 4713,
         'Lat' => 31.979444,
         'Long' => 3.7459731,
+        'surface_km2' => 4795.75,
     ],
     [
         'id' => '1346',
@@ -17498,6 +18843,7 @@ return [
         'code_commune' => 4712,
         'Lat' => 32.4766504,
         'Long' => 3.74788,
+        'surface_km2' => 706.24,
     ],
     [
         'id' => '1347',
@@ -17511,6 +18857,7 @@ return [
         'code_commune' => 4710,
         'Lat' => 32.4825,
         'Long' => 3.70771,
+        'surface_km2' => 784.04,
     ],
     [
         'id' => '1348',
@@ -17524,6 +18871,7 @@ return [
         'code_commune' => 4708,
         'Lat' => 32.4,
         'Long' => 4.2167,
+        'surface_km2' => 1923.06,
     ],
     [
         'id' => '1349',
@@ -17537,6 +18885,7 @@ return [
         'code_commune' => 4702,
         'Lat' => 32.790278,
         'Long' => 4.4882869,
+        'surface_km2' => 3359.59,
     ],
     [
         'id' => '1350',
@@ -17550,6 +18899,7 @@ return [
         'code_commune' => 4709,
         'Lat' => 32.158333,
         'Long' => 3.5889,
+        'surface_km2' => 4321.57,
     ],
     [
         'id' => '1351',
@@ -17563,6 +18913,7 @@ return [
         'code_commune' => 4705,
         'Lat' => 32.26667,
         'Long' => 3.63333,
+        'surface_km2' => 4912.33,
     ],
     [
         'id' => '1352',
@@ -17576,6 +18927,7 @@ return [
         'code_commune' => 4704,
         'Lat' => 32.82648,
         'Long' => 3.766667,
+        'surface_km2' => 2608.67,
     ],
     [
         'id' => '1353',
@@ -17589,6 +18941,7 @@ return [
         'code_commune' => 4701,
         'Lat' => 32.4833,
         'Long' => 3.6667,
+        'surface_km2' => 307.6,
     ],
     [
         'id' => '1354',
@@ -17602,6 +18955,7 @@ return [
         'code_commune' => 4815,
         'Lat' => 36.19112,
         'Long' => 0.8160086,
+        'surface_km2' => 54.32,
     ],
     [
         'id' => '1355',
@@ -17615,6 +18969,7 @@ return [
         'code_commune' => 4805,
         'Lat' => 35.8266,
         'Long' => 0.961111,
+        'surface_km2' => 147.23,
     ],
     [
         'id' => '1356',
@@ -17628,6 +18983,7 @@ return [
         'code_commune' => 4813,
         'Lat' => 35.7933416,
         'Long' => 0.801239,
+        'surface_km2' => 105.23,
     ],
     [
         'id' => '1357',
@@ -17641,6 +18997,7 @@ return [
         'code_commune' => 4832,
         'Lat' => 35.701,
         'Long' => 0.68719,
+        'surface_km2' => 111.97,
     ],
     [
         'id' => '1358',
@@ -17654,6 +19011,7 @@ return [
         'code_commune' => 4812,
         'Lat' => 35.7225,
         'Long' => 0.75,
+        'surface_km2' => 231.6,
     ],
     [
         'id' => '1359',
@@ -17667,6 +19025,7 @@ return [
         'code_commune' => 4814,
         'Lat' => 35.93,
         'Long' => 0.816667,
+        'surface_km2' => 135.13,
     ],
     [
         'id' => '1360',
@@ -17680,6 +19039,7 @@ return [
         'code_commune' => 4816,
         'Lat' => 35.7425,
         'Long' => 0.830556,
+        'surface_km2' => 77.51,
     ],
     [
         'id' => '1361',
@@ -17693,6 +19053,7 @@ return [
         'code_commune' => 4803,
         'Lat' => 35.8247,
         'Long' => 0.577778,
+        'surface_km2' => 137.82,
     ],
     [
         'id' => '1362',
@@ -17706,6 +19067,7 @@ return [
         'code_commune' => 4817,
         'Lat' => 35.732361,
         'Long' => 0.4611475,
+        'surface_km2' => 48.76,
     ],
     [
         'id' => '1363',
@@ -17719,6 +19081,7 @@ return [
         'code_commune' => 4810,
         'Lat' => 35.9111,
         'Long' => 0.51,
+        'surface_km2' => 206.64,
     ],
     [
         'id' => '1364',
@@ -17732,6 +19095,7 @@ return [
         'code_commune' => 4818,
         'Lat' => 35.60409,
         'Long' => 0.58874,
+        'surface_km2' => 289.07,
     ],
     [
         'id' => '1365',
@@ -17745,6 +19109,7 @@ return [
         'code_commune' => 4819,
         'Lat' => 35.781388,
         'Long' => 1.1302226,
+        'surface_km2' => 178.08,
     ],
     [
         'id' => '1366',
@@ -17758,6 +19123,7 @@ return [
         'code_commune' => 4834,
         'Lat' => 35.679167,
         'Long' => 1.147222,
+        'surface_km2' => 162.45,
     ],
     [
         'id' => '1367',
@@ -17771,6 +19137,7 @@ return [
         'code_commune' => 4836,
         'Lat' => 35.9108,
         'Long' => 0.816667,
+        'surface_km2' => 141.67,
     ],
     [
         'id' => '1368',
@@ -17784,6 +19151,7 @@ return [
         'code_commune' => 4822,
         'Lat' => 36.1262742,
         'Long' => 0.8801926,
+        'surface_km2' => 43.77,
     ],
     [
         'id' => '1369',
@@ -17797,6 +19165,7 @@ return [
         'code_commune' => 4824,
         'Lat' => 35.62472222,
         'Long' => 0.392778,
+        'surface_km2' => 139.16,
     ],
     [
         'id' => '1370',
@@ -17810,6 +19179,7 @@ return [
         'code_commune' => 4823,
         'Lat' => 35.580556,
         'Long' => 0.35361111,
+        'surface_km2' => 79.5,
     ],
     [
         'id' => '1371',
@@ -17823,6 +19193,7 @@ return [
         'code_commune' => 4804,
         'Lat' => 35.677778,
         'Long' => 0.342222,
+        'surface_km2' => 73.59,
     ],
     [
         'id' => '1372',
@@ -17836,6 +19207,7 @@ return [
         'code_commune' => 4825,
         'Lat' => 35.716667,
         'Long' => 0.3536111,
+        'surface_km2' => 118.15,
     ],
     [
         'id' => '1373',
@@ -17849,6 +19221,7 @@ return [
         'code_commune' => 4831,
         'Lat' => 35.916667,
         'Long' => 1.24805556,
+        'surface_km2' => 51.44,
     ],
     [
         'id' => '1374',
@@ -17862,6 +19235,7 @@ return [
         'code_commune' => 4828,
         'Lat' => 35.6625,
         'Long' => 0.861944,
+        'surface_km2' => 178.65,
     ],
     [
         'id' => '1375',
@@ -17875,6 +19249,7 @@ return [
         'code_commune' => 4820,
         'Lat' => 35.58333333,
         'Long' => 0.9246111,
+        'surface_km2' => 294.28,
     ],
     [
         'id' => '1376',
@@ -17888,6 +19263,7 @@ return [
         'code_commune' => 4806,
         'Lat' => 35.6462,
         'Long' => 0.775,
+        'surface_km2' => 145.01,
     ],
     [
         'id' => '1377',
@@ -17901,6 +19277,7 @@ return [
         'code_commune' => 4811,
         'Lat' => 35.868,
         'Long' => 1.1081265,
+        'surface_km2' => 175.61,
     ],
     [
         'id' => '1378',
@@ -17914,6 +19291,7 @@ return [
         'code_commune' => 4821,
         'Lat' => 36.05,
         'Long' => 0.899078,
+        'surface_km2' => 88.16,
     ],
     [
         'id' => '1379',
@@ -17927,6 +19305,7 @@ return [
         'code_commune' => 4837,
         'Lat' => 36.00333,
         'Long' => 1.010278,
+        'surface_km2' => 67.94,
     ],
     [
         'id' => '1380',
@@ -17940,6 +19319,7 @@ return [
         'code_commune' => 4838,
         'Lat' => 35.973889,
         'Long' => 0.691667,
+        'surface_km2' => 86.03,
     ],
     [
         'id' => '1381',
@@ -17953,6 +19333,7 @@ return [
         'code_commune' => 4835,
         'Lat' => 35.719167,
         'Long' => 0.520278,
+        'surface_km2' => 113.8,
     ],
     [
         'id' => '1382',
@@ -17966,6 +19347,7 @@ return [
         'code_commune' => 4802,
         'Lat' => 35.96111111,
         'Long' => 0.9167,
+        'surface_km2' => 97.87,
     ],
     [
         'id' => '1383',
@@ -17979,6 +19361,7 @@ return [
         'code_commune' => 4833,
         'Lat' => 35.7425,
         'Long' => 1.11143,
+        'surface_km2' => 126.07,
     ],
     [
         'id' => '1384',
@@ -17992,6 +19375,7 @@ return [
         'code_commune' => 4808,
         'Lat' => 36.14472222,
         'Long' => 0.843056,
+        'surface_km2' => 80.3,
     ],
     [
         'id' => '1385',
@@ -18005,6 +19389,7 @@ return [
         'code_commune' => 4809,
         'Lat' => 36.12445404,
         'Long' => 0.747250618,
+        'surface_km2' => 150.98,
     ],
     [
         'id' => '1386',
@@ -18018,6 +19403,7 @@ return [
         'code_commune' => 4830,
         'Lat' => 36.111389,
         'Long' => 0.663611111,
+        'surface_km2' => 93.48,
     ],
     [
         'id' => '1387',
@@ -18031,6 +19417,7 @@ return [
         'code_commune' => 4826,
         'Lat' => 35.797222,
         'Long' => 0.6167687,
+        'surface_km2' => 179.56,
     ],
     [
         'id' => '1388',
@@ -18044,6 +19431,7 @@ return [
         'code_commune' => 4829,
         'Lat' => 35.8928056,
         'Long' => 0.983333,
+        'surface_km2' => 74.49,
     ],
     [
         'id' => '1389',
@@ -18057,6 +19445,7 @@ return [
         'code_commune' => 4801,
         'Lat' => 35.7333,
         'Long' => 0.5588787,
+        'surface_km2' => 109.67,
     ],
     [
         'id' => '1390',
@@ -18070,6 +19459,7 @@ return [
         'code_commune' => 4807,
         'Lat' => 35.9,
         'Long' => 0.774675,
+        'surface_km2' => 121.18,
     ],
     [
         'id' => '1391',
@@ -18083,6 +19473,7 @@ return [
         'code_commune' => 4827,
         'Lat' => 35.866667,
         'Long' => 1.283333333,
+        'surface_km2' => 157.14,
     ],
     [
         'id' => '1392',
@@ -18096,6 +19487,7 @@ return [
         'code_commune' => 116,
         'Lat' => 29.0,
         'Long' => 0.1567,
+        'surface_km2' => 20141.78,
     ],
     [
         'id' => '1393',
@@ -18109,6 +19501,7 @@ return [
         'code_commune' => 109,
         'Lat' => 29.25,
         'Long' => 0.2285923,
+        'surface_km2' => 9768.1,
     ],
     [
         'id' => '1394',
@@ -18122,6 +19515,7 @@ return [
         'code_commune' => 110,
         'Lat' => 29.23194444,
         'Long' => 0.2387556,
+        'surface_km2' => 656.78,
     ],
     [
         'id' => '1395',
@@ -18135,6 +19529,7 @@ return [
         'code_commune' => 120,
         'Lat' => 28.589167,
         'Long' => -0.149722,
+        'surface_km2' => 1420.85,
     ],
     [
         'id' => '1396',
@@ -18148,6 +19543,7 @@ return [
         'code_commune' => 124,
         'Lat' => 29.0167,
         'Long' => -0.4975,
+        'surface_km2' => 2945.92,
     ],
     [
         'id' => '1397',
@@ -18161,6 +19557,7 @@ return [
         'code_commune' => 127,
         'Lat' => 29.418333,
         'Long' => -0.089167,
+        'surface_km2' => 4164.78,
     ],
     [
         'id' => '1398',
@@ -18174,6 +19571,7 @@ return [
         'code_commune' => 103,
         'Lat' => 29.018611,
         'Long' => -0.257778,
+        'surface_km2' => 2878.1,
     ],
     [
         'id' => '1399',
@@ -18187,6 +19585,7 @@ return [
         'code_commune' => 123,
         'Lat' => 28.75,
         'Long' => 0.335278,
+        'surface_km2' => 14198.13,
     ],
     [
         'id' => '1400',
@@ -18200,6 +19599,7 @@ return [
         'code_commune' => 117,
         'Lat' => 28.702778,
         'Long' => 0.15,
+        'surface_km2' => 1204.74,
     ],
     [
         'id' => '1401',
@@ -18213,6 +19613,7 @@ return [
         'code_commune' => 107,
         'Lat' => 29.5784908,
         'Long' => 0.3739728,
+        'surface_km2' => 8066.42,
     ],
     [
         'id' => '1402',
@@ -18226,6 +19627,7 @@ return [
         'code_commune' => 128,
         'Lat' => 20.437222,
         'Long' => 1.79861,
+        'surface_km2' => 12314.29,
     ],
     [
         'id' => '1403',
@@ -18239,6 +19641,7 @@ return [
         'code_commune' => 125,
         'Lat' => 21.3292442,
         'Long' => 0.954167,
+        'surface_km2' => 120126.61,
     ],
     [
         'id' => '1404',
@@ -18252,6 +19655,7 @@ return [
         'code_commune' => 5106,
         'Lat' => 34.185603,
         'Long' => 4.4514,
+        'surface_km2' => 4784.91,
     ],
     [
         'id' => '1405',
@@ -18265,6 +19669,7 @@ return [
         'code_commune' => 5102,
         'Lat' => 34.15,
         'Long' => 4.983333,
+        'surface_km2' => 3634.66,
     ],
     [
         'id' => '1406',
@@ -18278,6 +19683,7 @@ return [
         'code_commune' => 5105,
         'Lat' => 34.387,
         'Long' => 4.983333333,
+        'surface_km2' => 217.17,
     ],
     [
         'id' => '1407',
@@ -18291,6 +19697,7 @@ return [
         'code_commune' => 5103,
         'Lat' => 34.595739,
         'Long' => 5.102266,
+        'surface_km2' => 621.57,
     ],
     [
         'id' => '1408',
@@ -18304,6 +19711,7 @@ return [
         'code_commune' => 5104,
         'Lat' => 34.5,
         'Long' => 4.55,
+        'surface_km2' => 1686.98,
     ],
     [
         'id' => '1409',
@@ -18317,6 +19725,7 @@ return [
         'code_commune' => 5101,
         'Lat' => 34.4254103,
         'Long' => 5.0644342,
+        'surface_km2' => 321.03,
     ],
     [
         'id' => '1410',
@@ -18330,6 +19739,7 @@ return [
         'code_commune' => 807,
         'Lat' => 30.08,
         'Long' => -2.17,
+        'surface_km2' => 9800.34,
     ],
     [
         'id' => '1411',
@@ -18343,6 +19753,7 @@ return [
         'code_commune' => 820,
         'Lat' => 29.91027778,
         'Long' => -1.8902778,
+        'surface_km2' => 3430.35,
     ],
     [
         'id' => '1412',
@@ -18356,6 +19767,7 @@ return [
         'code_commune' => 811,
         'Lat' => 30.26666667,
         'Long' => -2.2778396,
+        'surface_km2' => 6145.68,
     ],
     [
         'id' => '1413',
@@ -18369,6 +19781,7 @@ return [
         'code_commune' => 814,
         'Lat' => 29.86224,
         'Long' => -1.82751,
+        'surface_km2' => 8774.79,
     ],
     [
         'id' => '1414',
@@ -18382,6 +19795,7 @@ return [
         'code_commune' => 803,
         'Lat' => 29.248889,
         'Long' => -1.05748,
+        'surface_km2' => 1907.16,
     ],
     [
         'id' => '1415',
@@ -18395,6 +19809,7 @@ return [
         'code_commune' => 818,
         'Lat' => 29.45,
         'Long' => -1.416667,
+        'surface_km2' => 10615.88,
     ],
     [
         'id' => '1416',
@@ -18408,6 +19823,7 @@ return [
         'code_commune' => 805,
         'Lat' => 29.40611111,
         'Long' => -1.428333333,
+        'surface_km2' => 5684.07,
     ],
     [
         'id' => '1417',
@@ -18421,6 +19837,7 @@ return [
         'code_commune' => 819,
         'Lat' => 28.85,
         'Long' => 1.2267,
+        'surface_km2' => 2181.71,
     ],
     [
         'id' => '1418',
@@ -18434,6 +19851,7 @@ return [
         'code_commune' => 808,
         'Lat' => 29.575,
         'Long' => -1.609167,
+        'surface_km2' => 2396.48,
     ],
     [
         'id' => '1419',
@@ -18447,6 +19865,7 @@ return [
         'code_commune' => 1103,
         'Lat' => 27.2,
         'Long' => 2.511111,
+        'surface_km2' => 29245.54,
     ],
     [
         'id' => '1420',
@@ -18460,6 +19879,7 @@ return [
         'code_commune' => 1108,
         'Lat' => 27.1935,
         'Long' => 2.483333,
+        'surface_km2' => 44271.19,
     ],
     [
         'id' => '1421',
@@ -18473,6 +19893,7 @@ return [
         'code_commune' => 1110,
         'Lat' => 27.363333,
         'Long' => 2.8475,
+        'surface_km2' => 64586.94,
     ],
     [
         'id' => '1422',
@@ -18486,6 +19907,7 @@ return [
         'code_commune' => 1107,
         'Lat' => 19.953333,
         'Long' => 2.966667,
+        'surface_km2' => 46338.14,
     ],
     [
         'id' => '1423',
@@ -18499,6 +19921,7 @@ return [
         'code_commune' => 1104,
         'Lat' => 19.5696707,
         'Long' => 5.76806,
+        'surface_km2' => 52269.74,
     ],
     [
         'id' => '1424',
@@ -18512,6 +19935,7 @@ return [
         'code_commune' => 3016,
         'Lat' => 33.02194444,
         'Long' => 6.022778,
+        'surface_km2' => 314.4,
     ],
     [
         'id' => '1425',
@@ -18525,6 +19949,7 @@ return [
         'code_commune' => 3010,
         'Lat' => 33.288889,
         'Long' => 6.094444,
+        'surface_km2' => 691.52,
     ],
     [
         'id' => '1426',
@@ -18538,6 +19963,7 @@ return [
         'code_commune' => 3019,
         'Lat' => 33.183333,
         'Long' => 6.0833333,
+        'surface_km2' => 275.38,
     ],
     [
         'id' => '1427',
@@ -18551,6 +19977,7 @@ return [
         'code_commune' => 3008,
         'Lat' => 33.10527,
         'Long' => 6.050833333,
+        'surface_km2' => 151.73,
     ],
     [
         'id' => '1428',
@@ -18564,6 +19991,7 @@ return [
         'code_commune' => 5507,
         'Lat' => 32.95138889,
         'Long' => 5.980556,
+        'surface_km2' => 216.81,
     ],
     [
         'id' => '1429',
@@ -18577,6 +20005,7 @@ return [
         'code_commune' => 3007,
         'Lat' => 33.12,
         'Long' => 6.08333,
+        'surface_km2' => 24.07,
     ],
     [
         'id' => '1430',
@@ -18590,6 +20019,7 @@ return [
         'code_commune' => 3013,
         'Lat' => 33.1,
         'Long' => 6.05796,
+        'surface_km2' => 232.53,
     ],
     [
         'id' => '1431',
@@ -18603,6 +20033,7 @@ return [
         'code_commune' => 3015,
         'Lat' => 33.0829494,
         'Long' => 6.3997501,
+        'surface_km2' => 3299.58,
     ],
     [
         'id' => '1432',
@@ -18616,6 +20047,7 @@ return [
         'code_commune' => 3020,
         'Lat' => 32.6999655,
         'Long' => 5.425556,
+        'surface_km2' => 6616.2,
     ],
     [
         'id' => '1433',
@@ -18629,6 +20061,7 @@ return [
         'code_commune' => 3014,
         'Lat' => 32.6130464,
         'Long' => 5.51259,
+        'surface_km2' => 2493.92,
     ],
     [
         'id' => '1434',
@@ -18642,6 +20075,7 @@ return [
         'code_commune' => 3017,
         'Lat' => 32.84411111,
         'Long' => 6.441111,
+        'surface_km2' => 1856.69,
     ],
     [
         'id' => '1435',
@@ -18655,6 +20089,7 @@ return [
         'code_commune' => 3018,
         'Lat' => 33.12638889,
         'Long' => 6.351944,
+        'surface_km2' => 2684.5,
     ],
     [
         'id' => '1436',
@@ -18668,6 +20103,7 @@ return [
         'code_commune' => 3009,
         'Lat' => 33.1375,
         'Long' => 6.082222,
+        'surface_km2' => 31.73,
     ],
     [
         'id' => '1437',
@@ -18681,6 +20117,7 @@ return [
         'code_commune' => 3302,
         'Lat' => 24.55270656,
         'Long' => 9.4841939,
+        'surface_km2' => 58063.29,
     ],
     [
         'id' => '1438',
@@ -18694,6 +20131,7 @@ return [
         'code_commune' => 5601,
         'Lat' => 24.882778,
         'Long' => 8.434444,
+        'surface_km2' => 30753.11,
     ],
     [
         'id' => '1439',
@@ -18707,6 +20145,7 @@ return [
         'code_commune' => 3929,
         'Lat' => 34.153333,
         'Long' => 5.833333,
+        'surface_km2' => 2159.2,
     ],
     [
         'id' => '1440',
@@ -18720,6 +20159,7 @@ return [
         'code_commune' => 3930,
         'Lat' => 33.49885,
         'Long' => 6.0117531,
+        'surface_km2' => 279.55,
     ],
     [
         'id' => '1441',
@@ -18733,6 +20173,7 @@ return [
         'code_commune' => 3922,
         'Lat' => 33.476667,
         'Long' => 6.2725,
+        'surface_km2' => 1190.22,
     ],
     [
         'id' => '1442',
@@ -18746,6 +20187,7 @@ return [
         'code_commune' => 3928,
         'Lat' => 33.53388,
         'Long' => 6.0667,
+        'surface_km2' => 592.87,
     ],
     [
         'id' => '1443',
@@ -18759,6 +20201,7 @@ return [
         'code_commune' => 3924,
         'Lat' => 33.675278,
         'Long' => 6.033889,
+        'surface_km2' => 770.41,
     ],
     [
         'id' => '1444',
@@ -18772,6 +20215,7 @@ return [
         'code_commune' => 3927,
         'Lat' => 33.953,
         'Long' => 5.9242,
+        'surface_km2' => 1531.19,
     ],
     [
         'id' => '1445',
@@ -18785,6 +20229,7 @@ return [
         'code_commune' => 3921,
         'Lat' => 34.19111111,
         'Long' => 5.9293,
+        'surface_km2' => 923.2,
     ],
     [
         'id' => '1446',
@@ -18798,6 +20243,7 @@ return [
         'code_commune' => 3923,
         'Lat' => 33.8369,
         'Long' => 5.958889,
+        'surface_km2' => 639.87,
     ],
     [
         'id' => '1447',
@@ -18811,6 +20257,7 @@ return [
         'code_commune' => 5801,
         'Lat' => 30.57556,
         'Long' => 2.885833333,
+        'surface_km2' => 23945.67,
     ],
     [
         'id' => '1448',
@@ -18824,6 +20271,7 @@ return [
         'code_commune' => 5803,
         'Lat' => 30.552222,
         'Long' => 2.915,
+        'surface_km2' => 27754.68,
     ],
     [
         'id' => '1449',
@@ -18837,6 +20285,7 @@ return [
         'code_commune' => 5802,
         'Lat' => 31.605278,
         'Long' => 3.6762683,
+        'surface_km2' => 6841.74,
     ],
     [
         'id' => '1450',
@@ -18850,6 +20299,7 @@ return [
         'code_commune' => 313,
         'Lat' => 33.906111,
         'Long' => 1.784444,
+        'surface_km2' => 293.09,
     ],
     [
         'id' => '1451',
@@ -18863,6 +20313,7 @@ return [
         'code_commune' => 315,
         'Lat' => 33.9571296,
         'Long' => 1.5992068,
+        'surface_km2' => 623.21,
     ],
     [
         'id' => '1452',
@@ -18876,6 +20327,7 @@ return [
         'code_commune' => 317,
         'Lat' => 33.87186,
         'Long' => 1.8606,
+        'surface_km2' => 140.33,
     ],
     [
         'id' => '1453',
@@ -18889,6 +20341,7 @@ return [
         'code_commune' => 314,
         'Lat' => 33.930145,
         'Long' => 2.140703,
+        'surface_km2' => 1148.22,
     ],
     [
         'id' => '1454',
@@ -18902,6 +20355,7 @@ return [
         'code_commune' => 316,
         'Lat' => 34.02958,
         'Long' => 1.92798,
+        'surface_km2' => 397.72,
     ],
     [
         'id' => '1455',
@@ -18915,6 +20369,7 @@ return [
         'code_commune' => 324,
         'Lat' => 34.342777,
         'Long' => 2.261389,
+        'surface_km2' => 441.95,
     ],
     [
         'id' => '1456',
@@ -18928,6 +20383,7 @@ return [
         'code_commune' => 321,
         'Lat' => 34.1666669,
         'Long' => 2.3166669,
+        'surface_km2' => 307.46,
     ],
     [
         'id' => '1457',
@@ -18941,6 +20397,7 @@ return [
         'code_commune' => 322,
         'Lat' => 33.92422,
         'Long' => 2.4369,
+        'surface_km2' => 583.07,
     ],
     [
         'id' => '1458',
@@ -18954,6 +20411,7 @@ return [
         'code_commune' => 319,
         'Lat' => 34.11279,
         'Long' => 2.1019,
+        'surface_km2' => 303.67,
     ],
     [
         'id' => '1459',
@@ -18967,6 +20425,7 @@ return [
         'code_commune' => 529,
         'Lat' => 35.365555,
         'Long' => 5.575,
+        'surface_km2' => 286.91,
     ],
     [
         'id' => '1460',
@@ -18980,6 +20439,7 @@ return [
         'code_commune' => 518,
         'Lat' => 35.329167,
         'Long' => 5.8667,
+        'surface_km2' => 385.16,
     ],
     [
         'id' => '1461',
@@ -18993,6 +20453,7 @@ return [
         'code_commune' => 542,
         'Lat' => 35.3972,
         'Long' => 5.3658,
+        'surface_km2' => 303.04,
     ],
     [
         'id' => '1462',
@@ -19006,6 +20467,7 @@ return [
         'code_commune' => 514,
         'Lat' => 35.0333,
         'Long' => 5.3,
+        'surface_km2' => 941.54,
     ],
     [
         'id' => '1463',
@@ -19019,6 +20481,7 @@ return [
         'code_commune' => 555,
         'Lat' => 35.121,
         'Long' => 5.485278,
+        'surface_km2' => 252.91,
     ],
     [
         'id' => '1464',
@@ -19032,6 +20495,7 @@ return [
         'code_commune' => 515,
         'Lat' => 35.3667,
         'Long' => 5.1833,
+        'surface_km2' => 1042.89,
     ],
     [
         'id' => '1465',
@@ -19045,6 +20509,7 @@ return [
         'code_commune' => 543,
         'Lat' => 35.50956,
         'Long' => 5.26679,
+        'surface_km2' => 327.34,
     ],
     [
         'id' => '1466',
@@ -19058,6 +20523,7 @@ return [
         'code_commune' => 556,
         'Lat' => 35.15,
         'Long' => 5.34,
+        'surface_km2' => 77.57,
     ],
     [
         'id' => '1467',
@@ -19071,6 +20537,7 @@ return [
         'code_commune' => 1429,
         'Lat' => 35.21222,
         'Long' => 2.3189,
+        'surface_km2' => 133.49,
     ],
     [
         'id' => '1468',
@@ -19084,6 +20551,7 @@ return [
         'code_commune' => 1439,
         'Lat' => 35.254444,
         'Long' => 2.30861,
+        'surface_km2' => 366.31,
     ],
     [
         'id' => '1469',
@@ -19097,6 +20565,7 @@ return [
         'code_commune' => 1409,
         'Lat' => 34.89336,
         'Long' => 2.31,
+        'surface_km2' => 1189.53,
     ],
     [
         'id' => '1470',
@@ -19110,6 +20579,7 @@ return [
         'code_commune' => 1440,
         'Lat' => 35.553333,
         'Long' => 2.545,
+        'surface_km2' => 114.84,
     ],
     [
         'id' => '1471',
@@ -19123,6 +20593,7 @@ return [
         'code_commune' => 1435,
         'Lat' => 35.45918,
         'Long' => 1.87316,
+        'surface_km2' => 187.52,
     ],
     [
         'id' => '1472',
@@ -19136,6 +20607,7 @@ return [
         'code_commune' => 1430,
         'Lat' => 35.4081,
         'Long' => 1.9739,
+        'surface_km2' => 877.67,
     ],
     [
         'id' => '1473',
@@ -19149,6 +20621,7 @@ return [
         'code_commune' => 1722,
         'Lat' => 34.16440361,
         'Long' => 3.562011761,
+        'surface_km2' => 1940.85,
     ],
     [
         'id' => '1474',
@@ -19162,6 +20635,7 @@ return [
         'code_commune' => 1706,
         'Lat' => 33.948333,
         'Long' => 3.231111,
+        'surface_km2' => 954.76,
     ],
     [
         'id' => '1475',
@@ -19175,6 +20649,7 @@ return [
         'code_commune' => 1717,
         'Lat' => 34.15429,
         'Long' => 3.50309,
+        'surface_km2' => 153.01,
     ],
     [
         'id' => '1476',
@@ -19188,6 +20663,7 @@ return [
         'code_commune' => 1718,
         'Lat' => 33.158611,
         'Long' => 4.685277,
+        'surface_km2' => 3162.16,
     ],
     [
         'id' => '1477',
@@ -19201,6 +20677,7 @@ return [
         'code_commune' => 1729,
         'Lat' => 34.2053,
         'Long' => 3.253056,
+        'surface_km2' => 1843.09,
     ],
     [
         'id' => '1478',
@@ -19214,6 +20691,7 @@ return [
         'code_commune' => 1724,
         'Lat' => 33.720277,
         'Long' => 4.53056,
+        'surface_km2' => 5117.54,
     ],
     [
         'id' => '1479',
@@ -19227,6 +20705,7 @@ return [
         'code_commune' => 1707,
         'Lat' => 34.527777,
         'Long' => 3.781944,
+        'surface_km2' => 906.41,
     ],
     [
         'id' => '1480',
@@ -19240,6 +20719,7 @@ return [
         'code_commune' => 1734,
         'Lat' => 34.354444,
         'Long' => 3.87083333,
+        'surface_km2' => 1052.62,
     ],
     [
         'id' => '1481',
@@ -19253,6 +20733,7 @@ return [
         'code_commune' => 1720,
         'Lat' => 35.35056,
         'Long' => 3.3609,
+        'surface_km2' => 868.2,
     ],
     [
         'id' => '1482',
@@ -19266,6 +20747,7 @@ return [
         'code_commune' => 1709,
         'Lat' => 35.243889,
         'Long' => 3.75,
+        'surface_km2' => 382.54,
     ],
     [
         'id' => '1483',
@@ -19279,6 +20761,7 @@ return [
         'code_commune' => 1735,
         'Lat' => 35.433333,
         'Long' => 3.583333333,
+        'surface_km2' => 563.69,
     ],
     [
         'id' => '1484',
@@ -19292,6 +20775,7 @@ return [
         'code_commune' => 1719,
         'Lat' => 35.438055,
         'Long' => 2.5,
+        'surface_km2' => 377.81,
     ],
     [
         'id' => '1485',
@@ -19305,6 +20789,7 @@ return [
         'code_commune' => 1733,
         'Lat' => 35.436666,
         'Long' => 2.2142,
+        'surface_km2' => 499.28,
     ],
     [
         'id' => '1486',
@@ -19318,6 +20803,7 @@ return [
         'code_commune' => 1711,
         'Lat' => 35.5397,
         'Long' => 2.515833,
+        'surface_km2' => 495.47,
     ],
     [
         'id' => '1487',
@@ -19331,6 +20817,7 @@ return [
         'code_commune' => 1708,
         'Lat' => 35.6383108,
         'Long' => 3.2869,
+        'surface_km2' => 805.8,
     ],
     [
         'id' => '1488',
@@ -19344,6 +20831,7 @@ return [
         'code_commune' => 1721,
         'Lat' => 35.19970336,
         'Long' => 2.682895682,
+        'surface_km2' => 513.95,
     ],
     [
         'id' => '1489',
@@ -19357,6 +20845,7 @@ return [
         'code_commune' => 1731,
         'Lat' => 35.4542653,
         'Long' => 2.904444,
+        'surface_km2' => 739.5,
     ],
     [
         'id' => '1490',
@@ -19370,6 +20859,7 @@ return [
         'code_commune' => 1732,
         'Lat' => 35.4859395,
         'Long' => 3.1081,
+        'surface_km2' => 1079.48,
     ],
     [
         'id' => '1491',
@@ -19383,6 +20873,7 @@ return [
         'code_commune' => 2835,
         'Lat' => 35.438055,
         'Long' => 4.383333,
+        'surface_km2' => 412.04,
     ],
     [
         'id' => '1492',
@@ -19396,6 +20887,7 @@ return [
         'code_commune' => 2821,
         'Lat' => 36.2,
         'Long' => 4.174722,
+        'surface_km2' => 208.22,
     ],
     [
         'id' => '1493',
@@ -19409,6 +20901,7 @@ return [
         'code_commune' => 2822,
         'Lat' => 35.3667,
         'Long' => 3.9066533,
+        'surface_km2' => 917.06,
     ],
     [
         'id' => '1494',
@@ -19422,6 +20915,7 @@ return [
         'code_commune' => 2823,
         'Lat' => 35.173611,
         'Long' => 3.925556,
+        'surface_km2' => 577.61,
     ],
     [
         'id' => '1495',
@@ -19435,6 +20929,7 @@ return [
         'code_commune' => 2824,
         'Lat' => 35.0404431,
         'Long' => 4.5633795,
+        'surface_km2' => 427.45,
     ],
     [
         'id' => '1496',
@@ -19448,6 +20943,7 @@ return [
         'code_commune' => 2834,
         'Lat' => 34.8941667,
         'Long' => 4.428611,
+        'surface_km2' => 635.91,
     ],
     [
         'id' => '1497',
@@ -19461,6 +20957,7 @@ return [
         'code_commune' => 2825,
         'Lat' => 34.91609,
         'Long' => 4.73694444,
+        'surface_km2' => 463.97,
     ],
     [
         'id' => '1498',
@@ -19474,6 +20971,7 @@ return [
         'code_commune' => 2833,
         'Lat' => 35.0358333,
         'Long' => 4.433333,
+        'surface_km2' => 350.28,
     ],
     [
         'id' => '1499',
@@ -19487,6 +20985,7 @@ return [
         'code_commune' => 2847,
         'Lat' => 34.991121,
         'Long' => 4.092493,
+        'surface_km2' => 683.95,
     ],
     [
         'id' => '1500',
@@ -19500,6 +20999,7 @@ return [
         'code_commune' => 2843,
         'Lat' => 34.938889,
         'Long' => 3.734722222,
+        'surface_km2' => 390.38,
     ],
     [
         'id' => '1501',
@@ -19513,6 +21013,7 @@ return [
         'code_commune' => 2826,
         'Lat' => 35.2917758,
         'Long' => 4.53358,
+        'surface_km2' => 690.15,
     ],
     [
         'id' => '1502',
@@ -19526,6 +21027,7 @@ return [
         'code_commune' => 2807,
         'Lat' => 35.31444444,
         'Long' => 4.566944,
+        'surface_km2' => 379.34,
     ],
     [
         'id' => '1503',
@@ -19539,6 +21041,7 @@ return [
         'code_commune' => 2808,
         'Lat' => 35.3281,
         'Long' => 4.8,
+        'surface_km2' => 585.75,
     ],
     [
         'id' => '1504',
@@ -19552,6 +21055,7 @@ return [
         'code_commune' => 3208,
         'Lat' => 33.4100573,
         'Long' => 0.7385302,
+        'surface_km2' => 767.88,
     ],
     [
         'id' => '1505',
@@ -19565,6 +21069,7 @@ return [
         'code_commune' => 3215,
         'Lat' => 33.319167,
         'Long' => 0.957222,
+        'surface_km2' => 833.58,
     ],
     [
         'id' => '1506',
@@ -19578,6 +21083,7 @@ return [
         'code_commune' => 3216,
         'Lat' => 32.31222222,
         'Long' => 0.244444,
+        'surface_km2' => 19335.24,
     ],
     [
         'id' => '1507',
@@ -19591,6 +21097,7 @@ return [
         'code_commune' => 3204,
         'Lat' => 33.08333333,
         'Long' => 1.261,
+        'surface_km2' => 15715.74,
     ],
     [
         'id' => '1508',
@@ -19604,6 +21111,7 @@ return [
         'code_commune' => 3205,
         'Lat' => 33.377222,
         'Long' => 1.2030556,
+        'surface_km2' => 564.14,
     ],
     [
         'id' => '1509',
@@ -19617,6 +21125,7 @@ return [
         'code_commune' => 3207,
         'Lat' => 32.898611,
         'Long' => 0.544444,
+        'surface_km2' => 16026.11,
     ],
     [
         'id' => '1510',
@@ -19630,6 +21139,7 @@ return [
         'code_commune' => 3213,
         'Lat' => 32.8643,
         'Long' => 0.0201,
+        'surface_km2' => 585.54,
     ],
     [
         'id' => '1511',
@@ -19643,6 +21153,7 @@ return [
         'code_commune' => 3209,
         'Lat' => 33.08833333,
         'Long' => 0.5823,
+        'surface_km2' => 1370.84,
     ],
     [
         'id' => '1512',
@@ -19656,6 +21167,7 @@ return [
         'code_commune' => 720,
         'Lat' => 35.1026843,
         'Long' => 5.864722,
+        'surface_km2' => 250.88,
     ],
     [
         'id' => '1513',
@@ -19669,6 +21181,7 @@ return [
         'code_commune' => 7003,
         'Lat' => 34.99338,
         'Long' => 5.775,
+        'surface_km2' => 369.39,
     ],
     [
         'id' => '1514',
@@ -19682,6 +21195,7 @@ return [
         'code_commune' => 719,
         'Lat' => 35.03412,
         'Long' => 5.59517,
+        'surface_km2' => 405.79,
     ],
     [
         'id' => '1515',
@@ -19695,6 +21209,7 @@ return [
         'code_commune' => 717,
         'Lat' => 35.192365,
         'Long' => 5.6668306,
+        'surface_km2' => 238.97,
     ],
     [
         'id' => '1516',
@@ -19708,6 +21223,7 @@ return [
         'code_commune' => 718,
         'Lat' => 34.9080556,
         'Long' => 5.83,
+        'surface_km2' => 170.65,
     ],
     [
         'id' => '1517',
@@ -19721,6 +21237,7 @@ return [
         'code_commune' => 1228,
         'Lat' => 34.56233,
         'Long' => 7.412222,
+        'surface_km2' => 600.07,
     ],
     [
         'id' => '1518',
@@ -19734,6 +21251,7 @@ return [
         'code_commune' => 1209,
         'Lat' => 34.48593,
         'Long' => 7.5193093,
+        'surface_km2' => 971.91,
     ],
     [
         'id' => '1519',
@@ -19747,6 +21265,7 @@ return [
         'code_commune' => 1215,
         'Lat' => 35.121944,
         'Long' => 7.9402184,
+        'surface_km2' => 885.9,
     ],
     [
         'id' => '1520',
@@ -19760,6 +21279,7 @@ return [
         'code_commune' => 1202,
         'Lat' => 34.74488,
         'Long' => 8.06,
+        'surface_km2' => 1739.1,
     ],
     [
         'id' => '1521',
@@ -19773,6 +21293,7 @@ return [
         'code_commune' => 2633,
         'Lat' => 36.1167,
         'Long' => 3.26446,
+        'surface_km2' => 137.26,
     ],
     [
         'id' => '1522',
@@ -19786,6 +21307,7 @@ return [
         'code_commune' => 2635,
         'Lat' => 35.88889,
         'Long' => 2.74905,
+        'surface_km2' => 54.02,
     ],
     [
         'id' => '1523',
@@ -19799,6 +21321,7 @@ return [
         'code_commune' => 2649,
         'Lat' => 35.8889,
         'Long' => 2.93637,
+        'surface_km2' => 149.5,
     ],
     [
         'id' => '1524',
@@ -19812,6 +21335,7 @@ return [
         'code_commune' => 2664,
         'Lat' => 35.8514,
         'Long' => 3.253056,
+        'surface_km2' => 77.68,
     ],
     [
         'id' => '1525',
@@ -19825,6 +21349,7 @@ return [
         'code_commune' => 2610,
         'Lat' => 35.552778,
         'Long' => 2.1731,
+        'surface_km2' => 596.97,
     ],
     [
         'id' => '1526',
@@ -19838,6 +21363,7 @@ return [
         'code_commune' => 2651,
         'Lat' => 35.7533117,
         'Long' => 2.7381672,
+        'surface_km2' => 479.87,
     ],
     [
         'id' => '1527',
@@ -19851,6 +21377,7 @@ return [
         'code_commune' => 2638,
         'Lat' => 35.54472221,
         'Long' => 2.603333,
+        'surface_km2' => 498.26,
     ],
     [
         'id' => '1528',
@@ -19864,6 +21391,7 @@ return [
         'code_commune' => 2632,
         'Lat' => 35.816667,
         'Long' => 2.45,
+        'surface_km2' => 552.63,
     ],
     [
         'id' => '1529',
@@ -19877,6 +21405,7 @@ return [
         'code_commune' => 2608,
         'Lat' => 35.908611,
         'Long' => 2.38778,
+        'surface_km2' => 206.12,
     ],
     [
         'id' => '1530',
@@ -19890,6 +21419,7 @@ return [
         'code_commune' => 2642,
         'Lat' => 35.8275,
         'Long' => 2.6239,
+        'surface_km2' => 75.55,
     ],
     [
         'id' => '1531',
@@ -19903,6 +21433,7 @@ return [
         'code_commune' => 2637,
         'Lat' => 36.13821,
         'Long' => 3.42701,
+        'surface_km2' => 105.34,
     ],
     [
         'id' => '1532',
@@ -19916,6 +21447,7 @@ return [
         'code_commune' => 2628,
         'Lat' => 36.07811,
         'Long' => 3.3317554,
+        'surface_km2' => 84.0,
     ],
     [
         'id' => '1533',
@@ -19929,6 +21461,7 @@ return [
         'code_commune' => 2614,
         'Lat' => 36.00933333,
         'Long' => 3.2556,
+        'surface_km2' => 64.36,
     ],
     [
         'id' => '1534',
@@ -19942,6 +21475,7 @@ return [
         'code_commune' => 1341,
         'Lat' => 34.4609,
         'Long' => -1.5664,
+        'surface_km2' => 733.11,
     ],
     [
         'id' => '1535',
@@ -19955,6 +21489,7 @@ return [
         'code_commune' => 1343,
         'Lat' => 34.413889,
         'Long' => 1.015,
+        'surface_km2' => 722.51,
     ],
     [
         'id' => '1536',
@@ -19968,6 +21503,7 @@ return [
         'code_commune' => 1335,
         'Lat' => 34.639444,
         'Long' => -1.32694,
+        'surface_km2' => 250.01,
     ],
     [
         'id' => '1537',
@@ -19981,6 +21517,7 @@ return [
         'code_commune' => 1310,
         'Lat' => 34.63797,
         'Long' => -1.15296,
+        'surface_km2' => 804.12,
     ],
     [
         'id' => '1538',
@@ -19994,6 +21531,7 @@ return [
         'code_commune' => 1332,
         'Lat' => 34.22259,
         'Long' => -1.257,
+        'surface_km2' => 747.33,
     ],
     [
         'id' => '1539',
@@ -20007,6 +21545,7 @@ return [
         'code_commune' => 1342,
         'Lat' => 34.693889,
         'Long' => -1.5186,
+        'surface_km2' => 43.47,
     ],
     [
         'id' => '1540',
@@ -20020,6 +21559,7 @@ return [
         'code_commune' => 1317,
         'Lat' => 34.6593136,
         'Long' => -1.5450766,
+        'surface_km2' => 307.55,
     ],
     [
         'id' => '1541',
@@ -20033,5 +21573,6 @@ return [
         'code_commune' => 1321,
         'Lat' => 34.68,
         'Long' => -1.4656,
+        'surface_km2' => 134.23,
     ],
 ];

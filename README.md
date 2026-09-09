@@ -10,7 +10,8 @@ A developer-friendly and structured dataset containing all **69 wilayas (provinc
 | ----------- | ----------------------------------- |
 | Wilayas     | 69                                  |
 | Communes    | 1,541                               |
-| Coordinates | Included                            |
+| Coordinates | Included (Latitude/Longitude)       |
+| Geometries  | MultiPolygon (Surfaces) & Point (Chefs-lieux) |
 | Formats     | CSV, JSON, GeoJSON, SQL, PHP, SHP*, XLSX* |
 | Country     | Algeria 🇩🇿                          |
 
@@ -20,12 +21,15 @@ _* SHP and XLSX formats are generated automatically and available in the [Releas
 
 ## ✨ Features
 
-- Complete list of **69 Algerian wilayas**
+- Complete list of **69 Algerian wilayas** (2026 administrative organization)
 - Full coverage of **1,541 communes**
-- Accurate **latitude and longitude**
+- **MultiPolygon boundaries & surfaces** for all 1,541 communes (`algeria_communes.geojson`)
+- **MultiPolygon boundaries & surfaces** for all 69 wilayas (`algeria_wilayas.geojson`)
+- **Point coordinates** of all chefs-lieux (`algeria_cities.geojson`)
+- Accurate **surface area in km²** (`surface_km2`) for every commune and wilaya
 - Multilingual data (**Arabic / French**)
-- Available in multiple formats for easy integration
-- Ready to use for **GIS, geoportals, and backend systems**
+- Available in multiple formats for easy integration: **CSV, JSON, GeoJSON, SQL, PHP, SHP**
+- Ready to use for **GIS, Leaflet, Mapbox, QGIS, and backend systems**
 
 ---
 
@@ -34,11 +38,18 @@ _* SHP and XLSX formats are generated automatically and available in the [Releas
 ```
 algeria-cities/
 │
-├── csv/       # CSV format
-├── geojson/   # GeoJSON format (for GIS / maps)
-├── json/      # JSON format
-├── php/       # PHP arrays
-├── sql/       # SQL dump / inserts
+├── csv/
+│   └── algeria_cities.csv         # CSV format with coordinates & surface_km2
+├── geojson/
+│   ├── algeria_communes.geojson   # MultiPolygon boundaries of 1,541 communes (surfaces)
+│   ├── algeria_wilayas.geojson    # MultiPolygon boundaries of 69 wilayas (surfaces)
+│   └── algeria_cities.geojson     # Point markers for all 1,541 commune centers
+├── json/
+│   └── algeria_cities.json        # JSON format
+├── php/
+│   └── algeria_cities.php         # PHP associative array
+├── sql/
+│   └── algeria_cities.sql         # SQL dump & table schema
 └── README.md
 ```
 
@@ -46,19 +57,49 @@ algeria-cities/
 
 ## 📄 Data Structure
 
-| Column          | Type    | Description                          |
-| --------------- | ------- | ------------------------------------ |
-| id              | integer | Unique identifier of the commune     |
-| commune_name    | string  | Commune name in Arabic               |
-| commune_name_fr | string  | Commune name in French               |
-| daira_name      | string  | Daira name in Arabic                 |
-| daira_name_fr   | string  | Daira name in French                 |
-| wilaya_code     | integer | Official wilaya numeric code         |
-| wilaya_name     | string  | Wilaya name in Arabic                |
-| wilaya_name_fr  | string  | Wilaya name in French                |
-| code_commune    | string  | Official commune administrative code |
-| Lat             | float   | Latitude                             |
-| Long            | float   | Longitude                            |
+| Column          | Type    | Description                                  |
+| --------------- | ------- | -------------------------------------------- |
+| id              | integer | Unique identifier of the commune (1-1541)    |
+| commune_name    | string  | Commune name in Arabic                       |
+| commune_name_fr | string  | Commune name in French                       |
+| daira_name      | string  | Daira name in Arabic                         |
+| daira_name_fr   | string  | Daira name in French                         |
+| wilaya_code     | integer | Official wilaya numeric code (1-69)          |
+| wilaya_name     | string  | Wilaya name in Arabic                        |
+| wilaya_name_fr  | string  | Wilaya name in French                        |
+| code_commune    | integer | Official commune administrative code (ONS)   |
+| Lat             | float   | Latitude (chef-lieu)                         |
+| Long            | float   | Longitude (chef-lieu)                        |
+| surface_km2     | float   | Area / Surface in square kilometers (km²)    |
+
+---
+
+## 🗺️ GeoJSON Geometries Guide
+
+### 1. Communes Surfaces (`geojson/algeria_communes.geojson`)
+Contains vector boundaries (`Polygon` and `MultiPolygon`) for each of the 1,541 communes, allowing you to draw boundaries, compute intersections, and create thematic or choropleth maps.
+
+```javascript
+// Example: Leaflet GeoJSON layer for communes
+fetch('geojson/algeria_communes.geojson')
+  .then(res => res.json())
+  .then(data => {
+    L.geoJSON(data, {
+      style: { color: '#006233', weight: 1, fillOpacity: 0.2 },
+      onEachFeature: (feature, layer) => {
+        layer.bindPopup(`<b>${feature.properties.commune_name_fr}</b> (${feature.properties.commune_name})<br>
+                        Wilaya: ${feature.properties.wilaya_name_fr} (${feature.properties.wilaya_code})<br>
+                        Superficie: ${feature.properties.surface_km2} km²`);
+      }
+    }).addTo(map);
+  });
+```
+
+### 2. Wilayas Surfaces (`geojson/algeria_wilayas.geojson`)
+Contains the aggregated boundaries (`Polygon` and `MultiPolygon`) for each of the 69 wilayas of Algeria.
+
+### 3. Chef-lieu Points (`geojson/algeria_cities.geojson`)
+Contains lightweight `Point` coordinates for markers/pins.
 
 ---
 
