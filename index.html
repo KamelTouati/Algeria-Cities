@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Algeria Administrative Boundaries (MultiPolygon & Points) 🇩🇿</title>
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    body {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background: #ffffff;
+      color: #0f172a;
+      overflow: hidden;
+    }
+    header {
+      padding: 12px 24px;
+      background: #ffffff;
+      border-bottom: 1px solid #e2e8f0;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 1000;
+    }
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .brand h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #0f172a;
+      letter-spacing: -0.01em;
+    }
+    .controls {
+      display: flex;
+      gap: 12px;
+      align-items: center;
+    }
+    .btn-group {
+      display: flex;
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    .btn-toggle {
+      background: transparent;
+      border: none;
+      color: #475569;
+      padding: 6px 14px;
+      font-size: 0.82rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .btn-toggle.active {
+      background: #006233;
+      color: #ffffff;
+    }
+    .btn-toggle:hover:not(.active) {
+      background: #e2e8f0;
+      color: #0f172a;
+    }
+    #map {
+      flex: 1;
+      width: 100%;
+      height: 100%;
+      background: #f8fafc;
+    }
+    .info-panel {
+      position: absolute;
+      top: 75px;
+      right: 20px;
+      width: 320px;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(16px);
+      border: 1px solid #e2e8f0;
+      border-radius: 12px;
+      padding: 16px;
+      z-index: 1000;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+    }
+    .info-panel h3 {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #0f172a;
+      margin-bottom: 4px;
+    }
+    .info-panel .arabic-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #006233;
+      margin-bottom: 12px;
+      direction: rtl;
+    }
+    .info-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 7px 0;
+      border-bottom: 1px solid #f1f5f9;
+      font-size: 0.84rem;
+    }
+    .info-row:last-child {
+      border-bottom: none;
+    }
+    .info-label {
+      color: #64748b;
+    }
+    .info-value {
+      font-weight: 600;
+      color: #0f172a;
+    }
+    .stats-card {
+      position: absolute;
+      bottom: 25px;
+      left: 20px;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(16px);
+      border: 1px solid #e2e8f0;
+      border-radius: 10px;
+      padding: 10px 16px;
+      display: flex;
+      gap: 18px;
+      z-index: 1000;
+      box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08);
+      font-size: 0.82rem;
+    }
+    .stat-item {
+      display: flex;
+      flex-direction: column;
+    }
+    .stat-num {
+      font-size: 1.05rem;
+      font-weight: 700;
+      color: #006233;
+    }
+    .stat-txt {
+      color: #64748b;
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <h1>Algeria Spatial Boundaries</h1>
+    </div>
+    <div class="controls">
+      <div class="btn-group" title="Fond de carte">
+        <button class="btn-toggle active" id="btn-light">Light</button>
+        <button class="btn-toggle" id="btn-osm">OSM</button>
+        <button class="btn-toggle" id="btn-sat">Satellite</button>
+        <button class="btn-toggle" id="btn-dark">Dark</button>
+      </div>
+      <div class="btn-group">
+        <button class="btn-toggle active" id="btn-wilayas">Wilayas (69)</button>
+        <button class="btn-toggle" id="btn-communes">Communes (1541)</button>
+        <button class="btn-toggle" id="btn-points">Chefs-lieux (Points)</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="map"></div>
+
+  <div class="info-panel" id="infoPanel">
+    <h3 id="panelNameFr">Survolez un polygone</h3>
+    <div class="arabic-title" id="panelNameAr">حرك المؤشر فوق المنطقة</div>
+    <div class="info-row">
+      <span class="info-label">Code:</span>
+      <span class="info-value" id="panelCode">-</span>
+    </div>
+    <div class="info-row" id="rowDaira">
+      <span class="info-label">Daïra:</span>
+      <span class="info-value" id="panelDaira">-</span>
+    </div>
+    <div class="info-row" id="rowWilaya">
+      <span class="info-label">Wilaya:</span>
+      <span class="info-value" id="panelWilaya">-</span>
+    </div>
+    <div class="info-row">
+      <span class="info-label">Superficie:</span>
+      <span class="info-value" id="panelSurface">-</span>
+    </div>
+    <div class="info-row" id="rowCommunesCount">
+      <span class="info-label">Nombre de communes:</span>
+      <span class="info-value" id="panelCommunesCount">-</span>
+    </div>
+  </div>
+
+  <div class="stats-card">
+    <div class="stat-item">
+      <span class="stat-num">69</span>
+      <span class="stat-txt">Wilayas</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num">1 541</span>
+      <span class="stat-txt">Communes</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num">2 381 741</span>
+      <span class="stat-txt">km² Surface</span>
+    </div>
+  </div>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map', {
+      center: [28.0339, 1.6596],
+      zoom: 5,
+      zoomControl: false
+    });
+
+    L.control.zoom({ position: 'bottomright' }).addTo(map);
+
+    // Basemap layers (all 100% free, no API key required)
+    const lightLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+      attribution: '&copy; Esri &copy; OpenStreetMap',
+      maxZoom: 16
+    }).addTo(map);
+
+    const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
+      maxZoom: 19
+    });
+
+    const satLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+      attribution: '&copy; Esri World Imagery',
+      maxZoom: 18
+    });
+
+    const darkLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+      attribution: '&copy; Esri &copy; OpenStreetMap',
+      maxZoom: 16
+    });
+
+    let wilayasLayer = null;
+    let communesLayer = null;
+    let pointsLayer = null;
+
+    let activeLayerType = 'wilayas';
+
+    // Panel elements
+    const pNameFr = document.getElementById('panelNameFr');
+    const pNameAr = document.getElementById('panelNameAr');
+    const pCode = document.getElementById('panelCode');
+    const pDaira = document.getElementById('panelDaira');
+    const pWilaya = document.getElementById('panelWilaya');
+    const pSurface = document.getElementById('panelSurface');
+    const pCommunesCount = document.getElementById('panelCommunesCount');
+    const rowDaira = document.getElementById('rowDaira');
+    const rowWilaya = document.getElementById('rowWilaya');
+    const rowCommunesCount = document.getElementById('rowCommunesCount');
+
+    // Distinct palette for wilayas
+    function getWilayaColor(code) {
+      const colors = [
+        '#16a34a', '#0284c7', '#d97706', '#ea580c', '#9333ea',
+        '#db2777', '#0d9488', '#4f46e5', '#65a30d', '#0891b2'
+      ];
+      return colors[code % colors.length];
+    }
+
+    function resetHighlight(e, type) {
+      if (type === 'wilayas') {
+        wilayasLayer.resetStyle(e.target);
+      } else if (type === 'communes') {
+        communesLayer.resetStyle(e.target);
+      }
+    }
+
+    function highlightFeature(e, p, type) {
+      const layer = e.target;
+      layer.setStyle({
+        weight: 3,
+        color: '#0f172a',
+        fillOpacity: 0.65
+      });
+      layer.bringToFront();
+
+      if (type === 'wilayas') {
+        pNameFr.textContent = p.wilaya_name_fr;
+        pNameAr.textContent = p.wilaya_name;
+        pCode.textContent = `Wilaya ${p.wilaya_code}`;
+        pSurface.textContent = `${Number(p.surface_km2).toLocaleString()} km²`;
+        pCommunesCount.textContent = p.communes_count;
+        rowDaira.style.display = 'none';
+        rowWilaya.style.display = 'none';
+        rowCommunesCount.style.display = 'flex';
+      } else {
+        pNameFr.textContent = p.commune_name_fr;
+        pNameAr.textContent = p.commune_name;
+        pCode.textContent = `Commune ${p.code_commune}`;
+        pDaira.textContent = `${p.daira_name_fr} (${p.daira_name})`;
+        pWilaya.textContent = `${p.wilaya_name_fr} (${p.wilaya_code})`;
+        pSurface.textContent = `${Number(p.surface_km2).toLocaleString()} km²`;
+        rowDaira.style.display = 'flex';
+        rowWilaya.style.display = 'flex';
+        rowCommunesCount.style.display = 'none';
+      }
+    }
+
+    // Load Wilayas
+    fetch('geojson/algeria_wilayas.geojson')
+      .then(res => res.json())
+      .then(data => {
+        wilayasLayer = L.geoJSON(data, {
+          style: f => ({
+            color: '#334155',
+            weight: 1.2,
+            fillColor: getWilayaColor(f.properties.wilaya_code),
+            fillOpacity: 0.35
+          }),
+          onEachFeature: (f, layer) => {
+            layer.on({
+              mouseover: e => highlightFeature(e, f.properties, 'wilayas'),
+              mouseout: e => resetHighlight(e, 'wilayas'),
+              click: e => map.fitBounds(layer.getBounds(), { padding: [40, 40] })
+            });
+          }
+        });
+        wilayasLayer.addTo(map);
+      });
+
+    // Load Communes
+    fetch('geojson/algeria_communes.geojson')
+      .then(res => res.json())
+      .then(data => {
+        communesLayer = L.geoJSON(data, {
+          style: f => ({
+            color: '#64748b',
+            weight: 0.8,
+            fillColor: getWilayaColor(f.properties.wilaya_code),
+            fillOpacity: 0.3
+          }),
+          onEachFeature: (f, layer) => {
+            layer.on({
+              mouseover: e => highlightFeature(e, f.properties, 'communes'),
+              mouseout: e => resetHighlight(e, 'communes'),
+              click: e => map.fitBounds(layer.getBounds(), { padding: [40, 40] })
+            });
+          }
+        });
+      });
+
+    // Load Points
+    fetch('geojson/algeria_cities.geojson')
+      .then(res => res.json())
+      .then(data => {
+        pointsLayer = L.geoJSON(data, {
+          pointToLayer: (f, latlng) => {
+            return L.circleMarker(latlng, {
+              radius: 4.5,
+              fillColor: '#006233',
+              color: '#ffffff',
+              weight: 1.5,
+              opacity: 1,
+              fillOpacity: 0.9
+            });
+          },
+          onEachFeature: (f, layer) => {
+            layer.bindPopup(`<b>${f.properties.commune_name_fr}</b> (${f.properties.commune_name})<br>Wilaya: ${f.properties.wilaya_name_fr}`);
+          }
+        });
+      });
+
+    const btnLight = document.getElementById('btn-light');
+    const btnOsm = document.getElementById('btn-osm');
+    const btnSat = document.getElementById('btn-sat');
+    const btnDark = document.getElementById('btn-dark');
+
+    function setBasemap(activeBtn, layerToAdd) {
+      [btnLight, btnOsm, btnSat, btnDark].forEach(b => b.classList.remove('active'));
+      activeBtn.classList.add('active');
+      [lightLayer, osmLayer, satLayer, darkLayer].forEach(l => {
+        if (map.hasLayer(l)) map.removeLayer(l);
+      });
+      layerToAdd.addTo(map);
+      // Keep geojson layers on top
+      if (wilayasLayer && map.hasLayer(wilayasLayer)) wilayasLayer.bringToFront();
+      if (communesLayer && map.hasLayer(communesLayer)) communesLayer.bringToFront();
+      if (pointsLayer && map.hasLayer(pointsLayer)) pointsLayer.bringToFront();
+    }
+
+    btnLight.addEventListener('click', () => setBasemap(btnLight, lightLayer));
+    btnOsm.addEventListener('click', () => setBasemap(btnOsm, osmLayer));
+    btnSat.addEventListener('click', () => setBasemap(btnSat, satLayer));
+    btnDark.addEventListener('click', () => setBasemap(btnDark, darkLayer));
+
+    // Data layer buttons
+    const btnW = document.getElementById('btn-wilayas');
+    const btnC = document.getElementById('btn-communes');
+    const btnP = document.getElementById('btn-points');
+
+    function setActiveTab(btn) {
+      [btnW, btnC, btnP].forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+    }
+
+    btnW.addEventListener('click', () => {
+      setActiveTab(btnW);
+      if (communesLayer) map.removeLayer(communesLayer);
+      if (pointsLayer) map.removeLayer(pointsLayer);
+      if (wilayasLayer) wilayasLayer.addTo(map);
+    });
+
+    btnC.addEventListener('click', () => {
+      setActiveTab(btnC);
+      if (wilayasLayer) map.removeLayer(wilayasLayer);
+      if (pointsLayer) map.removeLayer(pointsLayer);
+      if (communesLayer) communesLayer.addTo(map);
+    });
+
+    btnP.addEventListener('click', () => {
+      setActiveTab(btnP);
+      if (wilayasLayer) map.removeLayer(wilayasLayer);
+      if (communesLayer) map.removeLayer(communesLayer);
+      if (pointsLayer) pointsLayer.addTo(map);
+    });
+  </script>
+</body>
+</html>
