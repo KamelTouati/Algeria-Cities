@@ -2,7 +2,8 @@
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="theme-color" content="#ffffff">
   <title>Algeria Administrative Boundaries (MultiPolygon & Points) 🇩🇿</title>
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -13,17 +14,20 @@
       margin: 0;
       padding: 0;
       font-family: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+      -webkit-tap-highlight-color: transparent;
     }
     body {
       height: 100vh;
+      height: 100dvh;
       display: flex;
       flex-direction: column;
       background: #ffffff;
       color: #0f172a;
       overflow: hidden;
+      position: relative;
     }
     header {
-      padding: 12px 24px;
+      padding: 10px 20px;
       background: #ffffff;
       border-bottom: 1px solid #e2e8f0;
       box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
@@ -31,22 +35,26 @@
       align-items: center;
       justify-content: space-between;
       z-index: 1000;
+      gap: 12px;
+      flex-shrink: 0;
     }
     .brand {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 8px;
     }
     .brand h1 {
-      font-size: 1.15rem;
+      font-size: 1.1rem;
       font-weight: 700;
       color: #0f172a;
       letter-spacing: -0.01em;
+      white-space: nowrap;
     }
     .controls {
       display: flex;
-      gap: 12px;
+      gap: 10px;
       align-items: center;
+      flex-wrap: wrap;
     }
     .btn-group {
       display: flex;
@@ -59,11 +67,12 @@
       background: transparent;
       border: none;
       color: #475569;
-      padding: 6px 14px;
-      font-size: 0.82rem;
+      padding: 6px 12px;
+      font-size: 0.8rem;
       font-weight: 500;
       cursor: pointer;
       transition: all 0.2s ease;
+      white-space: nowrap;
     }
     .btn-toggle.active {
       background: #006233;
@@ -78,37 +87,50 @@
       width: 100%;
       height: 100%;
       background: #f8fafc;
+      z-index: 1;
     }
     .info-panel {
       position: absolute;
-      top: 75px;
+      top: 70px;
       right: 20px;
       width: 320px;
-      background: rgba(255, 255, 255, 0.95);
+      background: rgba(255, 255, 255, 0.96);
       backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
       border: 1px solid #e2e8f0;
       border-radius: 12px;
       padding: 16px;
       z-index: 1000;
       box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+      transition: all 0.2s ease;
+    }
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 6px;
+      border-bottom: 1px solid #f1f5f9;
+      padding-bottom: 6px;
     }
     .info-panel h3 {
       font-size: 1.05rem;
       font-weight: 700;
       color: #0f172a;
-      margin-bottom: 4px;
     }
     .info-panel .arabic-title {
       font-size: 1.15rem;
       font-weight: 700;
       color: #006233;
-      margin-bottom: 12px;
       direction: rtl;
+    }
+    .info-grid {
+      display: flex;
+      flex-direction: column;
     }
     .info-row {
       display: flex;
       justify-content: space-between;
-      padding: 7px 0;
+      padding: 6px 0;
       border-bottom: 1px solid #f1f5f9;
       font-size: 0.84rem;
     }
@@ -124,52 +146,156 @@
     }
     .stats-card {
       position: absolute;
-      bottom: 25px;
+      bottom: 20px;
       left: 20px;
-      background: rgba(255, 255, 255, 0.95);
+      background: rgba(255, 255, 255, 0.96);
       backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
       border: 1px solid #e2e8f0;
       border-radius: 10px;
-      padding: 10px 16px;
+      padding: 8px 14px;
       display: flex;
-      gap: 18px;
+      gap: 16px;
       z-index: 1000;
       box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.08);
-      font-size: 0.82rem;
+      font-size: 0.8rem;
     }
     .stat-item {
       display: flex;
       flex-direction: column;
     }
     .stat-num {
-      font-size: 1.05rem;
+      font-size: 1rem;
       font-weight: 700;
       color: #006233;
     }
     .stat-txt {
       color: #64748b;
-      font-size: 0.72rem;
+      font-size: 0.68rem;
       text-transform: uppercase;
       font-weight: 500;
+    }
+
+    /* Mobile Responsive Styles */
+    @media (max-width: 768px) {
+      header {
+        padding: 8px 10px;
+        flex-direction: column;
+        align-items: stretch;
+        gap: 6px;
+      }
+      .brand {
+        justify-content: center;
+      }
+      .brand h1 {
+        font-size: 0.95rem;
+      }
+      .controls {
+        flex-direction: column;
+        width: 100%;
+        gap: 5px;
+      }
+      .btn-group {
+        width: 100%;
+        display: flex;
+      }
+      .btn-toggle {
+        flex: 1;
+        text-align: center;
+        padding: 6px 2px;
+        font-size: 0.72rem;
+      }
+      .info-panel {
+        top: auto;
+        bottom: 8px;
+        left: 8px;
+        right: 8px;
+        width: auto;
+        padding: 10px 14px;
+        border-radius: 12px;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+        max-height: 42vh;
+      }
+      .panel-header {
+        margin-bottom: 4px;
+        padding-bottom: 4px;
+      }
+      .info-panel h3 {
+        font-size: 0.95rem;
+      }
+      .info-panel .arabic-title {
+        font-size: 1rem;
+      }
+      .info-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 2px 10px;
+      }
+      .info-row {
+        padding: 3px 0;
+        font-size: 0.76rem;
+        border-bottom: none;
+      }
+      .stats-card {
+        bottom: auto;
+        top: 108px;
+        left: 8px;
+        padding: 4px 8px;
+        gap: 10px;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      }
+      .stat-num {
+        font-size: 0.8rem;
+      }
+      .stat-txt {
+        font-size: 0.58rem;
+      }
+      .leaflet-top.leaflet-right {
+        top: 108px !important;
+      }
+    }
+
+    /* Completely suppress Netlify Drawer / Feedback badge / HUD */
+    netlify-drawer,
+    #netlify-drawer,
+    .netlify-drawer,
+    [data-netlify-drawer],
+    [class*="netlify-drawer"],
+    [id*="netlify"],
+    [class*="netlify-feedback"],
+    [data-nf-variant],
+    iframe[src*="netlify"],
+    iframe[data-netlify-drawer] {
+      display: none !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      pointer-events: none !important;
+      width: 0 !important;
+      height: 0 !important;
+      position: absolute !important;
+      top: -99999px !important;
+      left: -99999px !important;
+      z-index: -9999 !important;
     }
   </style>
 </head>
 <body>
   <header>
     <div class="brand">
-      <h1>Algeria Spatial Boundaries</h1>
+      <h1>Algeria Spatial Boundaries 🇩🇿</h1>
     </div>
     <div class="controls">
+      <div class="btn-group" title="Couches administratives">
+        <button class="btn-toggle active" id="btn-wilayas">Wilayas (69)</button>
+        <button class="btn-toggle" id="btn-communes">Communes (1541)</button>
+        <button class="btn-toggle" id="btn-points">Chefs-lieux</button>
+      </div>
       <div class="btn-group" title="Fond de carte">
         <button class="btn-toggle active" id="btn-google">Plan</button>
         <button class="btn-toggle" id="btn-terrain">Relief</button>
         <button class="btn-toggle" id="btn-sat">Satellite</button>
         <button class="btn-toggle" id="btn-osm">OSM</button>
-      </div>
-      <div class="btn-group">
-        <button class="btn-toggle active" id="btn-wilayas">Wilayas (69)</button>
-        <button class="btn-toggle" id="btn-communes">Communes (1541)</button>
-        <button class="btn-toggle" id="btn-points">Chefs-lieux (Points)</button>
       </div>
     </div>
   </header>
@@ -177,27 +303,31 @@
   <div id="map"></div>
 
   <div class="info-panel" id="infoPanel">
-    <h3 id="panelNameFr">Survolez un polygone</h3>
-    <div class="arabic-title" id="panelNameAr">حرك المؤشر فوق المنطقة</div>
-    <div class="info-row">
-      <span class="info-label">Code:</span>
-      <span class="info-value" id="panelCode">-</span>
+    <div class="panel-header">
+      <h3 id="panelNameFr">Survolez un polygone</h3>
+      <div class="arabic-title" id="panelNameAr">حرك المؤشر</div>
     </div>
-    <div class="info-row" id="rowDaira">
-      <span class="info-label">Daïra:</span>
-      <span class="info-value" id="panelDaira">-</span>
-    </div>
-    <div class="info-row" id="rowWilaya">
-      <span class="info-label">Wilaya:</span>
-      <span class="info-value" id="panelWilaya">-</span>
-    </div>
-    <div class="info-row">
-      <span class="info-label">Superficie:</span>
-      <span class="info-value" id="panelSurface">-</span>
-    </div>
-    <div class="info-row" id="rowCommunesCount">
-      <span class="info-label">Nombre de communes:</span>
-      <span class="info-value" id="panelCommunesCount">-</span>
+    <div class="info-grid">
+      <div class="info-row">
+        <span class="info-label">Code:</span>
+        <span class="info-value" id="panelCode">-</span>
+      </div>
+      <div class="info-row" id="rowSurface">
+        <span class="info-label">Superficie:</span>
+        <span class="info-value" id="panelSurface">-</span>
+      </div>
+      <div class="info-row" id="rowDaira">
+        <span class="info-label">Daïra:</span>
+        <span class="info-value" id="panelDaira">-</span>
+      </div>
+      <div class="info-row" id="rowWilaya">
+        <span class="info-label">Wilaya:</span>
+        <span class="info-value" id="panelWilaya">-</span>
+      </div>
+      <div class="info-row" id="rowCommunesCount">
+        <span class="info-label">Communes:</span>
+        <span class="info-value" id="panelCommunesCount">-</span>
+      </div>
     </div>
   </div>
 
@@ -219,15 +349,22 @@
   <!-- Leaflet JS -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script>
+    // Remove Netlify Drawer / badge from DOM dynamically
+    const removeNetlifyDrawer = () => {
+      document.querySelectorAll('netlify-drawer, #netlify-drawer, [data-netlify-drawer], [class*="netlify"], script[src*="/.netlify/scripts/hud"]').forEach(el => el.remove());
+    };
+    removeNetlifyDrawer();
+    new MutationObserver(removeNetlifyDrawer).observe(document.documentElement, { childList: true, subtree: true });
+
     const map = L.map('map', {
       center: [28.0339, 1.6596],
       zoom: 5,
       zoomControl: false
     });
 
-    L.control.zoom({ position: 'bottomright' }).addTo(map);
+    L.control.zoom({ position: 'topright' }).addTo(map);
 
-    // Basemap layers (Matches reference image borders and styling exactly)
+    // Basemap layers
     const googleMapLayer = L.tileLayer('https://mt{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
       subdomains: ['0', '1', '2', '3'],
       attribution: '&copy; Google Maps',
@@ -255,8 +392,6 @@
     let communesLayer = null;
     let pointsLayer = null;
 
-    let activeLayerType = 'wilayas';
-
     // Panel elements
     const pNameFr = document.getElementById('panelNameFr');
     const pNameAr = document.getElementById('panelNameAr');
@@ -269,7 +404,6 @@
     const rowWilaya = document.getElementById('rowWilaya');
     const rowCommunesCount = document.getElementById('rowCommunesCount');
 
-    // Distinct palette for wilayas
     function getWilayaColor(code) {
       const colors = [
         '#16a34a', '#0284c7', '#d97706', '#ea580c', '#9333ea',
@@ -279,9 +413,9 @@
     }
 
     function resetHighlight(e, type) {
-      if (type === 'wilayas') {
+      if (type === 'wilayas' && wilayasLayer) {
         wilayasLayer.resetStyle(e.target);
-      } else if (type === 'communes') {
+      } else if (type === 'communes' && communesLayer) {
         communesLayer.resetStyle(e.target);
       }
     }
@@ -317,6 +451,13 @@
       }
     }
 
+    function fitAlgeria() {
+      if (wilayasLayer) {
+        map.invalidateSize();
+        map.fitBounds(wilayasLayer.getBounds(), { padding: [15, 15] });
+      }
+    }
+
     // Load Wilayas
     fetch('geojson/algeria_wilayas.geojson')
       .then(res => res.json())
@@ -332,11 +473,15 @@
             layer.on({
               mouseover: e => highlightFeature(e, f.properties, 'wilayas'),
               mouseout: e => resetHighlight(e, 'wilayas'),
-              click: e => map.fitBounds(layer.getBounds(), { padding: [40, 40] })
+              click: e => {
+                highlightFeature(e, f.properties, 'wilayas');
+                map.fitBounds(layer.getBounds(), { padding: [30, 30] });
+              }
             });
           }
         }).addTo(map);
-        map.fitBounds(wilayasLayer.getBounds(), { padding: [15, 15] });
+        fitAlgeria();
+        setTimeout(fitAlgeria, 300);
       });
 
     // Load Communes
@@ -354,7 +499,10 @@
             layer.on({
               mouseover: e => highlightFeature(e, f.properties, 'communes'),
               mouseout: e => resetHighlight(e, 'communes'),
-              click: e => map.fitBounds(layer.getBounds(), { padding: [40, 40] })
+              click: e => {
+                highlightFeature(e, f.properties, 'communes');
+                map.fitBounds(layer.getBounds(), { padding: [30, 30] });
+              }
             });
           }
         });
@@ -381,6 +529,10 @@
         });
       });
 
+    window.addEventListener('resize', () => {
+      map.invalidateSize();
+    });
+
     const btnGoogle = document.getElementById('btn-google');
     const btnTerrain = document.getElementById('btn-terrain');
     const btnSat = document.getElementById('btn-sat');
@@ -393,7 +545,6 @@
         if (map.hasLayer(l)) map.removeLayer(l);
       });
       layerToAdd.addTo(map);
-      // Keep geojson layers on top
       if (wilayasLayer && map.hasLayer(wilayasLayer)) wilayasLayer.bringToFront();
       if (communesLayer && map.hasLayer(communesLayer)) communesLayer.bringToFront();
       if (pointsLayer && map.hasLayer(pointsLayer)) pointsLayer.bringToFront();
