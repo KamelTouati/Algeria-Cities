@@ -8,3 +8,6 @@ shp/*.shx
 shp/*.dbf
 shp/*.prj
 shp/*.cpg
+
+# Local Netlify folder
+.netlify
