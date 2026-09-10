@@ -152,6 +152,18 @@
       text-transform: uppercase;
       font-weight: 500;
     }
+    .rasd-label {
+      background: rgba(255, 255, 255, 0.95);
+      border: 1.5px solid #006233;
+      border-radius: 6px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: #0f172a;
+      text-align: center;
+      padding: 5px 10px;
+      pointer-events: none;
+    }
   </style>
 </head>
 <body>
@@ -161,8 +173,8 @@
     </div>
     <div class="controls">
       <div class="btn-group" title="Fond de carte">
-        <button class="btn-toggle active" id="btn-light">Light</button>
-        <button class="btn-toggle" id="btn-osm">OSM</button>
+        <button class="btn-toggle active" id="btn-osm">OSM</button>
+        <button class="btn-toggle" id="btn-light">Clair (CARTO)</button>
         <button class="btn-toggle" id="btn-sat">Satellite</button>
         <button class="btn-toggle" id="btn-dark">Dark</button>
       </div>
@@ -170,6 +182,7 @@
         <button class="btn-toggle active" id="btn-wilayas">Wilayas (69)</button>
         <button class="btn-toggle" id="btn-communes">Communes (1541)</button>
         <button class="btn-toggle" id="btn-points">Chefs-lieux (Points)</button>
+        <button class="btn-toggle active" id="btn-rasd" title="Frontières officielles RASD / Sahara Occidental">RASD (Polisario)</button>
       </div>
     </div>
   </header>
@@ -228,13 +241,14 @@
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
     // Basemap layers (all 100% free, no API key required)
-    const lightLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-      attribution: '&copy; Esri &copy; OpenStreetMap',
-      maxZoom: 16
-    }).addTo(map);
-
+    // Default: OpenStreetMap (Official borders: Western Sahara / RASD clearly separated)
     const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       attribution: '&copy; OpenStreetMap contributors',
+      maxZoom: 19
+    }).addTo(map);
+
+    const lightLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; OpenStreetMap &copy; CARTO',
       maxZoom: 19
     });
 
@@ -243,14 +257,15 @@
       maxZoom: 18
     });
 
-    const darkLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-      attribution: '&copy; Esri &copy; OpenStreetMap',
-      maxZoom: 16
+    const darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; OpenStreetMap &copy; CARTO',
+      maxZoom: 19
     });
 
     let wilayasLayer = null;
     let communesLayer = null;
     let pointsLayer = null;
+    let saharaLayer = null;
 
     let activeLayerType = 'wilayas';
 
@@ -378,6 +393,46 @@
         });
       });
 
+    // Load Western Sahara / RASD (Solid international border along parallel 27°40' N)
+    fetch('geojson/western_sahara.geojson')
+      .then(res => res.json())
+      .then(data => {
+        saharaLayer = L.geoJSON(data, {
+          style: {
+            color: '#1e293b', // Solid, dark border line
+            weight: 2.2,
+            dashArray: null,  // Strictly solid
+            fillColor: '#fef08a',
+            fillOpacity: 0.22
+          },
+          onEachFeature: (f, layer) => {
+            layer.bindTooltip("<b>الجمهورية العربية الصحراوية الديمقراطية</b><br><span style='color:#006233;font-weight:600;'>República Árabe Saharaui Democrática (RASD)</span>", {
+              permanent: true,
+              direction: 'center',
+              className: 'rasd-label'
+            });
+            layer.on({
+              mouseover: e => {
+                layer.setStyle({ fillOpacity: 0.45, weight: 3.2, color: '#0f172a' });
+                pNameFr.textContent = f.properties.name_fr;
+                pNameAr.textContent = f.properties.name_ar;
+                pCode.textContent = "RASD (SADR) / Polisario";
+                pSurface.textContent = `${Number(f.properties.surface_km2).toLocaleString()} km²`;
+                pWilaya.textContent = `Capitale : ${f.properties.capital} (${f.properties.capital_ar})`;
+                pDaira.textContent = f.properties.status;
+                rowDaira.style.display = 'flex';
+                rowWilaya.style.display = 'flex';
+                rowCommunesCount.style.display = 'none';
+              },
+              mouseout: e => {
+                saharaLayer.resetStyle(layer);
+              },
+              click: e => map.fitBounds(layer.getBounds(), { padding: [40, 40] })
+            });
+          }
+        }).addTo(map);
+      });
+
     const btnLight = document.getElementById('btn-light');
     const btnOsm = document.getElementById('btn-osm');
     const btnSat = document.getElementById('btn-sat');
@@ -391,6 +446,7 @@
       });
       layerToAdd.addTo(map);
       // Keep geojson layers on top
+      if (saharaLayer && map.hasLayer(saharaLayer)) saharaLayer.bringToFront();
       if (wilayasLayer && map.hasLayer(wilayasLayer)) wilayasLayer.bringToFront();
       if (communesLayer && map.hasLayer(communesLayer)) communesLayer.bringToFront();
       if (pointsLayer && map.hasLayer(pointsLayer)) pointsLayer.bringToFront();
@@ -430,6 +486,19 @@
       if (wilayasLayer) map.removeLayer(wilayasLayer);
       if (communesLayer) map.removeLayer(communesLayer);
       if (pointsLayer) pointsLayer.addTo(map);
+    });
+
+    const btnRasd = document.getElementById('btn-rasd');
+    btnRasd.addEventListener('click', () => {
+      if (saharaLayer) {
+        if (map.hasLayer(saharaLayer)) {
+          map.removeLayer(saharaLayer);
+          btnRasd.classList.remove('active');
+        } else {
+          saharaLayer.addTo(map);
+          btnRasd.classList.add('active');
+        }
+      }
     });
   </script>
 </body>
