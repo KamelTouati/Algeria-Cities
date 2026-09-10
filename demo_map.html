@@ -161,10 +161,10 @@
     </div>
     <div class="controls">
       <div class="btn-group" title="Fond de carte">
-        <button class="btn-toggle active" id="btn-osm">OSM</button>
-        <button class="btn-toggle" id="btn-light">Clair (CARTO)</button>
+        <button class="btn-toggle active" id="btn-google">Plan</button>
+        <button class="btn-toggle" id="btn-terrain">Relief</button>
         <button class="btn-toggle" id="btn-sat">Satellite</button>
-        <button class="btn-toggle" id="btn-dark">Dark</button>
+        <button class="btn-toggle" id="btn-osm">OSM</button>
       </div>
       <div class="btn-group">
         <button class="btn-toggle active" id="btn-wilayas">Wilayas (69)</button>
@@ -227,25 +227,27 @@
 
     L.control.zoom({ position: 'bottomright' }).addTo(map);
 
-    // Basemap layers (all 100% free, no API key required)
-    // Default: OpenStreetMap (Official borders: Western Sahara / RASD clearly separated)
-    const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors',
-      maxZoom: 19
+    // Basemap layers (Matches reference image borders and styling exactly)
+    const googleMapLayer = L.tileLayer('https://mt{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+      subdomains: ['0', '1', '2', '3'],
+      attribution: '&copy; Google Maps',
+      maxZoom: 20
     }).addTo(map);
 
-    const lightLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; OpenStreetMap &copy; CARTO',
-      maxZoom: 19
+    const terrainLayer = L.tileLayer('https://mt{s}.google.com/vt/lyrs=p&x={x}&y={y}&z={z}', {
+      subdomains: ['0', '1', '2', '3'],
+      attribution: '&copy; Google Maps',
+      maxZoom: 20
     });
 
-    const satLayer = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-      attribution: '&copy; Esri World Imagery',
-      maxZoom: 18
+    const satLayer = L.tileLayer('https://mt{s}.google.com/vt/lyrs=y&x={x}&y={y}&z={z}', {
+      subdomains: ['0', '1', '2', '3'],
+      attribution: '&copy; Google Maps',
+      maxZoom: 20
     });
 
-    const darkLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-      attribution: '&copy; OpenStreetMap &copy; CARTO',
+    const osmLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; OpenStreetMap contributors',
       maxZoom: 19
     });
 
@@ -321,10 +323,10 @@
       .then(data => {
         wilayasLayer = L.geoJSON(data, {
           style: f => ({
-            color: '#334155',
-            weight: 1.2,
+            color: '#0e7490',
+            weight: 1.6,
             fillColor: getWilayaColor(f.properties.wilaya_code),
-            fillOpacity: 0.35
+            fillOpacity: 0.32
           }),
           onEachFeature: (f, layer) => {
             layer.on({
@@ -379,15 +381,15 @@
         });
       });
 
-    const btnLight = document.getElementById('btn-light');
-    const btnOsm = document.getElementById('btn-osm');
+    const btnGoogle = document.getElementById('btn-google');
+    const btnTerrain = document.getElementById('btn-terrain');
     const btnSat = document.getElementById('btn-sat');
-    const btnDark = document.getElementById('btn-dark');
+    const btnOsm = document.getElementById('btn-osm');
 
     function setBasemap(activeBtn, layerToAdd) {
-      [btnLight, btnOsm, btnSat, btnDark].forEach(b => b.classList.remove('active'));
+      [btnGoogle, btnTerrain, btnSat, btnOsm].forEach(b => b.classList.remove('active'));
       activeBtn.classList.add('active');
-      [lightLayer, osmLayer, satLayer, darkLayer].forEach(l => {
+      [googleMapLayer, terrainLayer, satLayer, osmLayer].forEach(l => {
         if (map.hasLayer(l)) map.removeLayer(l);
       });
       layerToAdd.addTo(map);
@@ -397,10 +399,10 @@
       if (pointsLayer && map.hasLayer(pointsLayer)) pointsLayer.bringToFront();
     }
 
-    btnLight.addEventListener('click', () => setBasemap(btnLight, lightLayer));
-    btnOsm.addEventListener('click', () => setBasemap(btnOsm, osmLayer));
+    btnGoogle.addEventListener('click', () => setBasemap(btnGoogle, googleMapLayer));
+    btnTerrain.addEventListener('click', () => setBasemap(btnTerrain, terrainLayer));
     btnSat.addEventListener('click', () => setBasemap(btnSat, satLayer));
-    btnDark.addEventListener('click', () => setBasemap(btnDark, darkLayer));
+    btnOsm.addEventListener('click', () => setBasemap(btnOsm, osmLayer));
 
     // Data layer buttons
     const btnW = document.getElementById('btn-wilayas');
